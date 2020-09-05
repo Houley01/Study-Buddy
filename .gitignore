@@ -1,4 +1,5 @@
-
+# Custom Files Remove 
+.DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/xamarinstudio,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=xamarinstudio,visualstudio
 
