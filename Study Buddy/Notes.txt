@@ -1,0 +1,4 @@
+TODO::
+* Add View Models.cs for each page
+* Change the 
+        <vm:AboutViewModel /> On line 9 of the .xaml files
