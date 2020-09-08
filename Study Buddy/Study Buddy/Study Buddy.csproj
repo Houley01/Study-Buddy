@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <RootNamespace>StudyBuddy</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,5 +19,8 @@
       <DependentUpon>NoteSharingPage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\DataStore\" />
   </ItemGroup>
 </Project>
