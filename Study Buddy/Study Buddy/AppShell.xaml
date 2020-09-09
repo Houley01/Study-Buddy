@@ -87,10 +87,6 @@
         <!-- WORKING HERE ADD PAGES TO ROUTE AND CONTENT TEMPLATE -->
         <ShellContent Title="Note Sharing" Icon="" Route="NoteSharingPage" ContentTemplate="{DataTemplate local:NoteSharingPage}"/>
         <ShellContent Title="Task Planning" Icon="" Route="TaskPlanningPage" ContentTemplate="{DataTemplate local:TaskPlanningPage}"/>
-        <ShellContent Title="Calendar" Icon="" Route="CalendarPage" ContentTemplate="{DataTemplate local:CalendarPage}"/>
-        <!-- <ShellContent Title="Quiz" Icon="" Route="QuizPage" ContentTemplate="{DataTemplate local:QuizPage}"/> -->
-        <ShellContent Title="Reminders" Icon="" Route="RemindersPage" ContentTemplate="{DataTemplate local:RemindersPage}"/>
-        <ShellContent Title="Setting" Icon="" Route="SettingPage" ContentTemplate="{DataTemplate local:SettingPage}"/>
     <!-- </FlyoutItem> -->
 
 
