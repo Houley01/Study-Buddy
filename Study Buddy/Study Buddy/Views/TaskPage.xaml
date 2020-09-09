@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Study_Buddy.Views.TaskPage"
+             xmlns:vm="clr-namespace:Study_Buddy.ViewModels"
+             Title="{Binding Title}">
+    <ContentPage.BindingContext>
+        <vm:TaskViewModel />
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+            <!-- <Label Text="YOU SUCK!!!"/> -->
+        <ScrollView Margin="20">
+
+            <StackLayout BindableLayout.ItemsSource="{Binding TaskItems}">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Expander>
+                            <Expander.Header>
+                                <Label Text="{Binding TaskGroup}"
+                                   FontAttributes="Bold"
+                                   FontSize="Medium" />
+                            </Expander.Header>
+                            <Expander.ContentTemplate>
+                                <DataTemplate>
+                                    <Grid Padding="10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto" />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+                                        <Label Text="{Binding Name}" />
+                                        <Label Grid.Column="1"
+                                           Text="{Binding Complete}"
+                                           FontAttributes="Italic" />
+                                    </Grid>
+                                </DataTemplate>
+                            </Expander.ContentTemplate>
+                        </Expander>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
