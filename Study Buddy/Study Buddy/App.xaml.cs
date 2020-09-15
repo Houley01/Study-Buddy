@@ -3,6 +3,10 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Study_Buddy.Services;
 using Study_Buddy.Views;
+using StudyBuddy.Services;
+using StudyBuddy.Models.Notes;
+using System.Security.Cryptography;
+using LoremNET;
 
 namespace Study_Buddy
 {
@@ -13,8 +17,22 @@ namespace Study_Buddy
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
+            AddDSEntities();
+
             MainPage = new AppShell();
+        }
+
+        private void AddDSEntities()
+        {
+            //Notes
+            DependencyService.Register<NoteDataStore>();
+
+            //Calendar
+            //DependencyService.Register<CalDataStore>();
+
+            //Tasks
+            //DependencyService.Register<TaskDataStore>();
+
         }
 
         protected override void OnStart()
