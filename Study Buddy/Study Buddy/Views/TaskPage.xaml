@@ -7,8 +7,12 @@
     <ContentPage.BindingContext>
         <vm:TaskViewModel />
     </ContentPage.BindingContext>
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Command="{Binding AddTaskCommand}"/>
+    </ContentPage.ToolbarItems>
+
     <ContentPage.Content>
-            <!-- <Label Text="YOU SUCK!!!"/> -->
         <ScrollView Margin="20">
 
             <StackLayout BindableLayout.ItemsSource="{Binding TaskItems}">
@@ -16,9 +20,24 @@
                     <DataTemplate>
                         <Expander>
                             <Expander.Header>
-                                <Label Text="{Binding TaskGroup}"
+                                <Grid BackgroundColor="{Binding BackgroundColor}" Padding="10">
+                                    <Label Text="{Binding TaskGroup}"
                                    FontAttributes="Bold"
-                                   FontSize="Medium" />
+                                   FontSize="Medium" TextColor="{Binding TextColor}" 
+                                           />
+                                    <Image Source="expand.png" 
+                                           HorizontalOptions="End"
+                                           VerticalOptions="Start">
+                                        <Image.Triggers>
+                                            <DataTrigger TargetType="Image"
+                                                         Binding="{Binding Source={RelativeSource AncestorType={x:Type Expander}}, Path=IsExpanded}"
+                                                         Value="True">
+                                                <Setter Property="Source" Value="collapse.png"/>
+                                            </DataTrigger>
+                                        </Image.Triggers>
+                                    </Image>
+                                </Grid>
+
                             </Expander.Header>
                             <Expander.ContentTemplate>
                                 <DataTemplate>
@@ -27,10 +46,8 @@
                                             <ColumnDefinition Width="Auto" />
                                             <ColumnDefinition Width="Auto" />
                                         </Grid.ColumnDefinitions>
-                                        <Label Text="{Binding Name}" />
-                                        <Label Grid.Column="1"
-                                           Text="{Binding Complete}"
-                                           FontAttributes="Italic" />
+                                        <CheckBox IsChecked="{Binding Complete}" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Name}" Grid.Column="1" Padding="10"/>
                                     </Grid>
                                 </DataTemplate>
                             </Expander.ContentTemplate>

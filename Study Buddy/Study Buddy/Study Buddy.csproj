@@ -17,6 +17,9 @@
     <Compile Remove="Views\NoteSharingPage %28copy%29.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\TaskPlanPage.xaml.cs">
+      <DependentUpon>TaskPlanPage.xaml</DependentUpon>
+    </Compile>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Views\NoteSharingPage.cs">
       <DependentUpon>NoteSharingPage.xaml</DependentUpon>
       <SubType>Code</SubType>
