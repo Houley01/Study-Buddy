@@ -2,6 +2,7 @@
 using System.Windows.Input;
 using Xamarin.Essentials;
 using Xamarin.Forms;
+using System.Collections.Generic;
 
 namespace Study_Buddy.ViewModels
 {
@@ -14,5 +15,6 @@ namespace Study_Buddy.ViewModels
         }
 
         public ICommand OpenWebCommand { get; }
+
     }
 }

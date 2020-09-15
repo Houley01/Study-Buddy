@@ -7,6 +7,7 @@
     
     <ContentPage.BindingContext>
         <vm:NoteSharingViewModel />
+        
     </ContentPage.BindingContext>
     
     <ContentPage.Resources>
@@ -20,31 +21,26 @@
             <RowDefinition Height="Auto" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
-            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
-                    <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
-                </ContentView>
-            </StackLayout>
-        </StackLayout>
-        <ScrollView Grid.Row="1">
-            <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
-                <Label Text="note sharing" FontSize="Title"/>
-                <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="0,0,0,0"/>
-                <Label FontSize="16" Padding="0,24,0,0">
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <FormattedString.Spans>
-                                <Span Text="Learn more at "/>
-                                <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                            </FormattedString.Spans>
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-                <Button Margin="0,10,0,0" Text="Learn more"
-                        Command="{Binding OpenWebCommand}"
-                        BackgroundColor="{StaticResource Primary}"
-                        TextColor="White" />
+
+        <ScrollView>
+            <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                <Picker x:Name="picker" 
+                            Title="Select a subject"
+                            TitleColor="Red"
+                            Grid.Row="1">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>IAB330</x:String>
+                            <x:String>CAB303</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+                <Label Text="Xamarin" FontSize="30"/>
+                <Label Text="Xamarin can be used to make apps" FontSize="20"/>
+                <Button Text="+"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"/>
+                <Entry Text="I am an Entry" />
             </StackLayout>
         </ScrollView>
     </Grid>
