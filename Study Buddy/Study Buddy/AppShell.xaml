@@ -2,6 +2,7 @@
 <Shell xmlns="http://xamarin.com/schemas/2014/forms" 
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:local="clr-namespace:Study_Buddy.Views"
+       xmlns:local1="clr-namespace:StudyBuddy.Views.Notes"
        Title="Study_Buddy"
        x:Class="Study_Buddy.AppShell">
 
@@ -85,7 +86,7 @@
         <ShellContent Title="About" Icon="tab_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}"/>
         <ShellContent Title="Browse" Icon="tab_feed.png" Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />
         <!-- WORKING HERE ADD PAGES TO ROUTE AND CONTENT TEMPLATE -->
-        <ShellContent Title="Note Sharing" Icon="" Route="NoteSharingPage" ContentTemplate="{DataTemplate local:NoteSharingPage}"/>
+        <ShellContent Title="Note Sharing" Icon="" Route="NoteSharingPage" ContentTemplate="{DataTemplate local1:CreateNotePage}"/>
         <ShellContent Title="Task Planning" Icon="" Route="TaskPlanningPage" ContentTemplate="{DataTemplate local:TaskPlanningPage}"/>
         <ShellContent Title="Calendar" Icon="" Route="CalendarPage" ContentTemplate="{DataTemplate local:CalendarPage}"/>
         <!-- <ShellContent Title="Quiz" Icon="" Route="QuizPage" ContentTemplate="{DataTemplate local:QuizPage}"/> -->
