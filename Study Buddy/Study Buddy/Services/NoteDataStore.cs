@@ -28,6 +28,12 @@ namespace StudyBuddy.Services
             return await Task.FromResult(this.Subjects.Where(x => x.Id == SubjectId).FirstOrDefault()?.Sections.Where(x => x.Id == SectionId).FirstOrDefault().Notes);
         }
 
+        public async Task<bool> AddNote(Guid SubjectId, Guid SectionId, Note NewNote)
+        {
+            this.Subjects.Where(x => x.Id == SubjectId).FirstOrDefault().Sections.Where(x => x.Id == SectionId).FirstOrDefault().Notes.Add(NewNote);
+            return await Task.FromResult(true);
+        }
+
 
         private void Populate_Subjects_Sections_Notes()
         {

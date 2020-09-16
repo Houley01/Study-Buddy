@@ -6,11 +6,20 @@ using Xamarin.Forms;
 using Study_Buddy.ViewModels;
 using Microsoft.EntityFrameworkCore.Internal;
 using System.Linq;
+using StudyBuddy.Models.Notes;
+using StudyBuddy.Services;
+using Study_Buddy.Services;
+using System.Runtime.CompilerServices;
 
 namespace StudyBuddy.ViewModels
 {
+    [QueryProperty("SubjectId", "_NoteSubjectId")]
+    [QueryProperty("SectionId", "_NoteSectionId")]
     public class CreateNoteViewModel : BaseViewModel
     {
+        private Guid _NoteSubjectId {get; set;}
+        private Guid _NoteSectionId { get; set; }
+
         private string title;
         public string NoteTitle      
         {
@@ -38,7 +47,6 @@ namespace StudyBuddy.ViewModels
         }
 
         public ICommand SaveCommand { get; private set; }
-        public ICommand SelectPeopleCMD { get; private set; }
 
         public CreateNoteViewModel() : base()
         {
@@ -46,12 +54,27 @@ namespace StudyBuddy.ViewModels
             text = string.Empty;
             tags = new string[] { };
             NoteVisibility = "Everyone";
-            //SaveCommand = new Command(async () => await SaveNote());
+            SaveCommand = new Command(async () => await SaveNote());
         }
 
         private async Task SaveNote()
         {
-            throw new NotImplementedException();
+            Note n = new Note()
+            {
+                Title = this.NoteTitle,
+                Content = this.NoteContent,
+                Tags = this.tags,
+                Visibility = this.NoteVisibility
+            };
+
+            var subject = (await NoteStore.GetSubjects()).Where(x => x.Id == this._NoteSubjectId).FirstOrDefault();
+
+            n.SubjectName = subject.Name;
+            n.SectionName = subject.Sections.Where(x => x.Id == this._NoteSectionId).FirstOrDefault().Name;
+
+
+            await NoteStore.AddNote(this._NoteSubjectId, this._NoteSectionId, n);
+            
         }
     }
 }
