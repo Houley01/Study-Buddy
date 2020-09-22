@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="ColorPicker.Xamarin.Forms" Version="1.3.4.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="3.1.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.7" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1364" />  
@@ -17,6 +18,9 @@
     <Compile Remove="Views\NoteSharingPage %28copy%29.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Views\TaskPlanPage.xaml.cs">
+      <DependentUpon>TaskPlanPage.xaml</DependentUpon>
+    </Compile>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Views\NoteSharingPage.cs">
       <DependentUpon>NoteSharingPage.xaml</DependentUpon>
       <SubType>Code</SubType>

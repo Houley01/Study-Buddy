@@ -12,8 +12,8 @@ namespace Study_Buddy
         public App()
         {
             InitializeComponent();
-
             DependencyService.Register<MockDataStore>();
+            Device.SetFlags(new string[] { "Expander_Experimental" });
             MainPage = new AppShell();
         }
 

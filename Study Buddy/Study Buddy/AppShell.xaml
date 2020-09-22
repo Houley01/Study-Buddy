@@ -86,7 +86,7 @@
         <ShellContent Title="Browse" Icon="tab_feed.png" Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />
         <!-- WORKING HERE ADD PAGES TO ROUTE AND CONTENT TEMPLATE -->
         <ShellContent Title="Note Sharing" Icon="" Route="NoteSharingPage" ContentTemplate="{DataTemplate local:NoteSharingPage}"/>
-        <ShellContent Title="Task Planning" Icon="" Route="TaskPlanningPage" ContentTemplate="{DataTemplate local:TaskPlanningPage}"/>
+        <ShellContent Title="Task Planning" Icon="" Route="TaskPage" ContentTemplate="{DataTemplate local:TaskPage}"/>
     <!-- </FlyoutItem> -->
 
 

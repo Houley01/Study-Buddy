@@ -3,11 +3,13 @@ using System.ComponentModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+
 namespace Study_Buddy.Views
 {
-    public partial class TaskPlanningPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class TaskPage : ContentPage
     {
-        public TaskPlanningPage()
+        public TaskPage()
         {
             InitializeComponent();
         }

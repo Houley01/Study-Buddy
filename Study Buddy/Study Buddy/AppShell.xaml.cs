@@ -13,6 +13,7 @@ namespace Study_Buddy
             InitializeComponent();
             Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));
             Routing.RegisterRoute(nameof(NewItemPage), typeof(NewItemPage));
+            Routing.RegisterRoute(nameof(TaskPlanPage), typeof(TaskPlanPage));
         }
 
         private async void OnMenuItemClicked(object sender, EventArgs e)

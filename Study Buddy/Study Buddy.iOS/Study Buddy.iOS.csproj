@@ -142,4 +142,10 @@
       <Name>Study Buddy</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\expand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\collapse.png" />
+  </ItemGroup>
 </Project>

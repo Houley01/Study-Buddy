@@ -25,6 +25,5164 @@ namespace Study_Buddy
 		
 		public static void UpdateIdValues()
 		{
+			global::ColorPicker.Droid.Resource.Animation.abc_fade_in = global::Study_Buddy.Resource.Animation.abc_fade_in;
+			global::ColorPicker.Droid.Resource.Animation.abc_fade_out = global::Study_Buddy.Resource.Animation.abc_fade_out;
+			global::ColorPicker.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Study_Buddy.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::ColorPicker.Droid.Resource.Animation.abc_popup_enter = global::Study_Buddy.Resource.Animation.abc_popup_enter;
+			global::ColorPicker.Droid.Resource.Animation.abc_popup_exit = global::Study_Buddy.Resource.Animation.abc_popup_exit;
+			global::ColorPicker.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Study_Buddy.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::ColorPicker.Droid.Resource.Animation.abc_slide_in_bottom = global::Study_Buddy.Resource.Animation.abc_slide_in_bottom;
+			global::ColorPicker.Droid.Resource.Animation.abc_slide_in_top = global::Study_Buddy.Resource.Animation.abc_slide_in_top;
+			global::ColorPicker.Droid.Resource.Animation.abc_slide_out_bottom = global::Study_Buddy.Resource.Animation.abc_slide_out_bottom;
+			global::ColorPicker.Droid.Resource.Animation.abc_slide_out_top = global::Study_Buddy.Resource.Animation.abc_slide_out_top;
+			global::ColorPicker.Droid.Resource.Animation.abc_tooltip_enter = global::Study_Buddy.Resource.Animation.abc_tooltip_enter;
+			global::ColorPicker.Droid.Resource.Animation.abc_tooltip_exit = global::Study_Buddy.Resource.Animation.abc_tooltip_exit;
+			global::ColorPicker.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Study_Buddy.Resource.Animation.design_bottom_sheet_slide_in;
+			global::ColorPicker.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Study_Buddy.Resource.Animation.design_bottom_sheet_slide_out;
+			global::ColorPicker.Droid.Resource.Animation.design_snackbar_in = global::Study_Buddy.Resource.Animation.design_snackbar_in;
+			global::ColorPicker.Droid.Resource.Animation.design_snackbar_out = global::Study_Buddy.Resource.Animation.design_snackbar_out;
+			global::ColorPicker.Droid.Resource.Animation.EnterFromLeft = global::Study_Buddy.Resource.Animation.EnterFromLeft;
+			global::ColorPicker.Droid.Resource.Animation.EnterFromRight = global::Study_Buddy.Resource.Animation.EnterFromRight;
+			global::ColorPicker.Droid.Resource.Animation.ExitToLeft = global::Study_Buddy.Resource.Animation.ExitToLeft;
+			global::ColorPicker.Droid.Resource.Animation.ExitToRight = global::Study_Buddy.Resource.Animation.ExitToRight;
+			global::ColorPicker.Droid.Resource.Animator.design_appbar_state_list_animator = global::Study_Buddy.Resource.Animator.design_appbar_state_list_animator;
+			global::ColorPicker.Droid.Resource.Animator.design_fab_hide_motion_spec = global::Study_Buddy.Resource.Animator.design_fab_hide_motion_spec;
+			global::ColorPicker.Droid.Resource.Animator.design_fab_show_motion_spec = global::Study_Buddy.Resource.Animator.design_fab_show_motion_spec;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_btn_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_btn_state_list_anim;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_chip_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_chip_state_list_anim;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_fab_hide_motion_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_fab_show_motion_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::ColorPicker.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarDivider = global::Study_Buddy.Resource.Attribute.actionBarDivider;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarItemBackground = global::Study_Buddy.Resource.Attribute.actionBarItemBackground;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarPopupTheme = global::Study_Buddy.Resource.Attribute.actionBarPopupTheme;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarSize = global::Study_Buddy.Resource.Attribute.actionBarSize;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarSplitStyle = global::Study_Buddy.Resource.Attribute.actionBarSplitStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarStyle = global::Study_Buddy.Resource.Attribute.actionBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarTabBarStyle = global::Study_Buddy.Resource.Attribute.actionBarTabBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarTabStyle = global::Study_Buddy.Resource.Attribute.actionBarTabStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarTabTextStyle = global::Study_Buddy.Resource.Attribute.actionBarTabTextStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarTheme = global::Study_Buddy.Resource.Attribute.actionBarTheme;
+			global::ColorPicker.Droid.Resource.Attribute.actionBarWidgetTheme = global::Study_Buddy.Resource.Attribute.actionBarWidgetTheme;
+			global::ColorPicker.Droid.Resource.Attribute.actionButtonStyle = global::Study_Buddy.Resource.Attribute.actionButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionDropDownStyle = global::Study_Buddy.Resource.Attribute.actionDropDownStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionLayout = global::Study_Buddy.Resource.Attribute.actionLayout;
+			global::ColorPicker.Droid.Resource.Attribute.actionMenuTextAppearance = global::Study_Buddy.Resource.Attribute.actionMenuTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.actionMenuTextColor = global::Study_Buddy.Resource.Attribute.actionMenuTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeBackground = global::Study_Buddy.Resource.Attribute.actionModeBackground;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Study_Buddy.Resource.Attribute.actionModeCloseButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeCloseDrawable = global::Study_Buddy.Resource.Attribute.actionModeCloseDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeCopyDrawable = global::Study_Buddy.Resource.Attribute.actionModeCopyDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeCutDrawable = global::Study_Buddy.Resource.Attribute.actionModeCutDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeFindDrawable = global::Study_Buddy.Resource.Attribute.actionModeFindDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModePasteDrawable = global::Study_Buddy.Resource.Attribute.actionModePasteDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Study_Buddy.Resource.Attribute.actionModePopupWindowStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Study_Buddy.Resource.Attribute.actionModeSelectAllDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeShareDrawable = global::Study_Buddy.Resource.Attribute.actionModeShareDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeSplitBackground = global::Study_Buddy.Resource.Attribute.actionModeSplitBackground;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeStyle = global::Study_Buddy.Resource.Attribute.actionModeStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Study_Buddy.Resource.Attribute.actionModeWebSearchDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Study_Buddy.Resource.Attribute.actionOverflowButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Study_Buddy.Resource.Attribute.actionOverflowMenuStyle;
+			global::ColorPicker.Droid.Resource.Attribute.actionProviderClass = global::Study_Buddy.Resource.Attribute.actionProviderClass;
+			global::ColorPicker.Droid.Resource.Attribute.actionViewClass = global::Study_Buddy.Resource.Attribute.actionViewClass;
+			global::ColorPicker.Droid.Resource.Attribute.activityChooserViewStyle = global::Study_Buddy.Resource.Attribute.activityChooserViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Study_Buddy.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::ColorPicker.Droid.Resource.Attribute.alertDialogCenterButtons = global::Study_Buddy.Resource.Attribute.alertDialogCenterButtons;
+			global::ColorPicker.Droid.Resource.Attribute.alertDialogStyle = global::Study_Buddy.Resource.Attribute.alertDialogStyle;
+			global::ColorPicker.Droid.Resource.Attribute.alertDialogTheme = global::Study_Buddy.Resource.Attribute.alertDialogTheme;
+			global::ColorPicker.Droid.Resource.Attribute.allowStacking = global::Study_Buddy.Resource.Attribute.allowStacking;
+			global::ColorPicker.Droid.Resource.Attribute.alpha = global::Study_Buddy.Resource.Attribute.alpha;
+			global::ColorPicker.Droid.Resource.Attribute.alphabeticModifiers = global::Study_Buddy.Resource.Attribute.alphabeticModifiers;
+			global::ColorPicker.Droid.Resource.Attribute.arrowHeadLength = global::Study_Buddy.Resource.Attribute.arrowHeadLength;
+			global::ColorPicker.Droid.Resource.Attribute.arrowShaftLength = global::Study_Buddy.Resource.Attribute.arrowShaftLength;
+			global::ColorPicker.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Study_Buddy.Resource.Attribute.autoCompleteTextViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.autoSizeMaxTextSize = global::Study_Buddy.Resource.Attribute.autoSizeMaxTextSize;
+			global::ColorPicker.Droid.Resource.Attribute.autoSizeMinTextSize = global::Study_Buddy.Resource.Attribute.autoSizeMinTextSize;
+			global::ColorPicker.Droid.Resource.Attribute.autoSizePresetSizes = global::Study_Buddy.Resource.Attribute.autoSizePresetSizes;
+			global::ColorPicker.Droid.Resource.Attribute.autoSizeStepGranularity = global::Study_Buddy.Resource.Attribute.autoSizeStepGranularity;
+			global::ColorPicker.Droid.Resource.Attribute.autoSizeTextType = global::Study_Buddy.Resource.Attribute.autoSizeTextType;
+			global::ColorPicker.Droid.Resource.Attribute.background = global::Study_Buddy.Resource.Attribute.background;
+			global::ColorPicker.Droid.Resource.Attribute.backgroundSplit = global::Study_Buddy.Resource.Attribute.backgroundSplit;
+			global::ColorPicker.Droid.Resource.Attribute.backgroundStacked = global::Study_Buddy.Resource.Attribute.backgroundStacked;
+			global::ColorPicker.Droid.Resource.Attribute.backgroundTint = global::Study_Buddy.Resource.Attribute.backgroundTint;
+			global::ColorPicker.Droid.Resource.Attribute.backgroundTintMode = global::Study_Buddy.Resource.Attribute.backgroundTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.barLength = global::Study_Buddy.Resource.Attribute.barLength;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_autoHide = global::Study_Buddy.Resource.Attribute.behavior_autoHide;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_fitToContents = global::Study_Buddy.Resource.Attribute.behavior_fitToContents;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_hideable = global::Study_Buddy.Resource.Attribute.behavior_hideable;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_overlapTop = global::Study_Buddy.Resource.Attribute.behavior_overlapTop;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_peekHeight = global::Study_Buddy.Resource.Attribute.behavior_peekHeight;
+			global::ColorPicker.Droid.Resource.Attribute.behavior_skipCollapsed = global::Study_Buddy.Resource.Attribute.behavior_skipCollapsed;
+			global::ColorPicker.Droid.Resource.Attribute.borderlessButtonStyle = global::Study_Buddy.Resource.Attribute.borderlessButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.borderWidth = global::Study_Buddy.Resource.Attribute.borderWidth;
+			global::ColorPicker.Droid.Resource.Attribute.bottomAppBarStyle = global::Study_Buddy.Resource.Attribute.bottomAppBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.bottomNavigationStyle = global::Study_Buddy.Resource.Attribute.bottomNavigationStyle;
+			global::ColorPicker.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Study_Buddy.Resource.Attribute.bottomSheetDialogTheme;
+			global::ColorPicker.Droid.Resource.Attribute.bottomSheetStyle = global::Study_Buddy.Resource.Attribute.bottomSheetStyle;
+			global::ColorPicker.Droid.Resource.Attribute.boxBackgroundColor = global::Study_Buddy.Resource.Attribute.boxBackgroundColor;
+			global::ColorPicker.Droid.Resource.Attribute.boxBackgroundMode = global::Study_Buddy.Resource.Attribute.boxBackgroundMode;
+			global::ColorPicker.Droid.Resource.Attribute.boxCollapsedPaddingTop = global::Study_Buddy.Resource.Attribute.boxCollapsedPaddingTop;
+			global::ColorPicker.Droid.Resource.Attribute.boxCornerRadiusBottomEnd = global::Study_Buddy.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::ColorPicker.Droid.Resource.Attribute.boxCornerRadiusBottomStart = global::Study_Buddy.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::ColorPicker.Droid.Resource.Attribute.boxCornerRadiusTopEnd = global::Study_Buddy.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::ColorPicker.Droid.Resource.Attribute.boxCornerRadiusTopStart = global::Study_Buddy.Resource.Attribute.boxCornerRadiusTopStart;
+			global::ColorPicker.Droid.Resource.Attribute.boxStrokeColor = global::Study_Buddy.Resource.Attribute.boxStrokeColor;
+			global::ColorPicker.Droid.Resource.Attribute.boxStrokeWidth = global::Study_Buddy.Resource.Attribute.boxStrokeWidth;
+			global::ColorPicker.Droid.Resource.Attribute.buttonBarButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonBarStyle = global::Study_Buddy.Resource.Attribute.buttonBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonGravity = global::Study_Buddy.Resource.Attribute.buttonGravity;
+			global::ColorPicker.Droid.Resource.Attribute.buttonIconDimen = global::Study_Buddy.Resource.Attribute.buttonIconDimen;
+			global::ColorPicker.Droid.Resource.Attribute.buttonPanelSideLayout = global::Study_Buddy.Resource.Attribute.buttonPanelSideLayout;
+			global::ColorPicker.Droid.Resource.Attribute.buttonStyle = global::Study_Buddy.Resource.Attribute.buttonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.buttonStyleSmall = global::Study_Buddy.Resource.Attribute.buttonStyleSmall;
+			global::ColorPicker.Droid.Resource.Attribute.buttonTint = global::Study_Buddy.Resource.Attribute.buttonTint;
+			global::ColorPicker.Droid.Resource.Attribute.buttonTintMode = global::Study_Buddy.Resource.Attribute.buttonTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.cardBackgroundColor = global::Study_Buddy.Resource.Attribute.cardBackgroundColor;
+			global::ColorPicker.Droid.Resource.Attribute.cardCornerRadius = global::Study_Buddy.Resource.Attribute.cardCornerRadius;
+			global::ColorPicker.Droid.Resource.Attribute.cardElevation = global::Study_Buddy.Resource.Attribute.cardElevation;
+			global::ColorPicker.Droid.Resource.Attribute.cardMaxElevation = global::Study_Buddy.Resource.Attribute.cardMaxElevation;
+			global::ColorPicker.Droid.Resource.Attribute.cardPreventCornerOverlap = global::Study_Buddy.Resource.Attribute.cardPreventCornerOverlap;
+			global::ColorPicker.Droid.Resource.Attribute.cardUseCompatPadding = global::Study_Buddy.Resource.Attribute.cardUseCompatPadding;
+			global::ColorPicker.Droid.Resource.Attribute.cardViewStyle = global::Study_Buddy.Resource.Attribute.cardViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.checkboxStyle = global::Study_Buddy.Resource.Attribute.checkboxStyle;
+			global::ColorPicker.Droid.Resource.Attribute.checkedChip = global::Study_Buddy.Resource.Attribute.checkedChip;
+			global::ColorPicker.Droid.Resource.Attribute.checkedIcon = global::Study_Buddy.Resource.Attribute.checkedIcon;
+			global::ColorPicker.Droid.Resource.Attribute.checkedIconEnabled = global::Study_Buddy.Resource.Attribute.checkedIconEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.checkedIconVisible = global::Study_Buddy.Resource.Attribute.checkedIconVisible;
+			global::ColorPicker.Droid.Resource.Attribute.checkedTextViewStyle = global::Study_Buddy.Resource.Attribute.checkedTextViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.chipBackgroundColor = global::Study_Buddy.Resource.Attribute.chipBackgroundColor;
+			global::ColorPicker.Droid.Resource.Attribute.chipCornerRadius = global::Study_Buddy.Resource.Attribute.chipCornerRadius;
+			global::ColorPicker.Droid.Resource.Attribute.chipEndPadding = global::Study_Buddy.Resource.Attribute.chipEndPadding;
+			global::ColorPicker.Droid.Resource.Attribute.chipGroupStyle = global::Study_Buddy.Resource.Attribute.chipGroupStyle;
+			global::ColorPicker.Droid.Resource.Attribute.chipIcon = global::Study_Buddy.Resource.Attribute.chipIcon;
+			global::ColorPicker.Droid.Resource.Attribute.chipIconEnabled = global::Study_Buddy.Resource.Attribute.chipIconEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.chipIconSize = global::Study_Buddy.Resource.Attribute.chipIconSize;
+			global::ColorPicker.Droid.Resource.Attribute.chipIconTint = global::Study_Buddy.Resource.Attribute.chipIconTint;
+			global::ColorPicker.Droid.Resource.Attribute.chipIconVisible = global::Study_Buddy.Resource.Attribute.chipIconVisible;
+			global::ColorPicker.Droid.Resource.Attribute.chipMinHeight = global::Study_Buddy.Resource.Attribute.chipMinHeight;
+			global::ColorPicker.Droid.Resource.Attribute.chipSpacing = global::Study_Buddy.Resource.Attribute.chipSpacing;
+			global::ColorPicker.Droid.Resource.Attribute.chipSpacingHorizontal = global::Study_Buddy.Resource.Attribute.chipSpacingHorizontal;
+			global::ColorPicker.Droid.Resource.Attribute.chipSpacingVertical = global::Study_Buddy.Resource.Attribute.chipSpacingVertical;
+			global::ColorPicker.Droid.Resource.Attribute.chipStandaloneStyle = global::Study_Buddy.Resource.Attribute.chipStandaloneStyle;
+			global::ColorPicker.Droid.Resource.Attribute.chipStartPadding = global::Study_Buddy.Resource.Attribute.chipStartPadding;
+			global::ColorPicker.Droid.Resource.Attribute.chipStrokeColor = global::Study_Buddy.Resource.Attribute.chipStrokeColor;
+			global::ColorPicker.Droid.Resource.Attribute.chipStrokeWidth = global::Study_Buddy.Resource.Attribute.chipStrokeWidth;
+			global::ColorPicker.Droid.Resource.Attribute.chipStyle = global::Study_Buddy.Resource.Attribute.chipStyle;
+			global::ColorPicker.Droid.Resource.Attribute.closeIcon = global::Study_Buddy.Resource.Attribute.closeIcon;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconEnabled = global::Study_Buddy.Resource.Attribute.closeIconEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconEndPadding = global::Study_Buddy.Resource.Attribute.closeIconEndPadding;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconSize = global::Study_Buddy.Resource.Attribute.closeIconSize;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconStartPadding = global::Study_Buddy.Resource.Attribute.closeIconStartPadding;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconTint = global::Study_Buddy.Resource.Attribute.closeIconTint;
+			global::ColorPicker.Droid.Resource.Attribute.closeIconVisible = global::Study_Buddy.Resource.Attribute.closeIconVisible;
+			global::ColorPicker.Droid.Resource.Attribute.closeItemLayout = global::Study_Buddy.Resource.Attribute.closeItemLayout;
+			global::ColorPicker.Droid.Resource.Attribute.collapseContentDescription = global::Study_Buddy.Resource.Attribute.collapseContentDescription;
+			global::ColorPicker.Droid.Resource.Attribute.collapsedTitleGravity = global::Study_Buddy.Resource.Attribute.collapsedTitleGravity;
+			global::ColorPicker.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.collapsedTitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.collapseIcon = global::Study_Buddy.Resource.Attribute.collapseIcon;
+			global::ColorPicker.Droid.Resource.Attribute.collectionViewStyle = global::Study_Buddy.Resource.Attribute.collectionViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.color = global::Study_Buddy.Resource.Attribute.color;
+			global::ColorPicker.Droid.Resource.Attribute.colorAccent = global::Study_Buddy.Resource.Attribute.colorAccent;
+			global::ColorPicker.Droid.Resource.Attribute.colorBackgroundFloating = global::Study_Buddy.Resource.Attribute.colorBackgroundFloating;
+			global::ColorPicker.Droid.Resource.Attribute.colorButtonNormal = global::Study_Buddy.Resource.Attribute.colorButtonNormal;
+			global::ColorPicker.Droid.Resource.Attribute.colorControlActivated = global::Study_Buddy.Resource.Attribute.colorControlActivated;
+			global::ColorPicker.Droid.Resource.Attribute.colorControlHighlight = global::Study_Buddy.Resource.Attribute.colorControlHighlight;
+			global::ColorPicker.Droid.Resource.Attribute.colorControlNormal = global::Study_Buddy.Resource.Attribute.colorControlNormal;
+			global::ColorPicker.Droid.Resource.Attribute.colorError = global::Study_Buddy.Resource.Attribute.colorError;
+			global::ColorPicker.Droid.Resource.Attribute.colorPrimary = global::Study_Buddy.Resource.Attribute.colorPrimary;
+			global::ColorPicker.Droid.Resource.Attribute.colorPrimaryDark = global::Study_Buddy.Resource.Attribute.colorPrimaryDark;
+			global::ColorPicker.Droid.Resource.Attribute.colorSecondary = global::Study_Buddy.Resource.Attribute.colorSecondary;
+			global::ColorPicker.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Study_Buddy.Resource.Attribute.colorSwitchThumbNormal;
+			global::ColorPicker.Droid.Resource.Attribute.commitIcon = global::Study_Buddy.Resource.Attribute.commitIcon;
+			global::ColorPicker.Droid.Resource.Attribute.contentDescription = global::Study_Buddy.Resource.Attribute.contentDescription;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetEnd = global::Study_Buddy.Resource.Attribute.contentInsetEnd;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetEndWithActions = global::Study_Buddy.Resource.Attribute.contentInsetEndWithActions;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetLeft = global::Study_Buddy.Resource.Attribute.contentInsetLeft;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetRight = global::Study_Buddy.Resource.Attribute.contentInsetRight;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetStart = global::Study_Buddy.Resource.Attribute.contentInsetStart;
+			global::ColorPicker.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::Study_Buddy.Resource.Attribute.contentInsetStartWithNavigation;
+			global::ColorPicker.Droid.Resource.Attribute.contentPadding = global::Study_Buddy.Resource.Attribute.contentPadding;
+			global::ColorPicker.Droid.Resource.Attribute.contentPaddingBottom = global::Study_Buddy.Resource.Attribute.contentPaddingBottom;
+			global::ColorPicker.Droid.Resource.Attribute.contentPaddingLeft = global::Study_Buddy.Resource.Attribute.contentPaddingLeft;
+			global::ColorPicker.Droid.Resource.Attribute.contentPaddingRight = global::Study_Buddy.Resource.Attribute.contentPaddingRight;
+			global::ColorPicker.Droid.Resource.Attribute.contentPaddingTop = global::Study_Buddy.Resource.Attribute.contentPaddingTop;
+			global::ColorPicker.Droid.Resource.Attribute.contentScrim = global::Study_Buddy.Resource.Attribute.contentScrim;
+			global::ColorPicker.Droid.Resource.Attribute.controlBackground = global::Study_Buddy.Resource.Attribute.controlBackground;
+			global::ColorPicker.Droid.Resource.Attribute.coordinatorLayoutStyle = global::Study_Buddy.Resource.Attribute.coordinatorLayoutStyle;
+			global::ColorPicker.Droid.Resource.Attribute.cornerRadius = global::Study_Buddy.Resource.Attribute.cornerRadius;
+			global::ColorPicker.Droid.Resource.Attribute.counterEnabled = global::Study_Buddy.Resource.Attribute.counterEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.counterMaxLength = global::Study_Buddy.Resource.Attribute.counterMaxLength;
+			global::ColorPicker.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Study_Buddy.Resource.Attribute.counterOverflowTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.counterTextAppearance = global::Study_Buddy.Resource.Attribute.counterTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.customNavigationLayout = global::Study_Buddy.Resource.Attribute.customNavigationLayout;
+			global::ColorPicker.Droid.Resource.Attribute.defaultQueryHint = global::Study_Buddy.Resource.Attribute.defaultQueryHint;
+			global::ColorPicker.Droid.Resource.Attribute.dialogCornerRadius = global::Study_Buddy.Resource.Attribute.dialogCornerRadius;
+			global::ColorPicker.Droid.Resource.Attribute.dialogPreferredPadding = global::Study_Buddy.Resource.Attribute.dialogPreferredPadding;
+			global::ColorPicker.Droid.Resource.Attribute.dialogTheme = global::Study_Buddy.Resource.Attribute.dialogTheme;
+			global::ColorPicker.Droid.Resource.Attribute.displayOptions = global::Study_Buddy.Resource.Attribute.displayOptions;
+			global::ColorPicker.Droid.Resource.Attribute.divider = global::Study_Buddy.Resource.Attribute.divider;
+			global::ColorPicker.Droid.Resource.Attribute.dividerHorizontal = global::Study_Buddy.Resource.Attribute.dividerHorizontal;
+			global::ColorPicker.Droid.Resource.Attribute.dividerPadding = global::Study_Buddy.Resource.Attribute.dividerPadding;
+			global::ColorPicker.Droid.Resource.Attribute.dividerVertical = global::Study_Buddy.Resource.Attribute.dividerVertical;
+			global::ColorPicker.Droid.Resource.Attribute.drawableSize = global::Study_Buddy.Resource.Attribute.drawableSize;
+			global::ColorPicker.Droid.Resource.Attribute.drawerArrowStyle = global::Study_Buddy.Resource.Attribute.drawerArrowStyle;
+			global::ColorPicker.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Study_Buddy.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::ColorPicker.Droid.Resource.Attribute.dropDownListViewStyle = global::Study_Buddy.Resource.Attribute.dropDownListViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.editTextBackground = global::Study_Buddy.Resource.Attribute.editTextBackground;
+			global::ColorPicker.Droid.Resource.Attribute.editTextColor = global::Study_Buddy.Resource.Attribute.editTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.editTextStyle = global::Study_Buddy.Resource.Attribute.editTextStyle;
+			global::ColorPicker.Droid.Resource.Attribute.elevation = global::Study_Buddy.Resource.Attribute.elevation;
+			global::ColorPicker.Droid.Resource.Attribute.enforceMaterialTheme = global::Study_Buddy.Resource.Attribute.enforceMaterialTheme;
+			global::ColorPicker.Droid.Resource.Attribute.enforceTextAppearance = global::Study_Buddy.Resource.Attribute.enforceTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.errorEnabled = global::Study_Buddy.Resource.Attribute.errorEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.errorTextAppearance = global::Study_Buddy.Resource.Attribute.errorTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Study_Buddy.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.expanded = global::Study_Buddy.Resource.Attribute.expanded;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleGravity = global::Study_Buddy.Resource.Attribute.expandedTitleGravity;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleMargin = global::Study_Buddy.Resource.Attribute.expandedTitleMargin;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Study_Buddy.Resource.Attribute.expandedTitleMarginBottom;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Study_Buddy.Resource.Attribute.expandedTitleMarginEnd;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleMarginStart = global::Study_Buddy.Resource.Attribute.expandedTitleMarginStart;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleMarginTop = global::Study_Buddy.Resource.Attribute.expandedTitleMarginTop;
+			global::ColorPicker.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.expandedTitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.fabAlignmentMode = global::Study_Buddy.Resource.Attribute.fabAlignmentMode;
+			global::ColorPicker.Droid.Resource.Attribute.fabCradleMargin = global::Study_Buddy.Resource.Attribute.fabCradleMargin;
+			global::ColorPicker.Droid.Resource.Attribute.fabCradleRoundedCornerRadius = global::Study_Buddy.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::ColorPicker.Droid.Resource.Attribute.fabCradleVerticalOffset = global::Study_Buddy.Resource.Attribute.fabCradleVerticalOffset;
+			global::ColorPicker.Droid.Resource.Attribute.fabCustomSize = global::Study_Buddy.Resource.Attribute.fabCustomSize;
+			global::ColorPicker.Droid.Resource.Attribute.fabSize = global::Study_Buddy.Resource.Attribute.fabSize;
+			global::ColorPicker.Droid.Resource.Attribute.fastScrollEnabled = global::Study_Buddy.Resource.Attribute.fastScrollEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Study_Buddy.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Study_Buddy.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Study_Buddy.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Study_Buddy.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.firstBaselineToTopHeight = global::Study_Buddy.Resource.Attribute.firstBaselineToTopHeight;
+			global::ColorPicker.Droid.Resource.Attribute.floatingActionButtonStyle = global::Study_Buddy.Resource.Attribute.floatingActionButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.font = global::Study_Buddy.Resource.Attribute.font;
+			global::ColorPicker.Droid.Resource.Attribute.fontFamily = global::Study_Buddy.Resource.Attribute.fontFamily;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderAuthority = global::Study_Buddy.Resource.Attribute.fontProviderAuthority;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderCerts = global::Study_Buddy.Resource.Attribute.fontProviderCerts;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderFetchStrategy = global::Study_Buddy.Resource.Attribute.fontProviderFetchStrategy;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderFetchTimeout = global::Study_Buddy.Resource.Attribute.fontProviderFetchTimeout;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderPackage = global::Study_Buddy.Resource.Attribute.fontProviderPackage;
+			global::ColorPicker.Droid.Resource.Attribute.fontProviderQuery = global::Study_Buddy.Resource.Attribute.fontProviderQuery;
+			global::ColorPicker.Droid.Resource.Attribute.fontStyle = global::Study_Buddy.Resource.Attribute.fontStyle;
+			global::ColorPicker.Droid.Resource.Attribute.fontVariationSettings = global::Study_Buddy.Resource.Attribute.fontVariationSettings;
+			global::ColorPicker.Droid.Resource.Attribute.fontWeight = global::Study_Buddy.Resource.Attribute.fontWeight;
+			global::ColorPicker.Droid.Resource.Attribute.foregroundInsidePadding = global::Study_Buddy.Resource.Attribute.foregroundInsidePadding;
+			global::ColorPicker.Droid.Resource.Attribute.gapBetweenBars = global::Study_Buddy.Resource.Attribute.gapBetweenBars;
+			global::ColorPicker.Droid.Resource.Attribute.goIcon = global::Study_Buddy.Resource.Attribute.goIcon;
+			global::ColorPicker.Droid.Resource.Attribute.headerLayout = global::Study_Buddy.Resource.Attribute.headerLayout;
+			global::ColorPicker.Droid.Resource.Attribute.height = global::Study_Buddy.Resource.Attribute.height;
+			global::ColorPicker.Droid.Resource.Attribute.helperText = global::Study_Buddy.Resource.Attribute.helperText;
+			global::ColorPicker.Droid.Resource.Attribute.helperTextEnabled = global::Study_Buddy.Resource.Attribute.helperTextEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.helperTextTextAppearance = global::Study_Buddy.Resource.Attribute.helperTextTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.hideMotionSpec = global::Study_Buddy.Resource.Attribute.hideMotionSpec;
+			global::ColorPicker.Droid.Resource.Attribute.hideOnContentScroll = global::Study_Buddy.Resource.Attribute.hideOnContentScroll;
+			global::ColorPicker.Droid.Resource.Attribute.hideOnScroll = global::Study_Buddy.Resource.Attribute.hideOnScroll;
+			global::ColorPicker.Droid.Resource.Attribute.hintAnimationEnabled = global::Study_Buddy.Resource.Attribute.hintAnimationEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.hintEnabled = global::Study_Buddy.Resource.Attribute.hintEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.hintTextAppearance = global::Study_Buddy.Resource.Attribute.hintTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.homeAsUpIndicator = global::Study_Buddy.Resource.Attribute.homeAsUpIndicator;
+			global::ColorPicker.Droid.Resource.Attribute.homeLayout = global::Study_Buddy.Resource.Attribute.homeLayout;
+			global::ColorPicker.Droid.Resource.Attribute.hoveredFocusedTranslationZ = global::Study_Buddy.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::ColorPicker.Droid.Resource.Attribute.icon = global::Study_Buddy.Resource.Attribute.icon;
+			global::ColorPicker.Droid.Resource.Attribute.iconEndPadding = global::Study_Buddy.Resource.Attribute.iconEndPadding;
+			global::ColorPicker.Droid.Resource.Attribute.iconGravity = global::Study_Buddy.Resource.Attribute.iconGravity;
+			global::ColorPicker.Droid.Resource.Attribute.iconifiedByDefault = global::Study_Buddy.Resource.Attribute.iconifiedByDefault;
+			global::ColorPicker.Droid.Resource.Attribute.iconPadding = global::Study_Buddy.Resource.Attribute.iconPadding;
+			global::ColorPicker.Droid.Resource.Attribute.iconSize = global::Study_Buddy.Resource.Attribute.iconSize;
+			global::ColorPicker.Droid.Resource.Attribute.iconStartPadding = global::Study_Buddy.Resource.Attribute.iconStartPadding;
+			global::ColorPicker.Droid.Resource.Attribute.iconTint = global::Study_Buddy.Resource.Attribute.iconTint;
+			global::ColorPicker.Droid.Resource.Attribute.iconTintMode = global::Study_Buddy.Resource.Attribute.iconTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.imageButtonStyle = global::Study_Buddy.Resource.Attribute.imageButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.indeterminateProgressStyle = global::Study_Buddy.Resource.Attribute.indeterminateProgressStyle;
+			global::ColorPicker.Droid.Resource.Attribute.initialActivityCount = global::Study_Buddy.Resource.Attribute.initialActivityCount;
+			global::ColorPicker.Droid.Resource.Attribute.insetForeground = global::Study_Buddy.Resource.Attribute.insetForeground;
+			global::ColorPicker.Droid.Resource.Attribute.isLightTheme = global::Study_Buddy.Resource.Attribute.isLightTheme;
+			global::ColorPicker.Droid.Resource.Attribute.itemBackground = global::Study_Buddy.Resource.Attribute.itemBackground;
+			global::ColorPicker.Droid.Resource.Attribute.itemHorizontalPadding = global::Study_Buddy.Resource.Attribute.itemHorizontalPadding;
+			global::ColorPicker.Droid.Resource.Attribute.itemHorizontalTranslationEnabled = global::Study_Buddy.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.itemIconPadding = global::Study_Buddy.Resource.Attribute.itemIconPadding;
+			global::ColorPicker.Droid.Resource.Attribute.itemIconSize = global::Study_Buddy.Resource.Attribute.itemIconSize;
+			global::ColorPicker.Droid.Resource.Attribute.itemIconTint = global::Study_Buddy.Resource.Attribute.itemIconTint;
+			global::ColorPicker.Droid.Resource.Attribute.itemPadding = global::Study_Buddy.Resource.Attribute.itemPadding;
+			global::ColorPicker.Droid.Resource.Attribute.itemSpacing = global::Study_Buddy.Resource.Attribute.itemSpacing;
+			global::ColorPicker.Droid.Resource.Attribute.itemTextAppearance = global::Study_Buddy.Resource.Attribute.itemTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.itemTextAppearanceActive = global::Study_Buddy.Resource.Attribute.itemTextAppearanceActive;
+			global::ColorPicker.Droid.Resource.Attribute.itemTextAppearanceInactive = global::Study_Buddy.Resource.Attribute.itemTextAppearanceInactive;
+			global::ColorPicker.Droid.Resource.Attribute.itemTextColor = global::Study_Buddy.Resource.Attribute.itemTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.keylines = global::Study_Buddy.Resource.Attribute.keylines;
+			global::ColorPicker.Droid.Resource.Attribute.labelVisibilityMode = global::Study_Buddy.Resource.Attribute.labelVisibilityMode;
+			global::ColorPicker.Droid.Resource.Attribute.lastBaselineToBottomHeight = global::Study_Buddy.Resource.Attribute.lastBaselineToBottomHeight;
+			global::ColorPicker.Droid.Resource.Attribute.layout = global::Study_Buddy.Resource.Attribute.layout;
+			global::ColorPicker.Droid.Resource.Attribute.layoutManager = global::Study_Buddy.Resource.Attribute.layoutManager;
+			global::ColorPicker.Droid.Resource.Attribute.layout_anchor = global::Study_Buddy.Resource.Attribute.layout_anchor;
+			global::ColorPicker.Droid.Resource.Attribute.layout_anchorGravity = global::Study_Buddy.Resource.Attribute.layout_anchorGravity;
+			global::ColorPicker.Droid.Resource.Attribute.layout_behavior = global::Study_Buddy.Resource.Attribute.layout_behavior;
+			global::ColorPicker.Droid.Resource.Attribute.layout_collapseMode = global::Study_Buddy.Resource.Attribute.layout_collapseMode;
+			global::ColorPicker.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Study_Buddy.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::ColorPicker.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::Study_Buddy.Resource.Attribute.layout_dodgeInsetEdges;
+			global::ColorPicker.Droid.Resource.Attribute.layout_insetEdge = global::Study_Buddy.Resource.Attribute.layout_insetEdge;
+			global::ColorPicker.Droid.Resource.Attribute.layout_keyline = global::Study_Buddy.Resource.Attribute.layout_keyline;
+			global::ColorPicker.Droid.Resource.Attribute.layout_scrollFlags = global::Study_Buddy.Resource.Attribute.layout_scrollFlags;
+			global::ColorPicker.Droid.Resource.Attribute.layout_scrollInterpolator = global::Study_Buddy.Resource.Attribute.layout_scrollInterpolator;
+			global::ColorPicker.Droid.Resource.Attribute.liftOnScroll = global::Study_Buddy.Resource.Attribute.liftOnScroll;
+			global::ColorPicker.Droid.Resource.Attribute.lineHeight = global::Study_Buddy.Resource.Attribute.lineHeight;
+			global::ColorPicker.Droid.Resource.Attribute.lineSpacing = global::Study_Buddy.Resource.Attribute.lineSpacing;
+			global::ColorPicker.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Study_Buddy.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::ColorPicker.Droid.Resource.Attribute.listDividerAlertDialog = global::Study_Buddy.Resource.Attribute.listDividerAlertDialog;
+			global::ColorPicker.Droid.Resource.Attribute.listItemLayout = global::Study_Buddy.Resource.Attribute.listItemLayout;
+			global::ColorPicker.Droid.Resource.Attribute.listLayout = global::Study_Buddy.Resource.Attribute.listLayout;
+			global::ColorPicker.Droid.Resource.Attribute.listMenuViewStyle = global::Study_Buddy.Resource.Attribute.listMenuViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.listPopupWindowStyle = global::Study_Buddy.Resource.Attribute.listPopupWindowStyle;
+			global::ColorPicker.Droid.Resource.Attribute.listPreferredItemHeight = global::Study_Buddy.Resource.Attribute.listPreferredItemHeight;
+			global::ColorPicker.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Study_Buddy.Resource.Attribute.listPreferredItemHeightLarge;
+			global::ColorPicker.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Study_Buddy.Resource.Attribute.listPreferredItemHeightSmall;
+			global::ColorPicker.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Study_Buddy.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::ColorPicker.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Study_Buddy.Resource.Attribute.listPreferredItemPaddingRight;
+			global::ColorPicker.Droid.Resource.Attribute.logo = global::Study_Buddy.Resource.Attribute.logo;
+			global::ColorPicker.Droid.Resource.Attribute.logoDescription = global::Study_Buddy.Resource.Attribute.logoDescription;
+			global::ColorPicker.Droid.Resource.Attribute.materialButtonStyle = global::Study_Buddy.Resource.Attribute.materialButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.materialCardViewStyle = global::Study_Buddy.Resource.Attribute.materialCardViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.maxActionInlineWidth = global::Study_Buddy.Resource.Attribute.maxActionInlineWidth;
+			global::ColorPicker.Droid.Resource.Attribute.maxButtonHeight = global::Study_Buddy.Resource.Attribute.maxButtonHeight;
+			global::ColorPicker.Droid.Resource.Attribute.maxImageSize = global::Study_Buddy.Resource.Attribute.maxImageSize;
+			global::ColorPicker.Droid.Resource.Attribute.measureWithLargestChild = global::Study_Buddy.Resource.Attribute.measureWithLargestChild;
+			global::ColorPicker.Droid.Resource.Attribute.menu = global::Study_Buddy.Resource.Attribute.menu;
+			global::ColorPicker.Droid.Resource.Attribute.multiChoiceItemLayout = global::Study_Buddy.Resource.Attribute.multiChoiceItemLayout;
+			global::ColorPicker.Droid.Resource.Attribute.navigationContentDescription = global::Study_Buddy.Resource.Attribute.navigationContentDescription;
+			global::ColorPicker.Droid.Resource.Attribute.navigationIcon = global::Study_Buddy.Resource.Attribute.navigationIcon;
+			global::ColorPicker.Droid.Resource.Attribute.navigationMode = global::Study_Buddy.Resource.Attribute.navigationMode;
+			global::ColorPicker.Droid.Resource.Attribute.navigationViewStyle = global::Study_Buddy.Resource.Attribute.navigationViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.numericModifiers = global::Study_Buddy.Resource.Attribute.numericModifiers;
+			global::ColorPicker.Droid.Resource.Attribute.overlapAnchor = global::Study_Buddy.Resource.Attribute.overlapAnchor;
+			global::ColorPicker.Droid.Resource.Attribute.paddingBottomNoButtons = global::Study_Buddy.Resource.Attribute.paddingBottomNoButtons;
+			global::ColorPicker.Droid.Resource.Attribute.paddingEnd = global::Study_Buddy.Resource.Attribute.paddingEnd;
+			global::ColorPicker.Droid.Resource.Attribute.paddingStart = global::Study_Buddy.Resource.Attribute.paddingStart;
+			global::ColorPicker.Droid.Resource.Attribute.paddingTopNoTitle = global::Study_Buddy.Resource.Attribute.paddingTopNoTitle;
+			global::ColorPicker.Droid.Resource.Attribute.panelBackground = global::Study_Buddy.Resource.Attribute.panelBackground;
+			global::ColorPicker.Droid.Resource.Attribute.panelMenuListTheme = global::Study_Buddy.Resource.Attribute.panelMenuListTheme;
+			global::ColorPicker.Droid.Resource.Attribute.panelMenuListWidth = global::Study_Buddy.Resource.Attribute.panelMenuListWidth;
+			global::ColorPicker.Droid.Resource.Attribute.passwordToggleContentDescription = global::Study_Buddy.Resource.Attribute.passwordToggleContentDescription;
+			global::ColorPicker.Droid.Resource.Attribute.passwordToggleDrawable = global::Study_Buddy.Resource.Attribute.passwordToggleDrawable;
+			global::ColorPicker.Droid.Resource.Attribute.passwordToggleEnabled = global::Study_Buddy.Resource.Attribute.passwordToggleEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.passwordToggleTint = global::Study_Buddy.Resource.Attribute.passwordToggleTint;
+			global::ColorPicker.Droid.Resource.Attribute.passwordToggleTintMode = global::Study_Buddy.Resource.Attribute.passwordToggleTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.popupMenuStyle = global::Study_Buddy.Resource.Attribute.popupMenuStyle;
+			global::ColorPicker.Droid.Resource.Attribute.popupTheme = global::Study_Buddy.Resource.Attribute.popupTheme;
+			global::ColorPicker.Droid.Resource.Attribute.popupWindowStyle = global::Study_Buddy.Resource.Attribute.popupWindowStyle;
+			global::ColorPicker.Droid.Resource.Attribute.preserveIconSpacing = global::Study_Buddy.Resource.Attribute.preserveIconSpacing;
+			global::ColorPicker.Droid.Resource.Attribute.pressedTranslationZ = global::Study_Buddy.Resource.Attribute.pressedTranslationZ;
+			global::ColorPicker.Droid.Resource.Attribute.progressBarPadding = global::Study_Buddy.Resource.Attribute.progressBarPadding;
+			global::ColorPicker.Droid.Resource.Attribute.progressBarStyle = global::Study_Buddy.Resource.Attribute.progressBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.queryBackground = global::Study_Buddy.Resource.Attribute.queryBackground;
+			global::ColorPicker.Droid.Resource.Attribute.queryHint = global::Study_Buddy.Resource.Attribute.queryHint;
+			global::ColorPicker.Droid.Resource.Attribute.radioButtonStyle = global::Study_Buddy.Resource.Attribute.radioButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.ratingBarStyle = global::Study_Buddy.Resource.Attribute.ratingBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Study_Buddy.Resource.Attribute.ratingBarStyleIndicator;
+			global::ColorPicker.Droid.Resource.Attribute.ratingBarStyleSmall = global::Study_Buddy.Resource.Attribute.ratingBarStyleSmall;
+			global::ColorPicker.Droid.Resource.Attribute.reverseLayout = global::Study_Buddy.Resource.Attribute.reverseLayout;
+			global::ColorPicker.Droid.Resource.Attribute.rippleColor = global::Study_Buddy.Resource.Attribute.rippleColor;
+			global::ColorPicker.Droid.Resource.Attribute.scrimAnimationDuration = global::Study_Buddy.Resource.Attribute.scrimAnimationDuration;
+			global::ColorPicker.Droid.Resource.Attribute.scrimBackground = global::Study_Buddy.Resource.Attribute.scrimBackground;
+			global::ColorPicker.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::Study_Buddy.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::ColorPicker.Droid.Resource.Attribute.searchHintIcon = global::Study_Buddy.Resource.Attribute.searchHintIcon;
+			global::ColorPicker.Droid.Resource.Attribute.searchIcon = global::Study_Buddy.Resource.Attribute.searchIcon;
+			global::ColorPicker.Droid.Resource.Attribute.searchViewStyle = global::Study_Buddy.Resource.Attribute.searchViewStyle;
+			global::ColorPicker.Droid.Resource.Attribute.seekBarStyle = global::Study_Buddy.Resource.Attribute.seekBarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.selectableItemBackground = global::Study_Buddy.Resource.Attribute.selectableItemBackground;
+			global::ColorPicker.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Study_Buddy.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::ColorPicker.Droid.Resource.Attribute.showAsAction = global::Study_Buddy.Resource.Attribute.showAsAction;
+			global::ColorPicker.Droid.Resource.Attribute.showDividers = global::Study_Buddy.Resource.Attribute.showDividers;
+			global::ColorPicker.Droid.Resource.Attribute.showMotionSpec = global::Study_Buddy.Resource.Attribute.showMotionSpec;
+			global::ColorPicker.Droid.Resource.Attribute.showText = global::Study_Buddy.Resource.Attribute.showText;
+			global::ColorPicker.Droid.Resource.Attribute.showTitle = global::Study_Buddy.Resource.Attribute.showTitle;
+			global::ColorPicker.Droid.Resource.Attribute.singleChoiceItemLayout = global::Study_Buddy.Resource.Attribute.singleChoiceItemLayout;
+			global::ColorPicker.Droid.Resource.Attribute.singleLine = global::Study_Buddy.Resource.Attribute.singleLine;
+			global::ColorPicker.Droid.Resource.Attribute.singleSelection = global::Study_Buddy.Resource.Attribute.singleSelection;
+			global::ColorPicker.Droid.Resource.Attribute.snackbarButtonStyle = global::Study_Buddy.Resource.Attribute.snackbarButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.snackbarStyle = global::Study_Buddy.Resource.Attribute.snackbarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.spanCount = global::Study_Buddy.Resource.Attribute.spanCount;
+			global::ColorPicker.Droid.Resource.Attribute.spinBars = global::Study_Buddy.Resource.Attribute.spinBars;
+			global::ColorPicker.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Study_Buddy.Resource.Attribute.spinnerDropDownItemStyle;
+			global::ColorPicker.Droid.Resource.Attribute.spinnerStyle = global::Study_Buddy.Resource.Attribute.spinnerStyle;
+			global::ColorPicker.Droid.Resource.Attribute.splitTrack = global::Study_Buddy.Resource.Attribute.splitTrack;
+			global::ColorPicker.Droid.Resource.Attribute.srcCompat = global::Study_Buddy.Resource.Attribute.srcCompat;
+			global::ColorPicker.Droid.Resource.Attribute.stackFromEnd = global::Study_Buddy.Resource.Attribute.stackFromEnd;
+			global::ColorPicker.Droid.Resource.Attribute.state_above_anchor = global::Study_Buddy.Resource.Attribute.state_above_anchor;
+			global::ColorPicker.Droid.Resource.Attribute.state_collapsed = global::Study_Buddy.Resource.Attribute.state_collapsed;
+			global::ColorPicker.Droid.Resource.Attribute.state_collapsible = global::Study_Buddy.Resource.Attribute.state_collapsible;
+			global::ColorPicker.Droid.Resource.Attribute.state_liftable = global::Study_Buddy.Resource.Attribute.state_liftable;
+			global::ColorPicker.Droid.Resource.Attribute.state_lifted = global::Study_Buddy.Resource.Attribute.state_lifted;
+			global::ColorPicker.Droid.Resource.Attribute.statusBarBackground = global::Study_Buddy.Resource.Attribute.statusBarBackground;
+			global::ColorPicker.Droid.Resource.Attribute.statusBarScrim = global::Study_Buddy.Resource.Attribute.statusBarScrim;
+			global::ColorPicker.Droid.Resource.Attribute.strokeColor = global::Study_Buddy.Resource.Attribute.strokeColor;
+			global::ColorPicker.Droid.Resource.Attribute.strokeWidth = global::Study_Buddy.Resource.Attribute.strokeWidth;
+			global::ColorPicker.Droid.Resource.Attribute.subMenuArrow = global::Study_Buddy.Resource.Attribute.subMenuArrow;
+			global::ColorPicker.Droid.Resource.Attribute.submitBackground = global::Study_Buddy.Resource.Attribute.submitBackground;
+			global::ColorPicker.Droid.Resource.Attribute.subtitle = global::Study_Buddy.Resource.Attribute.subtitle;
+			global::ColorPicker.Droid.Resource.Attribute.subtitleTextAppearance = global::Study_Buddy.Resource.Attribute.subtitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.subtitleTextColor = global::Study_Buddy.Resource.Attribute.subtitleTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.subtitleTextStyle = global::Study_Buddy.Resource.Attribute.subtitleTextStyle;
+			global::ColorPicker.Droid.Resource.Attribute.suggestionRowLayout = global::Study_Buddy.Resource.Attribute.suggestionRowLayout;
+			global::ColorPicker.Droid.Resource.Attribute.switchMinWidth = global::Study_Buddy.Resource.Attribute.switchMinWidth;
+			global::ColorPicker.Droid.Resource.Attribute.switchPadding = global::Study_Buddy.Resource.Attribute.switchPadding;
+			global::ColorPicker.Droid.Resource.Attribute.switchStyle = global::Study_Buddy.Resource.Attribute.switchStyle;
+			global::ColorPicker.Droid.Resource.Attribute.switchTextAppearance = global::Study_Buddy.Resource.Attribute.switchTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.tabBackground = global::Study_Buddy.Resource.Attribute.tabBackground;
+			global::ColorPicker.Droid.Resource.Attribute.tabContentStart = global::Study_Buddy.Resource.Attribute.tabContentStart;
+			global::ColorPicker.Droid.Resource.Attribute.tabGravity = global::Study_Buddy.Resource.Attribute.tabGravity;
+			global::ColorPicker.Droid.Resource.Attribute.tabIconTint = global::Study_Buddy.Resource.Attribute.tabIconTint;
+			global::ColorPicker.Droid.Resource.Attribute.tabIconTintMode = global::Study_Buddy.Resource.Attribute.tabIconTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicator = global::Study_Buddy.Resource.Attribute.tabIndicator;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicatorAnimationDuration = global::Study_Buddy.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicatorColor = global::Study_Buddy.Resource.Attribute.tabIndicatorColor;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicatorFullWidth = global::Study_Buddy.Resource.Attribute.tabIndicatorFullWidth;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicatorGravity = global::Study_Buddy.Resource.Attribute.tabIndicatorGravity;
+			global::ColorPicker.Droid.Resource.Attribute.tabIndicatorHeight = global::Study_Buddy.Resource.Attribute.tabIndicatorHeight;
+			global::ColorPicker.Droid.Resource.Attribute.tabInlineLabel = global::Study_Buddy.Resource.Attribute.tabInlineLabel;
+			global::ColorPicker.Droid.Resource.Attribute.tabMaxWidth = global::Study_Buddy.Resource.Attribute.tabMaxWidth;
+			global::ColorPicker.Droid.Resource.Attribute.tabMinWidth = global::Study_Buddy.Resource.Attribute.tabMinWidth;
+			global::ColorPicker.Droid.Resource.Attribute.tabMode = global::Study_Buddy.Resource.Attribute.tabMode;
+			global::ColorPicker.Droid.Resource.Attribute.tabPadding = global::Study_Buddy.Resource.Attribute.tabPadding;
+			global::ColorPicker.Droid.Resource.Attribute.tabPaddingBottom = global::Study_Buddy.Resource.Attribute.tabPaddingBottom;
+			global::ColorPicker.Droid.Resource.Attribute.tabPaddingEnd = global::Study_Buddy.Resource.Attribute.tabPaddingEnd;
+			global::ColorPicker.Droid.Resource.Attribute.tabPaddingStart = global::Study_Buddy.Resource.Attribute.tabPaddingStart;
+			global::ColorPicker.Droid.Resource.Attribute.tabPaddingTop = global::Study_Buddy.Resource.Attribute.tabPaddingTop;
+			global::ColorPicker.Droid.Resource.Attribute.tabRippleColor = global::Study_Buddy.Resource.Attribute.tabRippleColor;
+			global::ColorPicker.Droid.Resource.Attribute.tabSelectedTextColor = global::Study_Buddy.Resource.Attribute.tabSelectedTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.tabStyle = global::Study_Buddy.Resource.Attribute.tabStyle;
+			global::ColorPicker.Droid.Resource.Attribute.tabTextAppearance = global::Study_Buddy.Resource.Attribute.tabTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.tabTextColor = global::Study_Buddy.Resource.Attribute.tabTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.tabUnboundedRipple = global::Study_Buddy.Resource.Attribute.tabUnboundedRipple;
+			global::ColorPicker.Droid.Resource.Attribute.textAllCaps = global::Study_Buddy.Resource.Attribute.textAllCaps;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceBody1 = global::Study_Buddy.Resource.Attribute.textAppearanceBody1;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceBody2 = global::Study_Buddy.Resource.Attribute.textAppearanceBody2;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceButton = global::Study_Buddy.Resource.Attribute.textAppearanceButton;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceCaption = global::Study_Buddy.Resource.Attribute.textAppearanceCaption;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline1 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline1;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline2 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline2;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline3 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline3;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline4 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline4;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline5 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline5;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceHeadline6 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline6;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Study_Buddy.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceListItem = global::Study_Buddy.Resource.Attribute.textAppearanceListItem;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceListItemSecondary = global::Study_Buddy.Resource.Attribute.textAppearanceListItemSecondary;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Study_Buddy.Resource.Attribute.textAppearanceListItemSmall;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceOverline = global::Study_Buddy.Resource.Attribute.textAppearanceOverline;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::Study_Buddy.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Study_Buddy.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Study_Buddy.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Study_Buddy.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceSubtitle1 = global::Study_Buddy.Resource.Attribute.textAppearanceSubtitle1;
+			global::ColorPicker.Droid.Resource.Attribute.textAppearanceSubtitle2 = global::Study_Buddy.Resource.Attribute.textAppearanceSubtitle2;
+			global::ColorPicker.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Study_Buddy.Resource.Attribute.textColorAlertDialogListItem;
+			global::ColorPicker.Droid.Resource.Attribute.textColorSearchUrl = global::Study_Buddy.Resource.Attribute.textColorSearchUrl;
+			global::ColorPicker.Droid.Resource.Attribute.textEndPadding = global::Study_Buddy.Resource.Attribute.textEndPadding;
+			global::ColorPicker.Droid.Resource.Attribute.textInputStyle = global::Study_Buddy.Resource.Attribute.textInputStyle;
+			global::ColorPicker.Droid.Resource.Attribute.textStartPadding = global::Study_Buddy.Resource.Attribute.textStartPadding;
+			global::ColorPicker.Droid.Resource.Attribute.theme = global::Study_Buddy.Resource.Attribute.theme;
+			global::ColorPicker.Droid.Resource.Attribute.thickness = global::Study_Buddy.Resource.Attribute.thickness;
+			global::ColorPicker.Droid.Resource.Attribute.thumbTextPadding = global::Study_Buddy.Resource.Attribute.thumbTextPadding;
+			global::ColorPicker.Droid.Resource.Attribute.thumbTint = global::Study_Buddy.Resource.Attribute.thumbTint;
+			global::ColorPicker.Droid.Resource.Attribute.thumbTintMode = global::Study_Buddy.Resource.Attribute.thumbTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.tickMark = global::Study_Buddy.Resource.Attribute.tickMark;
+			global::ColorPicker.Droid.Resource.Attribute.tickMarkTint = global::Study_Buddy.Resource.Attribute.tickMarkTint;
+			global::ColorPicker.Droid.Resource.Attribute.tickMarkTintMode = global::Study_Buddy.Resource.Attribute.tickMarkTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.tint = global::Study_Buddy.Resource.Attribute.tint;
+			global::ColorPicker.Droid.Resource.Attribute.tintMode = global::Study_Buddy.Resource.Attribute.tintMode;
+			global::ColorPicker.Droid.Resource.Attribute.title = global::Study_Buddy.Resource.Attribute.title;
+			global::ColorPicker.Droid.Resource.Attribute.titleEnabled = global::Study_Buddy.Resource.Attribute.titleEnabled;
+			global::ColorPicker.Droid.Resource.Attribute.titleMargin = global::Study_Buddy.Resource.Attribute.titleMargin;
+			global::ColorPicker.Droid.Resource.Attribute.titleMarginBottom = global::Study_Buddy.Resource.Attribute.titleMarginBottom;
+			global::ColorPicker.Droid.Resource.Attribute.titleMarginEnd = global::Study_Buddy.Resource.Attribute.titleMarginEnd;
+			global::ColorPicker.Droid.Resource.Attribute.titleMargins = global::Study_Buddy.Resource.Attribute.titleMargins;
+			global::ColorPicker.Droid.Resource.Attribute.titleMarginStart = global::Study_Buddy.Resource.Attribute.titleMarginStart;
+			global::ColorPicker.Droid.Resource.Attribute.titleMarginTop = global::Study_Buddy.Resource.Attribute.titleMarginTop;
+			global::ColorPicker.Droid.Resource.Attribute.titleTextAppearance = global::Study_Buddy.Resource.Attribute.titleTextAppearance;
+			global::ColorPicker.Droid.Resource.Attribute.titleTextColor = global::Study_Buddy.Resource.Attribute.titleTextColor;
+			global::ColorPicker.Droid.Resource.Attribute.titleTextStyle = global::Study_Buddy.Resource.Attribute.titleTextStyle;
+			global::ColorPicker.Droid.Resource.Attribute.toolbarId = global::Study_Buddy.Resource.Attribute.toolbarId;
+			global::ColorPicker.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Study_Buddy.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::ColorPicker.Droid.Resource.Attribute.toolbarStyle = global::Study_Buddy.Resource.Attribute.toolbarStyle;
+			global::ColorPicker.Droid.Resource.Attribute.tooltipForegroundColor = global::Study_Buddy.Resource.Attribute.tooltipForegroundColor;
+			global::ColorPicker.Droid.Resource.Attribute.tooltipFrameBackground = global::Study_Buddy.Resource.Attribute.tooltipFrameBackground;
+			global::ColorPicker.Droid.Resource.Attribute.tooltipText = global::Study_Buddy.Resource.Attribute.tooltipText;
+			global::ColorPicker.Droid.Resource.Attribute.track = global::Study_Buddy.Resource.Attribute.track;
+			global::ColorPicker.Droid.Resource.Attribute.trackTint = global::Study_Buddy.Resource.Attribute.trackTint;
+			global::ColorPicker.Droid.Resource.Attribute.trackTintMode = global::Study_Buddy.Resource.Attribute.trackTintMode;
+			global::ColorPicker.Droid.Resource.Attribute.ttcIndex = global::Study_Buddy.Resource.Attribute.ttcIndex;
+			global::ColorPicker.Droid.Resource.Attribute.useCompatPadding = global::Study_Buddy.Resource.Attribute.useCompatPadding;
+			global::ColorPicker.Droid.Resource.Attribute.viewInflaterClass = global::Study_Buddy.Resource.Attribute.viewInflaterClass;
+			global::ColorPicker.Droid.Resource.Attribute.voiceIcon = global::Study_Buddy.Resource.Attribute.voiceIcon;
+			global::ColorPicker.Droid.Resource.Attribute.windowActionBar = global::Study_Buddy.Resource.Attribute.windowActionBar;
+			global::ColorPicker.Droid.Resource.Attribute.windowActionBarOverlay = global::Study_Buddy.Resource.Attribute.windowActionBarOverlay;
+			global::ColorPicker.Droid.Resource.Attribute.windowActionModeOverlay = global::Study_Buddy.Resource.Attribute.windowActionModeOverlay;
+			global::ColorPicker.Droid.Resource.Attribute.windowFixedHeightMajor = global::Study_Buddy.Resource.Attribute.windowFixedHeightMajor;
+			global::ColorPicker.Droid.Resource.Attribute.windowFixedHeightMinor = global::Study_Buddy.Resource.Attribute.windowFixedHeightMinor;
+			global::ColorPicker.Droid.Resource.Attribute.windowFixedWidthMajor = global::Study_Buddy.Resource.Attribute.windowFixedWidthMajor;
+			global::ColorPicker.Droid.Resource.Attribute.windowFixedWidthMinor = global::Study_Buddy.Resource.Attribute.windowFixedWidthMinor;
+			global::ColorPicker.Droid.Resource.Attribute.windowMinWidthMajor = global::Study_Buddy.Resource.Attribute.windowMinWidthMajor;
+			global::ColorPicker.Droid.Resource.Attribute.windowMinWidthMinor = global::Study_Buddy.Resource.Attribute.windowMinWidthMinor;
+			global::ColorPicker.Droid.Resource.Attribute.windowNoTitle = global::Study_Buddy.Resource.Attribute.windowNoTitle;
+			global::ColorPicker.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Study_Buddy.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::ColorPicker.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::Study_Buddy.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::ColorPicker.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Study_Buddy.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::ColorPicker.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Study_Buddy.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::ColorPicker.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Study_Buddy.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::ColorPicker.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Study_Buddy.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::ColorPicker.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::Study_Buddy.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::ColorPicker.Droid.Resource.Color.abc_btn_colored_text_material = global::Study_Buddy.Resource.Color.abc_btn_colored_text_material;
+			global::ColorPicker.Droid.Resource.Color.abc_color_highlight_material = global::Study_Buddy.Resource.Color.abc_color_highlight_material;
+			global::ColorPicker.Droid.Resource.Color.abc_hint_foreground_material_dark = global::Study_Buddy.Resource.Color.abc_hint_foreground_material_dark;
+			global::ColorPicker.Droid.Resource.Color.abc_hint_foreground_material_light = global::Study_Buddy.Resource.Color.abc_hint_foreground_material_light;
+			global::ColorPicker.Droid.Resource.Color.abc_input_method_navigation_guard = global::Study_Buddy.Resource.Color.abc_input_method_navigation_guard;
+			global::ColorPicker.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Study_Buddy.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::ColorPicker.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Study_Buddy.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::ColorPicker.Droid.Resource.Color.abc_primary_text_material_dark = global::Study_Buddy.Resource.Color.abc_primary_text_material_dark;
+			global::ColorPicker.Droid.Resource.Color.abc_primary_text_material_light = global::Study_Buddy.Resource.Color.abc_primary_text_material_light;
+			global::ColorPicker.Droid.Resource.Color.abc_search_url_text = global::Study_Buddy.Resource.Color.abc_search_url_text;
+			global::ColorPicker.Droid.Resource.Color.abc_search_url_text_normal = global::Study_Buddy.Resource.Color.abc_search_url_text_normal;
+			global::ColorPicker.Droid.Resource.Color.abc_search_url_text_pressed = global::Study_Buddy.Resource.Color.abc_search_url_text_pressed;
+			global::ColorPicker.Droid.Resource.Color.abc_search_url_text_selected = global::Study_Buddy.Resource.Color.abc_search_url_text_selected;
+			global::ColorPicker.Droid.Resource.Color.abc_secondary_text_material_dark = global::Study_Buddy.Resource.Color.abc_secondary_text_material_dark;
+			global::ColorPicker.Droid.Resource.Color.abc_secondary_text_material_light = global::Study_Buddy.Resource.Color.abc_secondary_text_material_light;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_btn_checkable = global::Study_Buddy.Resource.Color.abc_tint_btn_checkable;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_default = global::Study_Buddy.Resource.Color.abc_tint_default;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_edittext = global::Study_Buddy.Resource.Color.abc_tint_edittext;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_seek_thumb = global::Study_Buddy.Resource.Color.abc_tint_seek_thumb;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_spinner = global::Study_Buddy.Resource.Color.abc_tint_spinner;
+			global::ColorPicker.Droid.Resource.Color.abc_tint_switch_track = global::Study_Buddy.Resource.Color.abc_tint_switch_track;
+			global::ColorPicker.Droid.Resource.Color.accent_material_dark = global::Study_Buddy.Resource.Color.accent_material_dark;
+			global::ColorPicker.Droid.Resource.Color.accent_material_light = global::Study_Buddy.Resource.Color.accent_material_light;
+			global::ColorPicker.Droid.Resource.Color.background_floating_material_dark = global::Study_Buddy.Resource.Color.background_floating_material_dark;
+			global::ColorPicker.Droid.Resource.Color.background_floating_material_light = global::Study_Buddy.Resource.Color.background_floating_material_light;
+			global::ColorPicker.Droid.Resource.Color.background_material_dark = global::Study_Buddy.Resource.Color.background_material_dark;
+			global::ColorPicker.Droid.Resource.Color.background_material_light = global::Study_Buddy.Resource.Color.background_material_light;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_disabled_material_dark;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Study_Buddy.Resource.Color.bright_foreground_disabled_material_light;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_inverse_material_dark;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Study_Buddy.Resource.Color.bright_foreground_inverse_material_light;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_material_dark;
+			global::ColorPicker.Droid.Resource.Color.bright_foreground_material_light = global::Study_Buddy.Resource.Color.bright_foreground_material_light;
+			global::ColorPicker.Droid.Resource.Color.browser_actions_bg_grey = global::Study_Buddy.Resource.Color.browser_actions_bg_grey;
+			global::ColorPicker.Droid.Resource.Color.browser_actions_divider_color = global::Study_Buddy.Resource.Color.browser_actions_divider_color;
+			global::ColorPicker.Droid.Resource.Color.browser_actions_text_color = global::Study_Buddy.Resource.Color.browser_actions_text_color;
+			global::ColorPicker.Droid.Resource.Color.browser_actions_title_color = global::Study_Buddy.Resource.Color.browser_actions_title_color;
+			global::ColorPicker.Droid.Resource.Color.button_material_dark = global::Study_Buddy.Resource.Color.button_material_dark;
+			global::ColorPicker.Droid.Resource.Color.button_material_light = global::Study_Buddy.Resource.Color.button_material_light;
+			global::ColorPicker.Droid.Resource.Color.cardview_dark_background = global::Study_Buddy.Resource.Color.cardview_dark_background;
+			global::ColorPicker.Droid.Resource.Color.cardview_light_background = global::Study_Buddy.Resource.Color.cardview_light_background;
+			global::ColorPicker.Droid.Resource.Color.cardview_shadow_end_color = global::Study_Buddy.Resource.Color.cardview_shadow_end_color;
+			global::ColorPicker.Droid.Resource.Color.cardview_shadow_start_color = global::Study_Buddy.Resource.Color.cardview_shadow_start_color;
+			global::ColorPicker.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::Study_Buddy.Resource.Color.design_bottom_navigation_shadow_color;
+			global::ColorPicker.Droid.Resource.Color.design_default_color_primary = global::Study_Buddy.Resource.Color.design_default_color_primary;
+			global::ColorPicker.Droid.Resource.Color.design_default_color_primary_dark = global::Study_Buddy.Resource.Color.design_default_color_primary_dark;
+			global::ColorPicker.Droid.Resource.Color.design_error = global::Study_Buddy.Resource.Color.design_error;
+			global::ColorPicker.Droid.Resource.Color.design_fab_shadow_end_color = global::Study_Buddy.Resource.Color.design_fab_shadow_end_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_shadow_mid_color = global::Study_Buddy.Resource.Color.design_fab_shadow_mid_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_shadow_start_color = global::Study_Buddy.Resource.Color.design_fab_shadow_start_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Study_Buddy.Resource.Color.design_fab_stroke_end_inner_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Study_Buddy.Resource.Color.design_fab_stroke_end_outer_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Study_Buddy.Resource.Color.design_fab_stroke_top_inner_color;
+			global::ColorPicker.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Study_Buddy.Resource.Color.design_fab_stroke_top_outer_color;
+			global::ColorPicker.Droid.Resource.Color.design_snackbar_background_color = global::Study_Buddy.Resource.Color.design_snackbar_background_color;
+			global::ColorPicker.Droid.Resource.Color.design_tint_password_toggle = global::Study_Buddy.Resource.Color.design_tint_password_toggle;
+			global::ColorPicker.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Study_Buddy.Resource.Color.dim_foreground_disabled_material_dark;
+			global::ColorPicker.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Study_Buddy.Resource.Color.dim_foreground_disabled_material_light;
+			global::ColorPicker.Droid.Resource.Color.dim_foreground_material_dark = global::Study_Buddy.Resource.Color.dim_foreground_material_dark;
+			global::ColorPicker.Droid.Resource.Color.dim_foreground_material_light = global::Study_Buddy.Resource.Color.dim_foreground_material_light;
+			global::ColorPicker.Droid.Resource.Color.error_color_material_dark = global::Study_Buddy.Resource.Color.error_color_material_dark;
+			global::ColorPicker.Droid.Resource.Color.error_color_material_light = global::Study_Buddy.Resource.Color.error_color_material_light;
+			global::ColorPicker.Droid.Resource.Color.foreground_material_dark = global::Study_Buddy.Resource.Color.foreground_material_dark;
+			global::ColorPicker.Droid.Resource.Color.foreground_material_light = global::Study_Buddy.Resource.Color.foreground_material_light;
+			global::ColorPicker.Droid.Resource.Color.highlighted_text_material_dark = global::Study_Buddy.Resource.Color.highlighted_text_material_dark;
+			global::ColorPicker.Droid.Resource.Color.highlighted_text_material_light = global::Study_Buddy.Resource.Color.highlighted_text_material_light;
+			global::ColorPicker.Droid.Resource.Color.material_blue_grey_800 = global::Study_Buddy.Resource.Color.material_blue_grey_800;
+			global::ColorPicker.Droid.Resource.Color.material_blue_grey_900 = global::Study_Buddy.Resource.Color.material_blue_grey_900;
+			global::ColorPicker.Droid.Resource.Color.material_blue_grey_950 = global::Study_Buddy.Resource.Color.material_blue_grey_950;
+			global::ColorPicker.Droid.Resource.Color.material_deep_teal_200 = global::Study_Buddy.Resource.Color.material_deep_teal_200;
+			global::ColorPicker.Droid.Resource.Color.material_deep_teal_500 = global::Study_Buddy.Resource.Color.material_deep_teal_500;
+			global::ColorPicker.Droid.Resource.Color.material_grey_100 = global::Study_Buddy.Resource.Color.material_grey_100;
+			global::ColorPicker.Droid.Resource.Color.material_grey_300 = global::Study_Buddy.Resource.Color.material_grey_300;
+			global::ColorPicker.Droid.Resource.Color.material_grey_50 = global::Study_Buddy.Resource.Color.material_grey_50;
+			global::ColorPicker.Droid.Resource.Color.material_grey_600 = global::Study_Buddy.Resource.Color.material_grey_600;
+			global::ColorPicker.Droid.Resource.Color.material_grey_800 = global::Study_Buddy.Resource.Color.material_grey_800;
+			global::ColorPicker.Droid.Resource.Color.material_grey_850 = global::Study_Buddy.Resource.Color.material_grey_850;
+			global::ColorPicker.Droid.Resource.Color.material_grey_900 = global::Study_Buddy.Resource.Color.material_grey_900;
+			global::ColorPicker.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::Study_Buddy.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::ColorPicker.Droid.Resource.Color.mtrl_bottom_nav_item_tint = global::Study_Buddy.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_bg_color_disabled = global::Study_Buddy.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_bg_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_bg_color_selector;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_ripple_color = global::Study_Buddy.Resource.Color.mtrl_btn_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_stroke_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Study_Buddy.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_text_color_disabled = global::Study_Buddy.Resource.Color.mtrl_btn_text_color_disabled;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_text_color_selector;
+			global::ColorPicker.Droid.Resource.Color.mtrl_btn_transparent_bg_color = global::Study_Buddy.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_chip_background_color = global::Study_Buddy.Resource.Color.mtrl_chip_background_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_chip_close_icon_tint = global::Study_Buddy.Resource.Color.mtrl_chip_close_icon_tint;
+			global::ColorPicker.Droid.Resource.Color.mtrl_chip_ripple_color = global::Study_Buddy.Resource.Color.mtrl_chip_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_chip_text_color = global::Study_Buddy.Resource.Color.mtrl_chip_text_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_fab_ripple_color = global::Study_Buddy.Resource.Color.mtrl_fab_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_scrim_color = global::Study_Buddy.Resource.Color.mtrl_scrim_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_tabs_colored_ripple_color = global::Study_Buddy.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_tabs_icon_color_selector = global::Study_Buddy.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::ColorPicker.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Study_Buddy.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::ColorPicker.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::ColorPicker.Droid.Resource.Color.mtrl_tabs_ripple_color = global::Study_Buddy.Resource.Color.mtrl_tabs_ripple_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Study_Buddy.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_textinput_disabled_color = global::Study_Buddy.Resource.Color.mtrl_textinput_disabled_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Study_Buddy.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Study_Buddy.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::ColorPicker.Droid.Resource.Color.mtrl_text_btn_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::ColorPicker.Droid.Resource.Color.notification_action_color_filter = global::Study_Buddy.Resource.Color.notification_action_color_filter;
+			global::ColorPicker.Droid.Resource.Color.notification_icon_bg_color = global::Study_Buddy.Resource.Color.notification_icon_bg_color;
+			global::ColorPicker.Droid.Resource.Color.notification_material_background_media_default_color = global::Study_Buddy.Resource.Color.notification_material_background_media_default_color;
+			global::ColorPicker.Droid.Resource.Color.primary_dark_material_dark = global::Study_Buddy.Resource.Color.primary_dark_material_dark;
+			global::ColorPicker.Droid.Resource.Color.primary_dark_material_light = global::Study_Buddy.Resource.Color.primary_dark_material_light;
+			global::ColorPicker.Droid.Resource.Color.primary_material_dark = global::Study_Buddy.Resource.Color.primary_material_dark;
+			global::ColorPicker.Droid.Resource.Color.primary_material_light = global::Study_Buddy.Resource.Color.primary_material_light;
+			global::ColorPicker.Droid.Resource.Color.primary_text_default_material_dark = global::Study_Buddy.Resource.Color.primary_text_default_material_dark;
+			global::ColorPicker.Droid.Resource.Color.primary_text_default_material_light = global::Study_Buddy.Resource.Color.primary_text_default_material_light;
+			global::ColorPicker.Droid.Resource.Color.primary_text_disabled_material_dark = global::Study_Buddy.Resource.Color.primary_text_disabled_material_dark;
+			global::ColorPicker.Droid.Resource.Color.primary_text_disabled_material_light = global::Study_Buddy.Resource.Color.primary_text_disabled_material_light;
+			global::ColorPicker.Droid.Resource.Color.ripple_material_dark = global::Study_Buddy.Resource.Color.ripple_material_dark;
+			global::ColorPicker.Droid.Resource.Color.ripple_material_light = global::Study_Buddy.Resource.Color.ripple_material_light;
+			global::ColorPicker.Droid.Resource.Color.secondary_text_default_material_dark = global::Study_Buddy.Resource.Color.secondary_text_default_material_dark;
+			global::ColorPicker.Droid.Resource.Color.secondary_text_default_material_light = global::Study_Buddy.Resource.Color.secondary_text_default_material_light;
+			global::ColorPicker.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Study_Buddy.Resource.Color.secondary_text_disabled_material_dark;
+			global::ColorPicker.Droid.Resource.Color.secondary_text_disabled_material_light = global::Study_Buddy.Resource.Color.secondary_text_disabled_material_light;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_disabled_material_dark;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Study_Buddy.Resource.Color.switch_thumb_disabled_material_light;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_material_dark;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_material_light = global::Study_Buddy.Resource.Color.switch_thumb_material_light;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_normal_material_dark;
+			global::ColorPicker.Droid.Resource.Color.switch_thumb_normal_material_light = global::Study_Buddy.Resource.Color.switch_thumb_normal_material_light;
+			global::ColorPicker.Droid.Resource.Color.tooltip_background_dark = global::Study_Buddy.Resource.Color.tooltip_background_dark;
+			global::ColorPicker.Droid.Resource.Color.tooltip_background_light = global::Study_Buddy.Resource.Color.tooltip_background_light;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Study_Buddy.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_height_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_elevation_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Study_Buddy.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Study_Buddy.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_height_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_width_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Study_Buddy.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::ColorPicker.Droid.Resource.Dimension.abc_alert_dialog_button_dimen = global::Study_Buddy.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::ColorPicker.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Study_Buddy.Resource.Dimension.abc_button_inset_vertical_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Study_Buddy.Resource.Dimension.abc_button_padding_vertical_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Study_Buddy.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::ColorPicker.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Study_Buddy.Resource.Dimension.abc_config_prefDialogWidth;
+			global::ColorPicker.Droid.Resource.Dimension.abc_control_corner_material = global::Study_Buddy.Resource.Dimension.abc_control_corner_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_control_inset_material = global::Study_Buddy.Resource.Dimension.abc_control_inset_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_control_padding_material = global::Study_Buddy.Resource.Dimension.abc_control_padding_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_corner_radius_material = global::Study_Buddy.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Study_Buddy.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Study_Buddy.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Study_Buddy.Resource.Dimension.abc_dialog_min_width_major;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_min_width_minor;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_padding_material = global::Study_Buddy.Resource.Dimension.abc_dialog_padding_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Study_Buddy.Resource.Dimension.abc_dialog_padding_top_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::Study_Buddy.Resource.Dimension.abc_dialog_title_divider_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Study_Buddy.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::ColorPicker.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Study_Buddy.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::ColorPicker.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::ColorPicker.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_floating_window_z = global::Study_Buddy.Resource.Dimension.abc_floating_window_z;
+			global::ColorPicker.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Study_Buddy.Resource.Dimension.abc_panel_menu_list_width;
+			global::ColorPicker.Droid.Resource.Dimension.abc_progress_bar_height_material = global::Study_Buddy.Resource.Dimension.abc_progress_bar_height_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_search_view_preferred_height = global::Study_Buddy.Resource.Dimension.abc_search_view_preferred_height;
+			global::ColorPicker.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Study_Buddy.Resource.Dimension.abc_search_view_preferred_width;
+			global::ColorPicker.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Study_Buddy.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Study_Buddy.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_switch_padding = global::Study_Buddy.Resource.Dimension.abc_switch_padding;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Study_Buddy.Resource.Dimension.abc_text_size_body_1_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Study_Buddy.Resource.Dimension.abc_text_size_body_2_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_button_material = global::Study_Buddy.Resource.Dimension.abc_text_size_button_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_caption_material = global::Study_Buddy.Resource.Dimension.abc_text_size_caption_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_1_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_2_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_3_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_4_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_headline_material = global::Study_Buddy.Resource.Dimension.abc_text_size_headline_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_large_material = global::Study_Buddy.Resource.Dimension.abc_text_size_large_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_medium_material = global::Study_Buddy.Resource.Dimension.abc_text_size_medium_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::Study_Buddy.Resource.Dimension.abc_text_size_menu_header_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_menu_material = global::Study_Buddy.Resource.Dimension.abc_text_size_menu_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_small_material = global::Study_Buddy.Resource.Dimension.abc_text_size_small_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Study_Buddy.Resource.Dimension.abc_text_size_subhead_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Study_Buddy.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_title_material = global::Study_Buddy.Resource.Dimension.abc_text_size_title_material;
+			global::ColorPicker.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Study_Buddy.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::ColorPicker.Droid.Resource.Dimension.browser_actions_context_menu_max_width = global::Study_Buddy.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.browser_actions_context_menu_min_padding = global::Study_Buddy.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::ColorPicker.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::Study_Buddy.Resource.Dimension.cardview_compat_inset_shadow;
+			global::ColorPicker.Droid.Resource.Dimension.cardview_default_elevation = global::Study_Buddy.Resource.Dimension.cardview_default_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.cardview_default_radius = global::Study_Buddy.Resource.Dimension.cardview_default_radius;
+			global::ColorPicker.Droid.Resource.Dimension.compat_button_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.compat_button_inset_vertical_material = global::Study_Buddy.Resource.Dimension.compat_button_inset_vertical_material;
+			global::ColorPicker.Droid.Resource.Dimension.compat_button_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::ColorPicker.Droid.Resource.Dimension.compat_button_padding_vertical_material = global::Study_Buddy.Resource.Dimension.compat_button_padding_vertical_material;
+			global::ColorPicker.Droid.Resource.Dimension.compat_control_corner_material = global::Study_Buddy.Resource.Dimension.compat_control_corner_material;
+			global::ColorPicker.Droid.Resource.Dimension.compat_notification_large_icon_max_height = global::Study_Buddy.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::ColorPicker.Droid.Resource.Dimension.compat_notification_large_icon_max_width = global::Study_Buddy.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_appbar_elevation = global::Study_Buddy.Resource.Dimension.design_appbar_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_height = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_height;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_icon_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_margin = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_margin;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Study_Buddy.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Study_Buddy.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_border_width = global::Study_Buddy.Resource.Dimension.design_fab_border_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_elevation = global::Study_Buddy.Resource.Dimension.design_fab_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_image_size = global::Study_Buddy.Resource.Dimension.design_fab_image_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_size_mini = global::Study_Buddy.Resource.Dimension.design_fab_size_mini;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_size_normal = global::Study_Buddy.Resource.Dimension.design_fab_size_normal;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Study_Buddy.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::ColorPicker.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Study_Buddy.Resource.Dimension.design_fab_translation_z_pressed;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_elevation = global::Study_Buddy.Resource.Dimension.design_navigation_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_icon_padding = global::Study_Buddy.Resource.Dimension.design_navigation_icon_padding;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_icon_size = global::Study_Buddy.Resource.Dimension.design_navigation_icon_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_item_horizontal_padding = global::Study_Buddy.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_item_icon_padding = global::Study_Buddy.Resource.Dimension.design_navigation_item_icon_padding;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_max_width = global::Study_Buddy.Resource.Dimension.design_navigation_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Study_Buddy.Resource.Dimension.design_navigation_padding_bottom;
+			global::ColorPicker.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Study_Buddy.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Study_Buddy.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Study_Buddy.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_elevation = global::Study_Buddy.Resource.Dimension.design_snackbar_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Study_Buddy.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_max_width = global::Study_Buddy.Resource.Dimension.design_snackbar_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_min_width = global::Study_Buddy.Resource.Dimension.design_snackbar_min_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_vertical;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::ColorPicker.Droid.Resource.Dimension.design_snackbar_text_size = global::Study_Buddy.Resource.Dimension.design_snackbar_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_tab_max_width = global::Study_Buddy.Resource.Dimension.design_tab_max_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Study_Buddy.Resource.Dimension.design_tab_scrollable_min_width;
+			global::ColorPicker.Droid.Resource.Dimension.design_tab_text_size = global::Study_Buddy.Resource.Dimension.design_tab_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.design_tab_text_size_2line = global::Study_Buddy.Resource.Dimension.design_tab_text_size_2line;
+			global::ColorPicker.Droid.Resource.Dimension.design_textinput_caption_translate_y = global::Study_Buddy.Resource.Dimension.design_textinput_caption_translate_y;
+			global::ColorPicker.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Study_Buddy.Resource.Dimension.disabled_alpha_material_dark;
+			global::ColorPicker.Droid.Resource.Dimension.disabled_alpha_material_light = global::Study_Buddy.Resource.Dimension.disabled_alpha_material_light;
+			global::ColorPicker.Droid.Resource.Dimension.fastscroll_default_thickness = global::Study_Buddy.Resource.Dimension.fastscroll_default_thickness;
+			global::ColorPicker.Droid.Resource.Dimension.fastscroll_margin = global::Study_Buddy.Resource.Dimension.fastscroll_margin;
+			global::ColorPicker.Droid.Resource.Dimension.fastscroll_minimum_range = global::Study_Buddy.Resource.Dimension.fastscroll_minimum_range;
+			global::ColorPicker.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_colored;
+			global::ColorPicker.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_dark;
+			global::ColorPicker.Droid.Resource.Dimension.highlight_alpha_material_light = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_light;
+			global::ColorPicker.Droid.Resource.Dimension.hint_alpha_material_dark = global::Study_Buddy.Resource.Dimension.hint_alpha_material_dark;
+			global::ColorPicker.Droid.Resource.Dimension.hint_alpha_material_light = global::Study_Buddy.Resource.Dimension.hint_alpha_material_light;
+			global::ColorPicker.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::Study_Buddy.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::ColorPicker.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::Study_Buddy.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::ColorPicker.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Study_Buddy.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::ColorPicker.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Study_Buddy.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::ColorPicker.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Study_Buddy.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_bottomappbar_height = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_height;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_btn_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Study_Buddy.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_disabled_elevation = global::Study_Buddy.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_disabled_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_disabled_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_elevation = global::Study_Buddy.Resource.Dimension.mtrl_btn_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_focused_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_focused_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_hovered_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_hovered_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_btn_icon_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_inset = global::Study_Buddy.Resource.Dimension.mtrl_btn_inset;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_letter_spacing = global::Study_Buddy.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_padding_bottom = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_left;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_padding_right = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_right;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_padding_top = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_top;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_pressed_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_pressed_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_stroke_size = global::Study_Buddy.Resource.Dimension.mtrl_btn_stroke_size;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_text_size = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_btn_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_card_elevation = global::Study_Buddy.Resource.Dimension.mtrl_card_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_card_spacing = global::Study_Buddy.Resource.Dimension.mtrl_card_spacing;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Study_Buddy.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_chip_text_size = global::Study_Buddy.Resource.Dimension.mtrl_chip_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_fab_elevation = global::Study_Buddy.Resource.Dimension.mtrl_fab_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Study_Buddy.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Study_Buddy.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_navigation_elevation = global::Study_Buddy.Resource.Dimension.mtrl_navigation_elevation;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Study_Buddy.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_snackbar_margin = global::Study_Buddy.Resource.Dimension.mtrl_snackbar_margin;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_padding_end = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Study_Buddy.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::ColorPicker.Droid.Resource.Dimension.mtrl_toolbar_default_height = global::Study_Buddy.Resource.Dimension.mtrl_toolbar_default_height;
+			global::ColorPicker.Droid.Resource.Dimension.notification_action_icon_size = global::Study_Buddy.Resource.Dimension.notification_action_icon_size;
+			global::ColorPicker.Droid.Resource.Dimension.notification_action_text_size = global::Study_Buddy.Resource.Dimension.notification_action_text_size;
+			global::ColorPicker.Droid.Resource.Dimension.notification_big_circle_margin = global::Study_Buddy.Resource.Dimension.notification_big_circle_margin;
+			global::ColorPicker.Droid.Resource.Dimension.notification_content_margin_start = global::Study_Buddy.Resource.Dimension.notification_content_margin_start;
+			global::ColorPicker.Droid.Resource.Dimension.notification_large_icon_height = global::Study_Buddy.Resource.Dimension.notification_large_icon_height;
+			global::ColorPicker.Droid.Resource.Dimension.notification_large_icon_width = global::Study_Buddy.Resource.Dimension.notification_large_icon_width;
+			global::ColorPicker.Droid.Resource.Dimension.notification_main_column_padding_top = global::Study_Buddy.Resource.Dimension.notification_main_column_padding_top;
+			global::ColorPicker.Droid.Resource.Dimension.notification_media_narrow_margin = global::Study_Buddy.Resource.Dimension.notification_media_narrow_margin;
+			global::ColorPicker.Droid.Resource.Dimension.notification_right_icon_size = global::Study_Buddy.Resource.Dimension.notification_right_icon_size;
+			global::ColorPicker.Droid.Resource.Dimension.notification_right_side_padding_top = global::Study_Buddy.Resource.Dimension.notification_right_side_padding_top;
+			global::ColorPicker.Droid.Resource.Dimension.notification_small_icon_background_padding = global::Study_Buddy.Resource.Dimension.notification_small_icon_background_padding;
+			global::ColorPicker.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::Study_Buddy.Resource.Dimension.notification_small_icon_size_as_large;
+			global::ColorPicker.Droid.Resource.Dimension.notification_subtext_size = global::Study_Buddy.Resource.Dimension.notification_subtext_size;
+			global::ColorPicker.Droid.Resource.Dimension.notification_top_pad = global::Study_Buddy.Resource.Dimension.notification_top_pad;
+			global::ColorPicker.Droid.Resource.Dimension.notification_top_pad_large_text = global::Study_Buddy.Resource.Dimension.notification_top_pad_large_text;
+			global::ColorPicker.Droid.Resource.Dimension.subtitle_corner_radius = global::Study_Buddy.Resource.Dimension.subtitle_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.subtitle_outline_width = global::Study_Buddy.Resource.Dimension.subtitle_outline_width;
+			global::ColorPicker.Droid.Resource.Dimension.subtitle_shadow_offset = global::Study_Buddy.Resource.Dimension.subtitle_shadow_offset;
+			global::ColorPicker.Droid.Resource.Dimension.subtitle_shadow_radius = global::Study_Buddy.Resource.Dimension.subtitle_shadow_radius;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_corner_radius = global::Study_Buddy.Resource.Dimension.tooltip_corner_radius;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_horizontal_padding = global::Study_Buddy.Resource.Dimension.tooltip_horizontal_padding;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_margin = global::Study_Buddy.Resource.Dimension.tooltip_margin;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Study_Buddy.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_precise_anchor_threshold = global::Study_Buddy.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_vertical_padding = global::Study_Buddy.Resource.Dimension.tooltip_vertical_padding;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_y_offset_non_touch = global::Study_Buddy.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::ColorPicker.Droid.Resource.Dimension.tooltip_y_offset_touch = global::Study_Buddy.Resource.Dimension.tooltip_y_offset_touch;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Study_Buddy.Resource.Drawable.abc_action_bar_item_background_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_borderless_material = global::Study_Buddy.Resource.Drawable.abc_btn_borderless_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_check_material = global::Study_Buddy.Resource.Drawable.abc_btn_check_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Study_Buddy.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_colored_material = global::Study_Buddy.Resource.Drawable.abc_btn_colored_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Study_Buddy.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_radio_material = global::Study_Buddy.Resource.Drawable.abc_btn_radio_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Study_Buddy.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Study_Buddy.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::ColorPicker.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Study_Buddy.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::ColorPicker.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Study_Buddy.Resource.Drawable.abc_cab_background_internal_bg;
+			global::ColorPicker.Droid.Resource.Drawable.abc_cab_background_top_material = global::Study_Buddy.Resource.Drawable.abc_cab_background_top_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_control_background_material = global::Study_Buddy.Resource.Drawable.abc_control_background_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_dialog_material_background = global::Study_Buddy.Resource.Drawable.abc_dialog_material_background;
+			global::ColorPicker.Droid.Resource.Drawable.abc_edit_text_material = global::Study_Buddy.Resource.Drawable.abc_edit_text_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_ab_back_material = global::Study_Buddy.Resource.Drawable.abc_ic_ab_back_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Study_Buddy.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_clear_material = global::Study_Buddy.Resource.Drawable.abc_ic_clear_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_go_search_api_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::Study_Buddy.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_search_api_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_16dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_36dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_48dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Study_Buddy.Resource.Drawable.abc_item_background_holo_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_item_background_holo_light = global::Study_Buddy.Resource.Drawable.abc_item_background_holo_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_divider_material = global::Study_Buddy.Resource.Drawable.abc_list_divider_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_focused_holo = global::Study_Buddy.Resource.Drawable.abc_list_focused_holo;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Study_Buddy.Resource.Drawable.abc_list_longpressed_holo;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_pressed_holo_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_holo_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_holo_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Study_Buddy.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::ColorPicker.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Study_Buddy.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ratingbar_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_small_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::ColorPicker.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::ColorPicker.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_thumb_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_seekbar_track_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_track_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Study_Buddy.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_switch_thumb_material = global::Study_Buddy.Resource.Drawable.abc_switch_thumb_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_tab_indicator_material = global::Study_Buddy.Resource.Drawable.abc_tab_indicator_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::ColorPicker.Droid.Resource.Drawable.abc_textfield_search_material = global::Study_Buddy.Resource.Drawable.abc_textfield_search_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_cursor_material = global::Study_Buddy.Resource.Drawable.abc_text_cursor_material;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::ColorPicker.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::ColorPicker.Droid.Resource.Drawable.abc_vector_test = global::Study_Buddy.Resource.Drawable.abc_vector_test;
+			global::ColorPicker.Droid.Resource.Drawable.avd_hide_password = global::Study_Buddy.Resource.Drawable.avd_hide_password;
+			global::ColorPicker.Droid.Resource.Drawable.avd_show_password = global::Study_Buddy.Resource.Drawable.avd_show_password;
+			global::ColorPicker.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::Study_Buddy.Resource.Drawable.design_bottom_navigation_item_background;
+			global::ColorPicker.Droid.Resource.Drawable.design_fab_background = global::Study_Buddy.Resource.Drawable.design_fab_background;
+			global::ColorPicker.Droid.Resource.Drawable.design_ic_visibility = global::Study_Buddy.Resource.Drawable.design_ic_visibility;
+			global::ColorPicker.Droid.Resource.Drawable.design_ic_visibility_off = global::Study_Buddy.Resource.Drawable.design_ic_visibility_off;
+			global::ColorPicker.Droid.Resource.Drawable.design_password_eye = global::Study_Buddy.Resource.Drawable.design_password_eye;
+			global::ColorPicker.Droid.Resource.Drawable.design_snackbar_background = global::Study_Buddy.Resource.Drawable.design_snackbar_background;
+			global::ColorPicker.Droid.Resource.Drawable.ic_mtrl_chip_checked_black = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::ColorPicker.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::ColorPicker.Droid.Resource.Drawable.ic_mtrl_chip_close_circle = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::ColorPicker.Droid.Resource.Drawable.mtrl_snackbar_background = global::Study_Buddy.Resource.Drawable.mtrl_snackbar_background;
+			global::ColorPicker.Droid.Resource.Drawable.mtrl_tabs_default_indicator = global::Study_Buddy.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::ColorPicker.Droid.Resource.Drawable.navigation_empty_icon = global::Study_Buddy.Resource.Drawable.navigation_empty_icon;
+			global::ColorPicker.Droid.Resource.Drawable.notification_action_background = global::Study_Buddy.Resource.Drawable.notification_action_background;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg = global::Study_Buddy.Resource.Drawable.notification_bg;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg_low = global::Study_Buddy.Resource.Drawable.notification_bg_low;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg_low_normal = global::Study_Buddy.Resource.Drawable.notification_bg_low_normal;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg_low_pressed = global::Study_Buddy.Resource.Drawable.notification_bg_low_pressed;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg_normal = global::Study_Buddy.Resource.Drawable.notification_bg_normal;
+			global::ColorPicker.Droid.Resource.Drawable.notification_bg_normal_pressed = global::Study_Buddy.Resource.Drawable.notification_bg_normal_pressed;
+			global::ColorPicker.Droid.Resource.Drawable.notification_icon_background = global::Study_Buddy.Resource.Drawable.notification_icon_background;
+			global::ColorPicker.Droid.Resource.Drawable.notification_template_icon_bg = global::Study_Buddy.Resource.Drawable.notification_template_icon_bg;
+			global::ColorPicker.Droid.Resource.Drawable.notification_template_icon_low_bg = global::Study_Buddy.Resource.Drawable.notification_template_icon_low_bg;
+			global::ColorPicker.Droid.Resource.Drawable.notification_tile_bg = global::Study_Buddy.Resource.Drawable.notification_tile_bg;
+			global::ColorPicker.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::Study_Buddy.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::ColorPicker.Droid.Resource.Drawable.tooltip_frame_dark = global::Study_Buddy.Resource.Drawable.tooltip_frame_dark;
+			global::ColorPicker.Droid.Resource.Drawable.tooltip_frame_light = global::Study_Buddy.Resource.Drawable.tooltip_frame_light;
+			global::ColorPicker.Droid.Resource.Id.action0 = global::Study_Buddy.Resource.Id.action0;
+			global::ColorPicker.Droid.Resource.Id.actions = global::Study_Buddy.Resource.Id.actions;
+			global::ColorPicker.Droid.Resource.Id.action_bar = global::Study_Buddy.Resource.Id.action_bar;
+			global::ColorPicker.Droid.Resource.Id.action_bar_activity_content = global::Study_Buddy.Resource.Id.action_bar_activity_content;
+			global::ColorPicker.Droid.Resource.Id.action_bar_container = global::Study_Buddy.Resource.Id.action_bar_container;
+			global::ColorPicker.Droid.Resource.Id.action_bar_root = global::Study_Buddy.Resource.Id.action_bar_root;
+			global::ColorPicker.Droid.Resource.Id.action_bar_spinner = global::Study_Buddy.Resource.Id.action_bar_spinner;
+			global::ColorPicker.Droid.Resource.Id.action_bar_subtitle = global::Study_Buddy.Resource.Id.action_bar_subtitle;
+			global::ColorPicker.Droid.Resource.Id.action_bar_title = global::Study_Buddy.Resource.Id.action_bar_title;
+			global::ColorPicker.Droid.Resource.Id.action_container = global::Study_Buddy.Resource.Id.action_container;
+			global::ColorPicker.Droid.Resource.Id.action_context_bar = global::Study_Buddy.Resource.Id.action_context_bar;
+			global::ColorPicker.Droid.Resource.Id.action_divider = global::Study_Buddy.Resource.Id.action_divider;
+			global::ColorPicker.Droid.Resource.Id.action_image = global::Study_Buddy.Resource.Id.action_image;
+			global::ColorPicker.Droid.Resource.Id.action_menu_divider = global::Study_Buddy.Resource.Id.action_menu_divider;
+			global::ColorPicker.Droid.Resource.Id.action_menu_presenter = global::Study_Buddy.Resource.Id.action_menu_presenter;
+			global::ColorPicker.Droid.Resource.Id.action_mode_bar = global::Study_Buddy.Resource.Id.action_mode_bar;
+			global::ColorPicker.Droid.Resource.Id.action_mode_bar_stub = global::Study_Buddy.Resource.Id.action_mode_bar_stub;
+			global::ColorPicker.Droid.Resource.Id.action_mode_close_button = global::Study_Buddy.Resource.Id.action_mode_close_button;
+			global::ColorPicker.Droid.Resource.Id.action_text = global::Study_Buddy.Resource.Id.action_text;
+			global::ColorPicker.Droid.Resource.Id.activity_chooser_view_content = global::Study_Buddy.Resource.Id.activity_chooser_view_content;
+			global::ColorPicker.Droid.Resource.Id.add = global::Study_Buddy.Resource.Id.add;
+			global::ColorPicker.Droid.Resource.Id.alertTitle = global::Study_Buddy.Resource.Id.alertTitle;
+			global::ColorPicker.Droid.Resource.Id.all = global::Study_Buddy.Resource.Id.all;
+			global::ColorPicker.Droid.Resource.Id.ALT = global::Study_Buddy.Resource.Id.ALT;
+			global::ColorPicker.Droid.Resource.Id.always = global::Study_Buddy.Resource.Id.always;
+			global::ColorPicker.Droid.Resource.Id.async = global::Study_Buddy.Resource.Id.async;
+			global::ColorPicker.Droid.Resource.Id.auto = global::Study_Buddy.Resource.Id.auto;
+			global::ColorPicker.Droid.Resource.Id.beginning = global::Study_Buddy.Resource.Id.beginning;
+			global::ColorPicker.Droid.Resource.Id.blocking = global::Study_Buddy.Resource.Id.blocking;
+			global::ColorPicker.Droid.Resource.Id.bottom = global::Study_Buddy.Resource.Id.bottom;
+			global::ColorPicker.Droid.Resource.Id.bottomtab_navarea = global::Study_Buddy.Resource.Id.bottomtab_navarea;
+			global::ColorPicker.Droid.Resource.Id.bottomtab_tabbar = global::Study_Buddy.Resource.Id.bottomtab_tabbar;
+			global::ColorPicker.Droid.Resource.Id.browser_actions_header_text = global::Study_Buddy.Resource.Id.browser_actions_header_text;
+			global::ColorPicker.Droid.Resource.Id.browser_actions_menu_items = global::Study_Buddy.Resource.Id.browser_actions_menu_items;
+			global::ColorPicker.Droid.Resource.Id.browser_actions_menu_item_icon = global::Study_Buddy.Resource.Id.browser_actions_menu_item_icon;
+			global::ColorPicker.Droid.Resource.Id.browser_actions_menu_item_text = global::Study_Buddy.Resource.Id.browser_actions_menu_item_text;
+			global::ColorPicker.Droid.Resource.Id.browser_actions_menu_view = global::Study_Buddy.Resource.Id.browser_actions_menu_view;
+			global::ColorPicker.Droid.Resource.Id.buttonPanel = global::Study_Buddy.Resource.Id.buttonPanel;
+			global::ColorPicker.Droid.Resource.Id.cancel_action = global::Study_Buddy.Resource.Id.cancel_action;
+			global::ColorPicker.Droid.Resource.Id.center = global::Study_Buddy.Resource.Id.center;
+			global::ColorPicker.Droid.Resource.Id.center_horizontal = global::Study_Buddy.Resource.Id.center_horizontal;
+			global::ColorPicker.Droid.Resource.Id.center_vertical = global::Study_Buddy.Resource.Id.center_vertical;
+			global::ColorPicker.Droid.Resource.Id.checkbox = global::Study_Buddy.Resource.Id.checkbox;
+			global::ColorPicker.Droid.Resource.Id.chronometer = global::Study_Buddy.Resource.Id.chronometer;
+			global::ColorPicker.Droid.Resource.Id.clip_horizontal = global::Study_Buddy.Resource.Id.clip_horizontal;
+			global::ColorPicker.Droid.Resource.Id.clip_vertical = global::Study_Buddy.Resource.Id.clip_vertical;
+			global::ColorPicker.Droid.Resource.Id.collapseActionView = global::Study_Buddy.Resource.Id.collapseActionView;
+			global::ColorPicker.Droid.Resource.Id.container = global::Study_Buddy.Resource.Id.container;
+			global::ColorPicker.Droid.Resource.Id.content = global::Study_Buddy.Resource.Id.content;
+			global::ColorPicker.Droid.Resource.Id.contentPanel = global::Study_Buddy.Resource.Id.contentPanel;
+			global::ColorPicker.Droid.Resource.Id.coordinator = global::Study_Buddy.Resource.Id.coordinator;
+			global::ColorPicker.Droid.Resource.Id.CTRL = global::Study_Buddy.Resource.Id.CTRL;
+			global::ColorPicker.Droid.Resource.Id.custom = global::Study_Buddy.Resource.Id.custom;
+			global::ColorPicker.Droid.Resource.Id.customPanel = global::Study_Buddy.Resource.Id.customPanel;
+			global::ColorPicker.Droid.Resource.Id.decor_content_parent = global::Study_Buddy.Resource.Id.decor_content_parent;
+			global::ColorPicker.Droid.Resource.Id.default_activity_button = global::Study_Buddy.Resource.Id.default_activity_button;
+			global::ColorPicker.Droid.Resource.Id.design_bottom_sheet = global::Study_Buddy.Resource.Id.design_bottom_sheet;
+			global::ColorPicker.Droid.Resource.Id.design_menu_item_action_area = global::Study_Buddy.Resource.Id.design_menu_item_action_area;
+			global::ColorPicker.Droid.Resource.Id.design_menu_item_action_area_stub = global::Study_Buddy.Resource.Id.design_menu_item_action_area_stub;
+			global::ColorPicker.Droid.Resource.Id.design_menu_item_text = global::Study_Buddy.Resource.Id.design_menu_item_text;
+			global::ColorPicker.Droid.Resource.Id.design_navigation_view = global::Study_Buddy.Resource.Id.design_navigation_view;
+			global::ColorPicker.Droid.Resource.Id.disableHome = global::Study_Buddy.Resource.Id.disableHome;
+			global::ColorPicker.Droid.Resource.Id.edit_query = global::Study_Buddy.Resource.Id.edit_query;
+			global::ColorPicker.Droid.Resource.Id.end = global::Study_Buddy.Resource.Id.end;
+			global::ColorPicker.Droid.Resource.Id.end_padder = global::Study_Buddy.Resource.Id.end_padder;
+			global::ColorPicker.Droid.Resource.Id.enterAlways = global::Study_Buddy.Resource.Id.enterAlways;
+			global::ColorPicker.Droid.Resource.Id.enterAlwaysCollapsed = global::Study_Buddy.Resource.Id.enterAlwaysCollapsed;
+			global::ColorPicker.Droid.Resource.Id.exitUntilCollapsed = global::Study_Buddy.Resource.Id.exitUntilCollapsed;
+			global::ColorPicker.Droid.Resource.Id.expanded_menu = global::Study_Buddy.Resource.Id.expanded_menu;
+			global::ColorPicker.Droid.Resource.Id.expand_activities_button = global::Study_Buddy.Resource.Id.expand_activities_button;
+			global::ColorPicker.Droid.Resource.Id.fill = global::Study_Buddy.Resource.Id.fill;
+			global::ColorPicker.Droid.Resource.Id.filled = global::Study_Buddy.Resource.Id.filled;
+			global::ColorPicker.Droid.Resource.Id.fill_horizontal = global::Study_Buddy.Resource.Id.fill_horizontal;
+			global::ColorPicker.Droid.Resource.Id.fill_vertical = global::Study_Buddy.Resource.Id.fill_vertical;
+			global::ColorPicker.Droid.Resource.Id.@fixed = global::Study_Buddy.Resource.Id.@fixed;
+			global::ColorPicker.Droid.Resource.Id.flyoutcontent_appbar = global::Study_Buddy.Resource.Id.flyoutcontent_appbar;
+			global::ColorPicker.Droid.Resource.Id.flyoutcontent_recycler = global::Study_Buddy.Resource.Id.flyoutcontent_recycler;
+			global::ColorPicker.Droid.Resource.Id.forever = global::Study_Buddy.Resource.Id.forever;
+			global::ColorPicker.Droid.Resource.Id.FUNCTION = global::Study_Buddy.Resource.Id.FUNCTION;
+			global::ColorPicker.Droid.Resource.Id.ghost_view = global::Study_Buddy.Resource.Id.ghost_view;
+			global::ColorPicker.Droid.Resource.Id.group_divider = global::Study_Buddy.Resource.Id.group_divider;
+			global::ColorPicker.Droid.Resource.Id.home = global::Study_Buddy.Resource.Id.home;
+			global::ColorPicker.Droid.Resource.Id.homeAsUp = global::Study_Buddy.Resource.Id.homeAsUp;
+			global::ColorPicker.Droid.Resource.Id.icon = global::Study_Buddy.Resource.Id.icon;
+			global::ColorPicker.Droid.Resource.Id.icon_group = global::Study_Buddy.Resource.Id.icon_group;
+			global::ColorPicker.Droid.Resource.Id.ifRoom = global::Study_Buddy.Resource.Id.ifRoom;
+			global::ColorPicker.Droid.Resource.Id.image = global::Study_Buddy.Resource.Id.image;
+			global::ColorPicker.Droid.Resource.Id.info = global::Study_Buddy.Resource.Id.info;
+			global::ColorPicker.Droid.Resource.Id.italic = global::Study_Buddy.Resource.Id.italic;
+			global::ColorPicker.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Study_Buddy.Resource.Id.item_touch_helper_previous_elevation;
+			global::ColorPicker.Droid.Resource.Id.labeled = global::Study_Buddy.Resource.Id.labeled;
+			global::ColorPicker.Droid.Resource.Id.largeLabel = global::Study_Buddy.Resource.Id.largeLabel;
+			global::ColorPicker.Droid.Resource.Id.left = global::Study_Buddy.Resource.Id.left;
+			global::ColorPicker.Droid.Resource.Id.line1 = global::Study_Buddy.Resource.Id.line1;
+			global::ColorPicker.Droid.Resource.Id.line3 = global::Study_Buddy.Resource.Id.line3;
+			global::ColorPicker.Droid.Resource.Id.listMode = global::Study_Buddy.Resource.Id.listMode;
+			global::ColorPicker.Droid.Resource.Id.list_item = global::Study_Buddy.Resource.Id.list_item;
+			global::ColorPicker.Droid.Resource.Id.main_appbar = global::Study_Buddy.Resource.Id.main_appbar;
+			global::ColorPicker.Droid.Resource.Id.main_tablayout = global::Study_Buddy.Resource.Id.main_tablayout;
+			global::ColorPicker.Droid.Resource.Id.main_toolbar = global::Study_Buddy.Resource.Id.main_toolbar;
+			global::ColorPicker.Droid.Resource.Id.main_viewpager = global::Study_Buddy.Resource.Id.main_viewpager;
+			global::ColorPicker.Droid.Resource.Id.masked = global::Study_Buddy.Resource.Id.masked;
+			global::ColorPicker.Droid.Resource.Id.media_actions = global::Study_Buddy.Resource.Id.media_actions;
+			global::ColorPicker.Droid.Resource.Id.message = global::Study_Buddy.Resource.Id.message;
+			global::ColorPicker.Droid.Resource.Id.META = global::Study_Buddy.Resource.Id.META;
+			global::ColorPicker.Droid.Resource.Id.middle = global::Study_Buddy.Resource.Id.middle;
+			global::ColorPicker.Droid.Resource.Id.mini = global::Study_Buddy.Resource.Id.mini;
+			global::ColorPicker.Droid.Resource.Id.mtrl_child_content_container = global::Study_Buddy.Resource.Id.mtrl_child_content_container;
+			global::ColorPicker.Droid.Resource.Id.mtrl_internal_children_alpha_tag = global::Study_Buddy.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::ColorPicker.Droid.Resource.Id.multiply = global::Study_Buddy.Resource.Id.multiply;
+			global::ColorPicker.Droid.Resource.Id.navigation_header_container = global::Study_Buddy.Resource.Id.navigation_header_container;
+			global::ColorPicker.Droid.Resource.Id.never = global::Study_Buddy.Resource.Id.never;
+			global::ColorPicker.Droid.Resource.Id.none = global::Study_Buddy.Resource.Id.none;
+			global::ColorPicker.Droid.Resource.Id.normal = global::Study_Buddy.Resource.Id.normal;
+			global::ColorPicker.Droid.Resource.Id.notification_background = global::Study_Buddy.Resource.Id.notification_background;
+			global::ColorPicker.Droid.Resource.Id.notification_main_column = global::Study_Buddy.Resource.Id.notification_main_column;
+			global::ColorPicker.Droid.Resource.Id.notification_main_column_container = global::Study_Buddy.Resource.Id.notification_main_column_container;
+			global::ColorPicker.Droid.Resource.Id.outline = global::Study_Buddy.Resource.Id.outline;
+			global::ColorPicker.Droid.Resource.Id.parallax = global::Study_Buddy.Resource.Id.parallax;
+			global::ColorPicker.Droid.Resource.Id.parentPanel = global::Study_Buddy.Resource.Id.parentPanel;
+			global::ColorPicker.Droid.Resource.Id.parent_matrix = global::Study_Buddy.Resource.Id.parent_matrix;
+			global::ColorPicker.Droid.Resource.Id.pin = global::Study_Buddy.Resource.Id.pin;
+			global::ColorPicker.Droid.Resource.Id.progress_circular = global::Study_Buddy.Resource.Id.progress_circular;
+			global::ColorPicker.Droid.Resource.Id.progress_horizontal = global::Study_Buddy.Resource.Id.progress_horizontal;
+			global::ColorPicker.Droid.Resource.Id.radio = global::Study_Buddy.Resource.Id.radio;
+			global::ColorPicker.Droid.Resource.Id.right = global::Study_Buddy.Resource.Id.right;
+			global::ColorPicker.Droid.Resource.Id.right_icon = global::Study_Buddy.Resource.Id.right_icon;
+			global::ColorPicker.Droid.Resource.Id.right_side = global::Study_Buddy.Resource.Id.right_side;
+			global::ColorPicker.Droid.Resource.Id.save_image_matrix = global::Study_Buddy.Resource.Id.save_image_matrix;
+			global::ColorPicker.Droid.Resource.Id.save_non_transition_alpha = global::Study_Buddy.Resource.Id.save_non_transition_alpha;
+			global::ColorPicker.Droid.Resource.Id.save_scale_type = global::Study_Buddy.Resource.Id.save_scale_type;
+			global::ColorPicker.Droid.Resource.Id.screen = global::Study_Buddy.Resource.Id.screen;
+			global::ColorPicker.Droid.Resource.Id.scroll = global::Study_Buddy.Resource.Id.scroll;
+			global::ColorPicker.Droid.Resource.Id.scrollable = global::Study_Buddy.Resource.Id.scrollable;
+			global::ColorPicker.Droid.Resource.Id.scrollIndicatorDown = global::Study_Buddy.Resource.Id.scrollIndicatorDown;
+			global::ColorPicker.Droid.Resource.Id.scrollIndicatorUp = global::Study_Buddy.Resource.Id.scrollIndicatorUp;
+			global::ColorPicker.Droid.Resource.Id.scrollView = global::Study_Buddy.Resource.Id.scrollView;
+			global::ColorPicker.Droid.Resource.Id.search_badge = global::Study_Buddy.Resource.Id.search_badge;
+			global::ColorPicker.Droid.Resource.Id.search_bar = global::Study_Buddy.Resource.Id.search_bar;
+			global::ColorPicker.Droid.Resource.Id.search_button = global::Study_Buddy.Resource.Id.search_button;
+			global::ColorPicker.Droid.Resource.Id.search_close_btn = global::Study_Buddy.Resource.Id.search_close_btn;
+			global::ColorPicker.Droid.Resource.Id.search_edit_frame = global::Study_Buddy.Resource.Id.search_edit_frame;
+			global::ColorPicker.Droid.Resource.Id.search_go_btn = global::Study_Buddy.Resource.Id.search_go_btn;
+			global::ColorPicker.Droid.Resource.Id.search_mag_icon = global::Study_Buddy.Resource.Id.search_mag_icon;
+			global::ColorPicker.Droid.Resource.Id.search_plate = global::Study_Buddy.Resource.Id.search_plate;
+			global::ColorPicker.Droid.Resource.Id.search_src_text = global::Study_Buddy.Resource.Id.search_src_text;
+			global::ColorPicker.Droid.Resource.Id.search_voice_btn = global::Study_Buddy.Resource.Id.search_voice_btn;
+			global::ColorPicker.Droid.Resource.Id.selected = global::Study_Buddy.Resource.Id.selected;
+			global::ColorPicker.Droid.Resource.Id.select_dialog_listview = global::Study_Buddy.Resource.Id.select_dialog_listview;
+			global::ColorPicker.Droid.Resource.Id.shellcontent_appbar = global::Study_Buddy.Resource.Id.shellcontent_appbar;
+			global::ColorPicker.Droid.Resource.Id.shellcontent_toolbar = global::Study_Buddy.Resource.Id.shellcontent_toolbar;
+			global::ColorPicker.Droid.Resource.Id.SHIFT = global::Study_Buddy.Resource.Id.SHIFT;
+			global::ColorPicker.Droid.Resource.Id.shortcut = global::Study_Buddy.Resource.Id.shortcut;
+			global::ColorPicker.Droid.Resource.Id.showCustom = global::Study_Buddy.Resource.Id.showCustom;
+			global::ColorPicker.Droid.Resource.Id.showHome = global::Study_Buddy.Resource.Id.showHome;
+			global::ColorPicker.Droid.Resource.Id.showTitle = global::Study_Buddy.Resource.Id.showTitle;
+			global::ColorPicker.Droid.Resource.Id.smallLabel = global::Study_Buddy.Resource.Id.smallLabel;
+			global::ColorPicker.Droid.Resource.Id.snackbar_action = global::Study_Buddy.Resource.Id.snackbar_action;
+			global::ColorPicker.Droid.Resource.Id.snackbar_text = global::Study_Buddy.Resource.Id.snackbar_text;
+			global::ColorPicker.Droid.Resource.Id.snap = global::Study_Buddy.Resource.Id.snap;
+			global::ColorPicker.Droid.Resource.Id.snapMargins = global::Study_Buddy.Resource.Id.snapMargins;
+			global::ColorPicker.Droid.Resource.Id.spacer = global::Study_Buddy.Resource.Id.spacer;
+			global::ColorPicker.Droid.Resource.Id.split_action_bar = global::Study_Buddy.Resource.Id.split_action_bar;
+			global::ColorPicker.Droid.Resource.Id.src_atop = global::Study_Buddy.Resource.Id.src_atop;
+			global::ColorPicker.Droid.Resource.Id.src_in = global::Study_Buddy.Resource.Id.src_in;
+			global::ColorPicker.Droid.Resource.Id.src_over = global::Study_Buddy.Resource.Id.src_over;
+			global::ColorPicker.Droid.Resource.Id.start = global::Study_Buddy.Resource.Id.start;
+			global::ColorPicker.Droid.Resource.Id.status_bar_latest_event_content = global::Study_Buddy.Resource.Id.status_bar_latest_event_content;
+			global::ColorPicker.Droid.Resource.Id.stretch = global::Study_Buddy.Resource.Id.stretch;
+			global::ColorPicker.Droid.Resource.Id.submenuarrow = global::Study_Buddy.Resource.Id.submenuarrow;
+			global::ColorPicker.Droid.Resource.Id.submit_area = global::Study_Buddy.Resource.Id.submit_area;
+			global::ColorPicker.Droid.Resource.Id.SYM = global::Study_Buddy.Resource.Id.SYM;
+			global::ColorPicker.Droid.Resource.Id.tabMode = global::Study_Buddy.Resource.Id.tabMode;
+			global::ColorPicker.Droid.Resource.Id.tag_transition_group = global::Study_Buddy.Resource.Id.tag_transition_group;
+			global::ColorPicker.Droid.Resource.Id.tag_unhandled_key_event_manager = global::Study_Buddy.Resource.Id.tag_unhandled_key_event_manager;
+			global::ColorPicker.Droid.Resource.Id.tag_unhandled_key_listeners = global::Study_Buddy.Resource.Id.tag_unhandled_key_listeners;
+			global::ColorPicker.Droid.Resource.Id.text = global::Study_Buddy.Resource.Id.text;
+			global::ColorPicker.Droid.Resource.Id.text2 = global::Study_Buddy.Resource.Id.text2;
+			global::ColorPicker.Droid.Resource.Id.textinput_counter = global::Study_Buddy.Resource.Id.textinput_counter;
+			global::ColorPicker.Droid.Resource.Id.textinput_error = global::Study_Buddy.Resource.Id.textinput_error;
+			global::ColorPicker.Droid.Resource.Id.textinput_helper_text = global::Study_Buddy.Resource.Id.textinput_helper_text;
+			global::ColorPicker.Droid.Resource.Id.textSpacerNoButtons = global::Study_Buddy.Resource.Id.textSpacerNoButtons;
+			global::ColorPicker.Droid.Resource.Id.textSpacerNoTitle = global::Study_Buddy.Resource.Id.textSpacerNoTitle;
+			global::ColorPicker.Droid.Resource.Id.textStart = global::Study_Buddy.Resource.Id.textStart;
+			global::ColorPicker.Droid.Resource.Id.text_input_password_toggle = global::Study_Buddy.Resource.Id.text_input_password_toggle;
+			global::ColorPicker.Droid.Resource.Id.time = global::Study_Buddy.Resource.Id.time;
+			global::ColorPicker.Droid.Resource.Id.title = global::Study_Buddy.Resource.Id.title;
+			global::ColorPicker.Droid.Resource.Id.titleDividerNoCustom = global::Study_Buddy.Resource.Id.titleDividerNoCustom;
+			global::ColorPicker.Droid.Resource.Id.title_template = global::Study_Buddy.Resource.Id.title_template;
+			global::ColorPicker.Droid.Resource.Id.top = global::Study_Buddy.Resource.Id.top;
+			global::ColorPicker.Droid.Resource.Id.topPanel = global::Study_Buddy.Resource.Id.topPanel;
+			global::ColorPicker.Droid.Resource.Id.touch_outside = global::Study_Buddy.Resource.Id.touch_outside;
+			global::ColorPicker.Droid.Resource.Id.transition_current_scene = global::Study_Buddy.Resource.Id.transition_current_scene;
+			global::ColorPicker.Droid.Resource.Id.transition_layout_save = global::Study_Buddy.Resource.Id.transition_layout_save;
+			global::ColorPicker.Droid.Resource.Id.transition_position = global::Study_Buddy.Resource.Id.transition_position;
+			global::ColorPicker.Droid.Resource.Id.transition_scene_layoutid_cache = global::Study_Buddy.Resource.Id.transition_scene_layoutid_cache;
+			global::ColorPicker.Droid.Resource.Id.transition_transform = global::Study_Buddy.Resource.Id.transition_transform;
+			global::ColorPicker.Droid.Resource.Id.uniform = global::Study_Buddy.Resource.Id.uniform;
+			global::ColorPicker.Droid.Resource.Id.unlabeled = global::Study_Buddy.Resource.Id.unlabeled;
+			global::ColorPicker.Droid.Resource.Id.up = global::Study_Buddy.Resource.Id.up;
+			global::ColorPicker.Droid.Resource.Id.useLogo = global::Study_Buddy.Resource.Id.useLogo;
+			global::ColorPicker.Droid.Resource.Id.view_offset_helper = global::Study_Buddy.Resource.Id.view_offset_helper;
+			global::ColorPicker.Droid.Resource.Id.visible = global::Study_Buddy.Resource.Id.visible;
+			global::ColorPicker.Droid.Resource.Id.withText = global::Study_Buddy.Resource.Id.withText;
+			global::ColorPicker.Droid.Resource.Id.wrap_content = global::Study_Buddy.Resource.Id.wrap_content;
+			global::ColorPicker.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Study_Buddy.Resource.Integer.abc_config_activityDefaultDur;
+			global::ColorPicker.Droid.Resource.Integer.abc_config_activityShortDur = global::Study_Buddy.Resource.Integer.abc_config_activityShortDur;
+			global::ColorPicker.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::Study_Buddy.Resource.Integer.app_bar_elevation_anim_duration;
+			global::ColorPicker.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Study_Buddy.Resource.Integer.bottom_sheet_slide_duration;
+			global::ColorPicker.Droid.Resource.Integer.cancel_button_image_alpha = global::Study_Buddy.Resource.Integer.cancel_button_image_alpha;
+			global::ColorPicker.Droid.Resource.Integer.config_tooltipAnimTime = global::Study_Buddy.Resource.Integer.config_tooltipAnimTime;
+			global::ColorPicker.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Study_Buddy.Resource.Integer.design_snackbar_text_max_lines;
+			global::ColorPicker.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Study_Buddy.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::ColorPicker.Droid.Resource.Integer.hide_password_duration = global::Study_Buddy.Resource.Integer.hide_password_duration;
+			global::ColorPicker.Droid.Resource.Integer.mtrl_btn_anim_delay_ms = global::Study_Buddy.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::ColorPicker.Droid.Resource.Integer.mtrl_btn_anim_duration_ms = global::Study_Buddy.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::ColorPicker.Droid.Resource.Integer.mtrl_chip_anim_duration = global::Study_Buddy.Resource.Integer.mtrl_chip_anim_duration;
+			global::ColorPicker.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Study_Buddy.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::ColorPicker.Droid.Resource.Integer.show_password_duration = global::Study_Buddy.Resource.Integer.show_password_duration;
+			global::ColorPicker.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Study_Buddy.Resource.Integer.status_bar_notification_info_maxnum;
+			global::ColorPicker.Droid.Resource.Interpolator.mtrl_fast_out_linear_in = global::Study_Buddy.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::ColorPicker.Droid.Resource.Interpolator.mtrl_fast_out_slow_in = global::Study_Buddy.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::ColorPicker.Droid.Resource.Interpolator.mtrl_linear = global::Study_Buddy.Resource.Interpolator.mtrl_linear;
+			global::ColorPicker.Droid.Resource.Interpolator.mtrl_linear_out_slow_in = global::Study_Buddy.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_bar_title_item = global::Study_Buddy.Resource.Layout.abc_action_bar_title_item;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_bar_up_container = global::Study_Buddy.Resource.Layout.abc_action_bar_up_container;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_action_menu_item_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_menu_layout = global::Study_Buddy.Resource.Layout.abc_action_menu_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_mode_bar = global::Study_Buddy.Resource.Layout.abc_action_mode_bar;
+			global::ColorPicker.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Study_Buddy.Resource.Layout.abc_action_mode_close_item_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_activity_chooser_view = global::Study_Buddy.Resource.Layout.abc_activity_chooser_view;
+			global::ColorPicker.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Study_Buddy.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::ColorPicker.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_alert_dialog_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_alert_dialog_title_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_title_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_cascading_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_cascading_menu_item_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_dialog_title_material = global::Study_Buddy.Resource.Layout.abc_dialog_title_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_expanded_menu_layout = global::Study_Buddy.Resource.Layout.abc_expanded_menu_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Study_Buddy.Resource.Layout.abc_list_menu_item_checkbox;
+			global::ColorPicker.Droid.Resource.Layout.abc_list_menu_item_icon = global::Study_Buddy.Resource.Layout.abc_list_menu_item_icon;
+			global::ColorPicker.Droid.Resource.Layout.abc_list_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_list_menu_item_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_list_menu_item_radio = global::Study_Buddy.Resource.Layout.abc_list_menu_item_radio;
+			global::ColorPicker.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::Study_Buddy.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_popup_menu_item_layout;
+			global::ColorPicker.Droid.Resource.Layout.abc_screen_content_include = global::Study_Buddy.Resource.Layout.abc_screen_content_include;
+			global::ColorPicker.Droid.Resource.Layout.abc_screen_simple = global::Study_Buddy.Resource.Layout.abc_screen_simple;
+			global::ColorPicker.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Study_Buddy.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::ColorPicker.Droid.Resource.Layout.abc_screen_toolbar = global::Study_Buddy.Resource.Layout.abc_screen_toolbar;
+			global::ColorPicker.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Study_Buddy.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::ColorPicker.Droid.Resource.Layout.abc_search_view = global::Study_Buddy.Resource.Layout.abc_search_view;
+			global::ColorPicker.Droid.Resource.Layout.abc_select_dialog_material = global::Study_Buddy.Resource.Layout.abc_select_dialog_material;
+			global::ColorPicker.Droid.Resource.Layout.abc_tooltip = global::Study_Buddy.Resource.Layout.abc_tooltip;
+			global::ColorPicker.Droid.Resource.Layout.BottomTabLayout = global::Study_Buddy.Resource.Layout.BottomTabLayout;
+			global::ColorPicker.Droid.Resource.Layout.browser_actions_context_menu_page = global::Study_Buddy.Resource.Layout.browser_actions_context_menu_page;
+			global::ColorPicker.Droid.Resource.Layout.browser_actions_context_menu_row = global::Study_Buddy.Resource.Layout.browser_actions_context_menu_row;
+			global::ColorPicker.Droid.Resource.Layout.design_bottom_navigation_item = global::Study_Buddy.Resource.Layout.design_bottom_navigation_item;
+			global::ColorPicker.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Study_Buddy.Resource.Layout.design_bottom_sheet_dialog;
+			global::ColorPicker.Droid.Resource.Layout.design_layout_snackbar = global::Study_Buddy.Resource.Layout.design_layout_snackbar;
+			global::ColorPicker.Droid.Resource.Layout.design_layout_snackbar_include = global::Study_Buddy.Resource.Layout.design_layout_snackbar_include;
+			global::ColorPicker.Droid.Resource.Layout.design_layout_tab_icon = global::Study_Buddy.Resource.Layout.design_layout_tab_icon;
+			global::ColorPicker.Droid.Resource.Layout.design_layout_tab_text = global::Study_Buddy.Resource.Layout.design_layout_tab_text;
+			global::ColorPicker.Droid.Resource.Layout.design_menu_item_action_area = global::Study_Buddy.Resource.Layout.design_menu_item_action_area;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_item = global::Study_Buddy.Resource.Layout.design_navigation_item;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_item_header = global::Study_Buddy.Resource.Layout.design_navigation_item_header;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_item_separator = global::Study_Buddy.Resource.Layout.design_navigation_item_separator;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_item_subheader = global::Study_Buddy.Resource.Layout.design_navigation_item_subheader;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_menu = global::Study_Buddy.Resource.Layout.design_navigation_menu;
+			global::ColorPicker.Droid.Resource.Layout.design_navigation_menu_item = global::Study_Buddy.Resource.Layout.design_navigation_menu_item;
+			global::ColorPicker.Droid.Resource.Layout.design_text_input_password_icon = global::Study_Buddy.Resource.Layout.design_text_input_password_icon;
+			global::ColorPicker.Droid.Resource.Layout.FlyoutContent = global::Study_Buddy.Resource.Layout.FlyoutContent;
+			global::ColorPicker.Droid.Resource.Layout.mtrl_layout_snackbar = global::Study_Buddy.Resource.Layout.mtrl_layout_snackbar;
+			global::ColorPicker.Droid.Resource.Layout.mtrl_layout_snackbar_include = global::Study_Buddy.Resource.Layout.mtrl_layout_snackbar_include;
+			global::ColorPicker.Droid.Resource.Layout.notification_action = global::Study_Buddy.Resource.Layout.notification_action;
+			global::ColorPicker.Droid.Resource.Layout.notification_action_tombstone = global::Study_Buddy.Resource.Layout.notification_action_tombstone;
+			global::ColorPicker.Droid.Resource.Layout.notification_media_action = global::Study_Buddy.Resource.Layout.notification_media_action;
+			global::ColorPicker.Droid.Resource.Layout.notification_media_cancel_action = global::Study_Buddy.Resource.Layout.notification_media_cancel_action;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_big_media = global::Study_Buddy.Resource.Layout.notification_template_big_media;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_big_media_custom = global::Study_Buddy.Resource.Layout.notification_template_big_media_custom;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_big_media_narrow = global::Study_Buddy.Resource.Layout.notification_template_big_media_narrow;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::Study_Buddy.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_custom_big = global::Study_Buddy.Resource.Layout.notification_template_custom_big;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_icon_group = global::Study_Buddy.Resource.Layout.notification_template_icon_group;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_lines_media = global::Study_Buddy.Resource.Layout.notification_template_lines_media;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_media = global::Study_Buddy.Resource.Layout.notification_template_media;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_media_custom = global::Study_Buddy.Resource.Layout.notification_template_media_custom;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_part_chronometer = global::Study_Buddy.Resource.Layout.notification_template_part_chronometer;
+			global::ColorPicker.Droid.Resource.Layout.notification_template_part_time = global::Study_Buddy.Resource.Layout.notification_template_part_time;
+			global::ColorPicker.Droid.Resource.Layout.RootLayout = global::Study_Buddy.Resource.Layout.RootLayout;
+			global::ColorPicker.Droid.Resource.Layout.select_dialog_item_material = global::Study_Buddy.Resource.Layout.select_dialog_item_material;
+			global::ColorPicker.Droid.Resource.Layout.select_dialog_multichoice_material = global::Study_Buddy.Resource.Layout.select_dialog_multichoice_material;
+			global::ColorPicker.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Study_Buddy.Resource.Layout.select_dialog_singlechoice_material;
+			global::ColorPicker.Droid.Resource.Layout.ShellContent = global::Study_Buddy.Resource.Layout.ShellContent;
+			global::ColorPicker.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Study_Buddy.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::ColorPicker.Droid.Resource.String.abc_action_bar_home_description = global::Study_Buddy.Resource.String.abc_action_bar_home_description;
+			global::ColorPicker.Droid.Resource.String.abc_action_bar_up_description = global::Study_Buddy.Resource.String.abc_action_bar_up_description;
+			global::ColorPicker.Droid.Resource.String.abc_action_menu_overflow_description = global::Study_Buddy.Resource.String.abc_action_menu_overflow_description;
+			global::ColorPicker.Droid.Resource.String.abc_action_mode_done = global::Study_Buddy.Resource.String.abc_action_mode_done;
+			global::ColorPicker.Droid.Resource.String.abc_activitychooserview_choose_application = global::Study_Buddy.Resource.String.abc_activitychooserview_choose_application;
+			global::ColorPicker.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Study_Buddy.Resource.String.abc_activity_chooser_view_see_all;
+			global::ColorPicker.Droid.Resource.String.abc_capital_off = global::Study_Buddy.Resource.String.abc_capital_off;
+			global::ColorPicker.Droid.Resource.String.abc_capital_on = global::Study_Buddy.Resource.String.abc_capital_on;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_body_1_material = global::Study_Buddy.Resource.String.abc_font_family_body_1_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_body_2_material = global::Study_Buddy.Resource.String.abc_font_family_body_2_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_button_material = global::Study_Buddy.Resource.String.abc_font_family_button_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_caption_material = global::Study_Buddy.Resource.String.abc_font_family_caption_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_display_1_material = global::Study_Buddy.Resource.String.abc_font_family_display_1_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_display_2_material = global::Study_Buddy.Resource.String.abc_font_family_display_2_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_display_3_material = global::Study_Buddy.Resource.String.abc_font_family_display_3_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_display_4_material = global::Study_Buddy.Resource.String.abc_font_family_display_4_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_headline_material = global::Study_Buddy.Resource.String.abc_font_family_headline_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_menu_material = global::Study_Buddy.Resource.String.abc_font_family_menu_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_subhead_material = global::Study_Buddy.Resource.String.abc_font_family_subhead_material;
+			global::ColorPicker.Droid.Resource.String.abc_font_family_title_material = global::Study_Buddy.Resource.String.abc_font_family_title_material;
+			global::ColorPicker.Droid.Resource.String.abc_menu_alt_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_alt_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_ctrl_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_delete_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_delete_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_enter_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_enter_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_function_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_function_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_meta_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_meta_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_shift_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_shift_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_space_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_space_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_menu_sym_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_sym_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_prepend_shortcut_label = global::Study_Buddy.Resource.String.abc_prepend_shortcut_label;
+			global::ColorPicker.Droid.Resource.String.abc_searchview_description_clear = global::Study_Buddy.Resource.String.abc_searchview_description_clear;
+			global::ColorPicker.Droid.Resource.String.abc_searchview_description_query = global::Study_Buddy.Resource.String.abc_searchview_description_query;
+			global::ColorPicker.Droid.Resource.String.abc_searchview_description_search = global::Study_Buddy.Resource.String.abc_searchview_description_search;
+			global::ColorPicker.Droid.Resource.String.abc_searchview_description_submit = global::Study_Buddy.Resource.String.abc_searchview_description_submit;
+			global::ColorPicker.Droid.Resource.String.abc_searchview_description_voice = global::Study_Buddy.Resource.String.abc_searchview_description_voice;
+			global::ColorPicker.Droid.Resource.String.abc_search_hint = global::Study_Buddy.Resource.String.abc_search_hint;
+			global::ColorPicker.Droid.Resource.String.abc_shareactionprovider_share_with = global::Study_Buddy.Resource.String.abc_shareactionprovider_share_with;
+			global::ColorPicker.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Study_Buddy.Resource.String.abc_shareactionprovider_share_with_application;
+			global::ColorPicker.Droid.Resource.String.abc_toolbar_collapse_description = global::Study_Buddy.Resource.String.abc_toolbar_collapse_description;
+			global::ColorPicker.Droid.Resource.String.appbar_scrolling_view_behavior = global::Study_Buddy.Resource.String.appbar_scrolling_view_behavior;
+			global::ColorPicker.Droid.Resource.String.app_name = global::Study_Buddy.Resource.String.app_name;
+			global::ColorPicker.Droid.Resource.String.bottom_sheet_behavior = global::Study_Buddy.Resource.String.bottom_sheet_behavior;
+			global::ColorPicker.Droid.Resource.String.character_counter_content_description = global::Study_Buddy.Resource.String.character_counter_content_description;
+			global::ColorPicker.Droid.Resource.String.character_counter_pattern = global::Study_Buddy.Resource.String.character_counter_pattern;
+			global::ColorPicker.Droid.Resource.String.fab_transformation_scrim_behavior = global::Study_Buddy.Resource.String.fab_transformation_scrim_behavior;
+			global::ColorPicker.Droid.Resource.String.fab_transformation_sheet_behavior = global::Study_Buddy.Resource.String.fab_transformation_sheet_behavior;
+			global::ColorPicker.Droid.Resource.String.hello = global::Study_Buddy.Resource.String.hello;
+			global::ColorPicker.Droid.Resource.String.hide_bottom_view_on_scroll_behavior = global::Study_Buddy.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::ColorPicker.Droid.Resource.String.mtrl_chip_close_icon_content_description = global::Study_Buddy.Resource.String.mtrl_chip_close_icon_content_description;
+			global::ColorPicker.Droid.Resource.String.password_toggle_content_description = global::Study_Buddy.Resource.String.password_toggle_content_description;
+			global::ColorPicker.Droid.Resource.String.path_password_eye = global::Study_Buddy.Resource.String.path_password_eye;
+			global::ColorPicker.Droid.Resource.String.path_password_eye_mask_strike_through = global::Study_Buddy.Resource.String.path_password_eye_mask_strike_through;
+			global::ColorPicker.Droid.Resource.String.path_password_eye_mask_visible = global::Study_Buddy.Resource.String.path_password_eye_mask_visible;
+			global::ColorPicker.Droid.Resource.String.path_password_strike_through = global::Study_Buddy.Resource.String.path_password_strike_through;
+			global::ColorPicker.Droid.Resource.String.search_menu_title = global::Study_Buddy.Resource.String.search_menu_title;
+			global::ColorPicker.Droid.Resource.String.status_bar_notification_info_overflow = global::Study_Buddy.Resource.String.status_bar_notification_info_overflow;
+			global::ColorPicker.Droid.Resource.Style.AlertDialog_AppCompat = global::Study_Buddy.Resource.Style.AlertDialog_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Study_Buddy.Resource.Style.AlertDialog_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Animation_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Study_Buddy.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::ColorPicker.Droid.Resource.Style.Animation_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Animation_AppCompat_Tooltip;
+			global::ColorPicker.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Study_Buddy.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::ColorPicker.Droid.Resource.Style.AppCompatDialogStyle = global::Study_Buddy.Resource.Style.AppCompatDialogStyle;
+			global::ColorPicker.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Study_Buddy.Resource.Style.Base_AlertDialog_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::ColorPicker.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::ColorPicker.Droid.Resource.Style.Base_CardView = global::Study_Buddy.Resource.Style.Base_CardView;
+			global::ColorPicker.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Study_Buddy.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Study_Buddy.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::ColorPicker.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V22_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V23_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V26_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V26_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::ColorPicker.Droid.Resource.Style.Base_V28_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V28_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::ColorPicker.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Study_Buddy.Resource.Style.Base_Widget_Design_TabLayout;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::ColorPicker.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::ColorPicker.Droid.Resource.Style.CardView = global::Study_Buddy.Resource.Style.CardView;
+			global::ColorPicker.Droid.Resource.Style.CardView_Dark = global::Study_Buddy.Resource.Style.CardView_Dark;
+			global::ColorPicker.Droid.Resource.Style.CardView_Light = global::Study_Buddy.Resource.Style.CardView_Light;
+			global::ColorPicker.Droid.Resource.Style.collectionViewScrollBars = global::Study_Buddy.Resource.Style.collectionViewScrollBars;
+			global::ColorPicker.Droid.Resource.Style.collectionViewTheme = global::Study_Buddy.Resource.Style.collectionViewTheme;
+			global::ColorPicker.Droid.Resource.Style.MainTheme = global::Study_Buddy.Resource.Style.MainTheme;
+			global::ColorPicker.Droid.Resource.Style.MainTheme_Base = global::Study_Buddy.Resource.Style.MainTheme_Base;
+			global::ColorPicker.Droid.Resource.Style.Platform_AppCompat = global::Study_Buddy.Resource.Style.Platform_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Platform_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Platform_MaterialComponents = global::Study_Buddy.Resource.Style.Platform_MaterialComponents;
+			global::ColorPicker.Droid.Resource.Style.Platform_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Platform_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Light;
+			global::ColorPicker.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::ColorPicker.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Platform_V21_AppCompat = global::Study_Buddy.Resource.Style.Platform_V21_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_V21_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Platform_V25_AppCompat = global::Study_Buddy.Resource.Style.Platform_V25_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_V25_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Study_Buddy.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::ColorPicker.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::ColorPicker.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::ColorPicker.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Button;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Large;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Small;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Info = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Time = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Title = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Study_Buddy.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Counter = global::Study_Buddy.Resource.Style.TextAppearance_Design_Counter;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Study_Buddy.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Error = global::Study_Buddy.Resource.Style.TextAppearance_Design_Error;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_HelperText = global::Study_Buddy.Resource.Style.TextAppearance_Design_HelperText;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Hint = global::Study_Buddy.Resource.Style.TextAppearance_Design_Hint;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Study_Buddy.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Design_Tab = global::Study_Buddy.Resource.Style.TextAppearance_Design_Tab;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Button = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_MaterialComponents_Tab = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::ColorPicker.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::ColorPicker.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat = global::Study_Buddy.Resource.Style.Theme_AppCompat;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Study_Buddy.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design = global::Study_Buddy.Resource.Style.Theme_Design;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design_Light = global::Study_Buddy.Resource.Style.Theme_Design_Light;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_Design_NoActionBar = global::Study_Buddy.Resource.Style.Theme_Design_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Theme_MaterialComponents;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::ColorPicker.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionMode;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Small;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Study_Buddy.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Widget_AppCompat_EditText;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_ImageButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ListView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Study_Buddy.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Study_Buddy.Resource.Style.Widget_AppCompat_SearchView;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_SeekBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Study_Buddy.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Toolbar;
+			global::ColorPicker.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Study_Buddy.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::ColorPicker.Droid.Resource.Style.Widget_Compat_NotificationActionContainer = global::Study_Buddy.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::ColorPicker.Droid.Resource.Style.Widget_Compat_NotificationActionText = global::Study_Buddy.Resource.Style.Widget_Compat_NotificationActionText;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Study_Buddy.Resource.Style.Widget_Design_AppBarLayout;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::Study_Buddy.Resource.Style.Widget_Design_BottomNavigationView;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Study_Buddy.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Study_Buddy.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Study_Buddy.Resource.Style.Widget_Design_FloatingActionButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_NavigationView = global::Study_Buddy.Resource.Style.Widget_Design_NavigationView;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Study_Buddy.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_Snackbar = global::Study_Buddy.Resource.Style.Widget_Design_Snackbar;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_TabLayout = global::Study_Buddy.Resource.Style.Widget_Design_TabLayout;
+			global::ColorPicker.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Study_Buddy.Resource.Style.Widget_Design_TextInputLayout;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_CardView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_CardView;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_NavigationView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Snackbar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TabLayout = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::ColorPicker.Droid.Resource.Style.Widget_MaterialComponents_Toolbar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::ColorPicker.Droid.Resource.Style.Widget_Support_CoordinatorLayout = global::Study_Buddy.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar = global::Study_Buddy.Resource.Styleable.ActionBar;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBarLayout = global::Study_Buddy.Resource.Styleable.ActionBarLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_background = global::Study_Buddy.Resource.Styleable.ActionBar_background;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Study_Buddy.Resource.Styleable.ActionBar_backgroundSplit;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Study_Buddy.Resource.Styleable.ActionBar_backgroundStacked;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetRight;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetStart;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Study_Buddy.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_displayOptions = global::Study_Buddy.Resource.Styleable.ActionBar_displayOptions;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_divider = global::Study_Buddy.Resource.Styleable.ActionBar_divider;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_elevation = global::Study_Buddy.Resource.Styleable.ActionBar_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_height = global::Study_Buddy.Resource.Styleable.ActionBar_height;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Study_Buddy.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Study_Buddy.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_homeLayout = global::Study_Buddy.Resource.Styleable.ActionBar_homeLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_icon = global::Study_Buddy.Resource.Styleable.ActionBar_icon;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Study_Buddy.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_itemPadding = global::Study_Buddy.Resource.Styleable.ActionBar_itemPadding;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_logo = global::Study_Buddy.Resource.Styleable.ActionBar_logo;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_navigationMode = global::Study_Buddy.Resource.Styleable.ActionBar_navigationMode;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_popupTheme = global::Study_Buddy.Resource.Styleable.ActionBar_popupTheme;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Study_Buddy.Resource.Styleable.ActionBar_progressBarPadding;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Study_Buddy.Resource.Styleable.ActionBar_progressBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_subtitle = global::Study_Buddy.Resource.Styleable.ActionBar_subtitle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Study_Buddy.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_title = global::Study_Buddy.Resource.Styleable.ActionBar_title;
+			global::ColorPicker.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Study_Buddy.Resource.Styleable.ActionBar_titleTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMenuItemView = global::Study_Buddy.Resource.Styleable.ActionMenuItemView;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Study_Buddy.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMenuView = global::Study_Buddy.Resource.Styleable.ActionMenuView;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode = global::Study_Buddy.Resource.Styleable.ActionMode;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_background = global::Study_Buddy.Resource.Styleable.ActionMode_background;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Study_Buddy.Resource.Styleable.ActionMode_backgroundSplit;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Study_Buddy.Resource.Styleable.ActionMode_closeItemLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_height = global::Study_Buddy.Resource.Styleable.ActionMode_height;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Study_Buddy.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Study_Buddy.Resource.Styleable.ActionMode_titleTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.ActivityChooserView = global::Study_Buddy.Resource.Styleable.ActivityChooserView;
+			global::ColorPicker.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Study_Buddy.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Study_Buddy.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog = global::Study_Buddy.Resource.Styleable.AlertDialog;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_android_layout = global::Study_Buddy.Resource.Styleable.AlertDialog_android_layout;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_buttonIconDimen = global::Study_Buddy.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_listItemLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_listLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_listLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_showTitle = global::Study_Buddy.Resource.Styleable.AlertDialog_showTitle;
+			global::ColorPicker.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableItem = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableTransition = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::ColorPicker.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout = global::Study_Buddy.Resource.Styleable.AppBarLayout;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayoutStates = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_android_background = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_background;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_elevation = global::Study_Buddy.Resource.Styleable.AppBarLayout_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_expanded = global::Study_Buddy.Resource.Styleable.AppBarLayout_expanded;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_Layout = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::ColorPicker.Droid.Resource.Styleable.AppBarLayout_liftOnScroll = global::Study_Buddy.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatImageView = global::Study_Buddy.Resource.Styleable.AppCompatImageView;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Study_Buddy.Resource.Styleable.AppCompatImageView_android_src;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Study_Buddy.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatImageView_tint = global::Study_Buddy.Resource.Styleable.AppCompatImageView_tint;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatImageView_tintMode = global::Study_Buddy.Resource.Styleable.AppCompatImageView_tintMode;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatSeekBar = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView = global::Study_Buddy.Resource.Styleable.AppCompatTextView;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_fontFamily = global::Study_Buddy.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_lineHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Study_Buddy.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Study_Buddy.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorError = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorError;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Study_Buddy.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Study_Buddy.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::ColorPicker.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar = global::Study_Buddy.Resource.Styleable.BottomAppBar;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_backgroundTint = global::Study_Buddy.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::ColorPicker.Droid.Resource.Styleable.BottomAppBar_hideOnScroll = global::Study_Buddy.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView = global::Study_Buddy.Resource.Styleable.BottomNavigationView;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_elevation = global::Study_Buddy.Resource.Styleable.BottomNavigationView_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemIconSize = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::Study_Buddy.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::ColorPicker.Droid.Resource.Styleable.BottomNavigationView_menu = global::Study_Buddy.Resource.Styleable.BottomNavigationView_menu;
+			global::ColorPicker.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::ColorPicker.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::ColorPicker.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::ColorPicker.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::ColorPicker.Droid.Resource.Styleable.ButtonBarLayout = global::Study_Buddy.Resource.Styleable.ButtonBarLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Study_Buddy.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::ColorPicker.Droid.Resource.Styleable.CardView = global::Study_Buddy.Resource.Styleable.CardView;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_android_minHeight = global::Study_Buddy.Resource.Styleable.CardView_android_minHeight;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_android_minWidth = global::Study_Buddy.Resource.Styleable.CardView_android_minWidth;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::Study_Buddy.Resource.Styleable.CardView_cardBackgroundColor;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardCornerRadius = global::Study_Buddy.Resource.Styleable.CardView_cardCornerRadius;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardElevation = global::Study_Buddy.Resource.Styleable.CardView_cardElevation;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardMaxElevation = global::Study_Buddy.Resource.Styleable.CardView_cardMaxElevation;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Study_Buddy.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::Study_Buddy.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_contentPadding = global::Study_Buddy.Resource.Styleable.CardView_contentPadding;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingBottom;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingLeft;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_contentPaddingRight = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingRight;
+			global::ColorPicker.Droid.Resource.Styleable.CardView_contentPaddingTop = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingTop;
+			global::ColorPicker.Droid.Resource.Styleable.Chip = global::Study_Buddy.Resource.Styleable.Chip;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup = global::Study_Buddy.Resource.Styleable.ChipGroup;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_checkedChip = global::Study_Buddy.Resource.Styleable.ChipGroup_checkedChip;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_chipSpacing = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacing;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_singleLine = global::Study_Buddy.Resource.Styleable.ChipGroup_singleLine;
+			global::ColorPicker.Droid.Resource.Styleable.ChipGroup_singleSelection = global::Study_Buddy.Resource.Styleable.ChipGroup_singleSelection;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_android_checkable = global::Study_Buddy.Resource.Styleable.Chip_android_checkable;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_android_ellipsize = global::Study_Buddy.Resource.Styleable.Chip_android_ellipsize;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_android_maxWidth = global::Study_Buddy.Resource.Styleable.Chip_android_maxWidth;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_android_text = global::Study_Buddy.Resource.Styleable.Chip_android_text;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_android_textAppearance = global::Study_Buddy.Resource.Styleable.Chip_android_textAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_checkedIcon = global::Study_Buddy.Resource.Styleable.Chip_checkedIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_checkedIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_checkedIconEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_checkedIconVisible = global::Study_Buddy.Resource.Styleable.Chip_checkedIconVisible;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipBackgroundColor = global::Study_Buddy.Resource.Styleable.Chip_chipBackgroundColor;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipCornerRadius = global::Study_Buddy.Resource.Styleable.Chip_chipCornerRadius;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipEndPadding = global::Study_Buddy.Resource.Styleable.Chip_chipEndPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipIcon = global::Study_Buddy.Resource.Styleable.Chip_chipIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_chipIconEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipIconSize = global::Study_Buddy.Resource.Styleable.Chip_chipIconSize;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipIconTint = global::Study_Buddy.Resource.Styleable.Chip_chipIconTint;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipIconVisible = global::Study_Buddy.Resource.Styleable.Chip_chipIconVisible;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipMinHeight = global::Study_Buddy.Resource.Styleable.Chip_chipMinHeight;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipStartPadding = global::Study_Buddy.Resource.Styleable.Chip_chipStartPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipStrokeColor = global::Study_Buddy.Resource.Styleable.Chip_chipStrokeColor;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_chipStrokeWidth = global::Study_Buddy.Resource.Styleable.Chip_chipStrokeWidth;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIcon = global::Study_Buddy.Resource.Styleable.Chip_closeIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_closeIconEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconEndPadding = global::Study_Buddy.Resource.Styleable.Chip_closeIconEndPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconSize = global::Study_Buddy.Resource.Styleable.Chip_closeIconSize;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconStartPadding = global::Study_Buddy.Resource.Styleable.Chip_closeIconStartPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconTint = global::Study_Buddy.Resource.Styleable.Chip_closeIconTint;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_closeIconVisible = global::Study_Buddy.Resource.Styleable.Chip_closeIconVisible;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_hideMotionSpec = global::Study_Buddy.Resource.Styleable.Chip_hideMotionSpec;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_iconEndPadding = global::Study_Buddy.Resource.Styleable.Chip_iconEndPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_iconStartPadding = global::Study_Buddy.Resource.Styleable.Chip_iconStartPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_rippleColor = global::Study_Buddy.Resource.Styleable.Chip_rippleColor;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_showMotionSpec = global::Study_Buddy.Resource.Styleable.Chip_showMotionSpec;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_textEndPadding = global::Study_Buddy.Resource.Styleable.Chip_textEndPadding;
+			global::ColorPicker.Droid.Resource.Styleable.Chip_textStartPadding = global::Study_Buddy.Resource.Styleable.Chip_textStartPadding;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::ColorPicker.Droid.Resource.Styleable.ColorStateListItem = global::Study_Buddy.Resource.Styleable.ColorStateListItem;
+			global::ColorPicker.Droid.Resource.Styleable.ColorStateListItem_alpha = global::Study_Buddy.Resource.Styleable.ColorStateListItem_alpha;
+			global::ColorPicker.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::Study_Buddy.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::ColorPicker.Droid.Resource.Styleable.ColorStateListItem_android_color = global::Study_Buddy.Resource.Styleable.ColorStateListItem_android_color;
+			global::ColorPicker.Droid.Resource.Styleable.CompoundButton = global::Study_Buddy.Resource.Styleable.CompoundButton;
+			global::ColorPicker.Droid.Resource.Styleable.CompoundButton_android_button = global::Study_Buddy.Resource.Styleable.CompoundButton_android_button;
+			global::ColorPicker.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Study_Buddy.Resource.Styleable.CompoundButton_buttonTint;
+			global::ColorPicker.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Study_Buddy.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout = global::Study_Buddy.Resource.Styleable.CoordinatorLayout;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_keylines;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::ColorPicker.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::ColorPicker.Droid.Resource.Styleable.DesignTheme = global::Study_Buddy.Resource.Styleable.DesignTheme;
+			global::ColorPicker.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Study_Buddy.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::ColorPicker.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Study_Buddy.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_color;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::ColorPicker.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton = global::Study_Buddy.Resource.Styleable.FloatingActionButton;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Study_Buddy.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Study_Buddy.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Study_Buddy.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Study_Buddy.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Study_Buddy.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Study_Buddy.Resource.Styleable.FloatingActionButton_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_fabSize;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Study_Buddy.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Study_Buddy.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_maxImageSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Study_Buddy.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Study_Buddy.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Study_Buddy.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::ColorPicker.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Study_Buddy.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::ColorPicker.Droid.Resource.Styleable.FlowLayout = global::Study_Buddy.Resource.Styleable.FlowLayout;
+			global::ColorPicker.Droid.Resource.Styleable.FlowLayout_itemSpacing = global::Study_Buddy.Resource.Styleable.FlowLayout_itemSpacing;
+			global::ColorPicker.Droid.Resource.Styleable.FlowLayout_lineSpacing = global::Study_Buddy.Resource.Styleable.FlowLayout_lineSpacing;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily = global::Study_Buddy.Resource.Styleable.FontFamily;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont = global::Study_Buddy.Resource.Styleable.FontFamilyFont;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_android_font = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_font;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_font = global::Study_Buddy.Resource.Styleable.FontFamilyFont_font;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_fontStyle = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_fontWeight = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamilyFont_ttcIndex = global::Study_Buddy.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderAuthority = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderCerts = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderPackage = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::ColorPicker.Droid.Resource.Styleable.FontFamily_fontProviderQuery = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::ColorPicker.Droid.Resource.Styleable.ForegroundLinearLayout = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::ColorPicker.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::ColorPicker.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor = global::Study_Buddy.Resource.Styleable.GradientColor;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColorItem = global::Study_Buddy.Resource.Styleable.GradientColorItem;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColorItem_android_color = global::Study_Buddy.Resource.Styleable.GradientColorItem_android_color;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColorItem_android_offset = global::Study_Buddy.Resource.Styleable.GradientColorItem_android_offset;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_centerColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerColor;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_centerX = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerX;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_centerY = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerY;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_endColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_endColor;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_endX = global::Study_Buddy.Resource.Styleable.GradientColor_android_endX;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_endY = global::Study_Buddy.Resource.Styleable.GradientColor_android_endY;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_gradientRadius = global::Study_Buddy.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_startColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_startColor;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_startX = global::Study_Buddy.Resource.Styleable.GradientColor_android_startX;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_startY = global::Study_Buddy.Resource.Styleable.GradientColor_android_startY;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_tileMode = global::Study_Buddy.Resource.Styleable.GradientColor_android_tileMode;
+			global::ColorPicker.Droid.Resource.Styleable.GradientColor_android_type = global::Study_Buddy.Resource.Styleable.GradientColor_android_type;
+			global::ColorPicker.Droid.Resource.Styleable.ItemsViewRendererTheme = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme;
+			global::ColorPicker.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_divider;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::ColorPicker.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::ColorPicker.Droid.Resource.Styleable.ListPopupWindow = global::Study_Buddy.Resource.Styleable.ListPopupWindow;
+			global::ColorPicker.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Study_Buddy.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::ColorPicker.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Study_Buddy.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton = global::Study_Buddy.Resource.Styleable.MaterialButton;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_android_insetBottom = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_android_insetLeft = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_android_insetRight = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetRight;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_android_insetTop = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetTop;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_backgroundTint = global::Study_Buddy.Resource.Styleable.MaterialButton_backgroundTint;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_backgroundTintMode = global::Study_Buddy.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_cornerRadius = global::Study_Buddy.Resource.Styleable.MaterialButton_cornerRadius;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_icon = global::Study_Buddy.Resource.Styleable.MaterialButton_icon;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_iconGravity = global::Study_Buddy.Resource.Styleable.MaterialButton_iconGravity;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_iconPadding = global::Study_Buddy.Resource.Styleable.MaterialButton_iconPadding;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_iconSize = global::Study_Buddy.Resource.Styleable.MaterialButton_iconSize;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_iconTint = global::Study_Buddy.Resource.Styleable.MaterialButton_iconTint;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_iconTintMode = global::Study_Buddy.Resource.Styleable.MaterialButton_iconTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_rippleColor = global::Study_Buddy.Resource.Styleable.MaterialButton_rippleColor;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_strokeColor = global::Study_Buddy.Resource.Styleable.MaterialButton_strokeColor;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialButton_strokeWidth = global::Study_Buddy.Resource.Styleable.MaterialButton_strokeWidth;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialCardView = global::Study_Buddy.Resource.Styleable.MaterialCardView;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialCardView_strokeColor = global::Study_Buddy.Resource.Styleable.MaterialCardView_strokeColor;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialCardView_strokeWidth = global::Study_Buddy.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::ColorPicker.Droid.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup = global::Study_Buddy.Resource.Styleable.MenuGroup;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Study_Buddy.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Study_Buddy.Resource.Styleable.MenuGroup_android_enabled;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_id = global::Study_Buddy.Resource.Styleable.MenuGroup_android_id;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Study_Buddy.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Study_Buddy.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::ColorPicker.Droid.Resource.Styleable.MenuGroup_android_visible = global::Study_Buddy.Resource.Styleable.MenuGroup_android_visible;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem = global::Study_Buddy.Resource.Styleable.MenuItem;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_actionLayout = global::Study_Buddy.Resource.Styleable.MenuItem_actionLayout;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Study_Buddy.Resource.Styleable.MenuItem_actionProviderClass;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Study_Buddy.Resource.Styleable.MenuItem_actionViewClass;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_alphabeticModifiers = global::Study_Buddy.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Study_Buddy.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_checkable = global::Study_Buddy.Resource.Styleable.MenuItem_android_checkable;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_checked = global::Study_Buddy.Resource.Styleable.MenuItem_android_checked;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_enabled = global::Study_Buddy.Resource.Styleable.MenuItem_android_enabled;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_icon = global::Study_Buddy.Resource.Styleable.MenuItem_android_icon;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_id = global::Study_Buddy.Resource.Styleable.MenuItem_android_id;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Study_Buddy.Resource.Styleable.MenuItem_android_menuCategory;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Study_Buddy.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_onClick = global::Study_Buddy.Resource.Styleable.MenuItem_android_onClick;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Study_Buddy.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_title = global::Study_Buddy.Resource.Styleable.MenuItem_android_title;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Study_Buddy.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_android_visible = global::Study_Buddy.Resource.Styleable.MenuItem_android_visible;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_contentDescription = global::Study_Buddy.Resource.Styleable.MenuItem_contentDescription;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_iconTint = global::Study_Buddy.Resource.Styleable.MenuItem_iconTint;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_iconTintMode = global::Study_Buddy.Resource.Styleable.MenuItem_iconTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_numericModifiers = global::Study_Buddy.Resource.Styleable.MenuItem_numericModifiers;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_showAsAction = global::Study_Buddy.Resource.Styleable.MenuItem_showAsAction;
+			global::ColorPicker.Droid.Resource.Styleable.MenuItem_tooltipText = global::Study_Buddy.Resource.Styleable.MenuItem_tooltipText;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView = global::Study_Buddy.Resource.Styleable.MenuView;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Study_Buddy.Resource.Styleable.MenuView_android_headerBackground;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Study_Buddy.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Study_Buddy.Resource.Styleable.MenuView_android_itemBackground;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Study_Buddy.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Study_Buddy.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Study_Buddy.Resource.Styleable.MenuView_android_verticalDivider;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Study_Buddy.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Study_Buddy.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::ColorPicker.Droid.Resource.Styleable.MenuView_subMenuArrow = global::Study_Buddy.Resource.Styleable.MenuView_subMenuArrow;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView = global::Study_Buddy.Resource.Styleable.NavigationView;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_android_background = global::Study_Buddy.Resource.Styleable.NavigationView_android_background;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Study_Buddy.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Study_Buddy.Resource.Styleable.NavigationView_android_maxWidth;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_elevation = global::Study_Buddy.Resource.Styleable.NavigationView_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_headerLayout = global::Study_Buddy.Resource.Styleable.NavigationView_headerLayout;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemBackground = global::Study_Buddy.Resource.Styleable.NavigationView_itemBackground;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Study_Buddy.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemIconPadding = global::Study_Buddy.Resource.Styleable.NavigationView_itemIconPadding;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Study_Buddy.Resource.Styleable.NavigationView_itemIconTint;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Study_Buddy.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Study_Buddy.Resource.Styleable.NavigationView_itemTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.NavigationView_menu = global::Study_Buddy.Resource.Styleable.NavigationView_menu;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindow = global::Study_Buddy.Resource.Styleable.PopupWindow;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Study_Buddy.Resource.Styleable.PopupWindowBackgroundState;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Study_Buddy.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Study_Buddy.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Study_Buddy.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::ColorPicker.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Study_Buddy.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::ColorPicker.Droid.Resource.Styleable.RecycleListView = global::Study_Buddy.Resource.Styleable.RecycleListView;
+			global::ColorPicker.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Study_Buddy.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::ColorPicker.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Study_Buddy.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView = global::Study_Buddy.Resource.Styleable.RecyclerView;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Study_Buddy.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Study_Buddy.Resource.Styleable.RecyclerView_android_orientation;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Study_Buddy.Resource.Styleable.RecyclerView_layoutManager;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Study_Buddy.Resource.Styleable.RecyclerView_reverseLayout;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_spanCount = global::Study_Buddy.Resource.Styleable.RecyclerView_spanCount;
+			global::ColorPicker.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Study_Buddy.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::ColorPicker.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Study_Buddy.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::ColorPicker.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Study_Buddy.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::ColorPicker.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::Study_Buddy.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::ColorPicker.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Study_Buddy.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView = global::Study_Buddy.Resource.Styleable.SearchView;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_android_focusable = global::Study_Buddy.Resource.Styleable.SearchView_android_focusable;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Study_Buddy.Resource.Styleable.SearchView_android_imeOptions;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_android_inputType = global::Study_Buddy.Resource.Styleable.SearchView_android_inputType;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Study_Buddy.Resource.Styleable.SearchView_android_maxWidth;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_closeIcon = global::Study_Buddy.Resource.Styleable.SearchView_closeIcon;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_commitIcon = global::Study_Buddy.Resource.Styleable.SearchView_commitIcon;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Study_Buddy.Resource.Styleable.SearchView_defaultQueryHint;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_goIcon = global::Study_Buddy.Resource.Styleable.SearchView_goIcon;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Study_Buddy.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_layout = global::Study_Buddy.Resource.Styleable.SearchView_layout;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_queryBackground = global::Study_Buddy.Resource.Styleable.SearchView_queryBackground;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_queryHint = global::Study_Buddy.Resource.Styleable.SearchView_queryHint;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Study_Buddy.Resource.Styleable.SearchView_searchHintIcon;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_searchIcon = global::Study_Buddy.Resource.Styleable.SearchView_searchIcon;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_submitBackground = global::Study_Buddy.Resource.Styleable.SearchView_submitBackground;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Study_Buddy.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::ColorPicker.Droid.Resource.Styleable.SearchView_voiceIcon = global::Study_Buddy.Resource.Styleable.SearchView_voiceIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Snackbar = global::Study_Buddy.Resource.Styleable.Snackbar;
+			global::ColorPicker.Droid.Resource.Styleable.SnackbarLayout = global::Study_Buddy.Resource.Styleable.SnackbarLayout;
+			global::ColorPicker.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Study_Buddy.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::ColorPicker.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Study_Buddy.Resource.Styleable.SnackbarLayout_elevation;
+			global::ColorPicker.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Study_Buddy.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::ColorPicker.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Study_Buddy.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::ColorPicker.Droid.Resource.Styleable.Snackbar_snackbarStyle = global::Study_Buddy.Resource.Styleable.Snackbar_snackbarStyle;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner = global::Study_Buddy.Resource.Styleable.Spinner;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Study_Buddy.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner_android_entries = global::Study_Buddy.Resource.Styleable.Spinner_android_entries;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Study_Buddy.Resource.Styleable.Spinner_android_popupBackground;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner_android_prompt = global::Study_Buddy.Resource.Styleable.Spinner_android_prompt;
+			global::ColorPicker.Droid.Resource.Styleable.Spinner_popupTheme = global::Study_Buddy.Resource.Styleable.Spinner_popupTheme;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable = global::Study_Buddy.Resource.Styleable.StateListDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawableItem = global::Study_Buddy.Resource.Styleable.StateListDrawableItem;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawableItem_android_drawable = global::Study_Buddy.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_constantSize = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_dither = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_dither;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_variablePadding = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::ColorPicker.Droid.Resource.Styleable.StateListDrawable_android_visible = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_visible;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat = global::Study_Buddy.Resource.Styleable.SwitchCompat;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_textOff;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_textOn;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_thumb;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_showText = global::Study_Buddy.Resource.Styleable.SwitchCompat_showText;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Study_Buddy.Resource.Styleable.SwitchCompat_splitTrack;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchPadding;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTint;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_track = global::Study_Buddy.Resource.Styleable.SwitchCompat_track;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_trackTint = global::Study_Buddy.Resource.Styleable.SwitchCompat_trackTint;
+			global::ColorPicker.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::Study_Buddy.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.TabItem = global::Study_Buddy.Resource.Styleable.TabItem;
+			global::ColorPicker.Droid.Resource.Styleable.TabItem_android_icon = global::Study_Buddy.Resource.Styleable.TabItem_android_icon;
+			global::ColorPicker.Droid.Resource.Styleable.TabItem_android_layout = global::Study_Buddy.Resource.Styleable.TabItem_android_layout;
+			global::ColorPicker.Droid.Resource.Styleable.TabItem_android_text = global::Study_Buddy.Resource.Styleable.TabItem_android_text;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout = global::Study_Buddy.Resource.Styleable.TabLayout;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabBackground = global::Study_Buddy.Resource.Styleable.TabLayout_tabBackground;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Study_Buddy.Resource.Styleable.TabLayout_tabContentStart;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabGravity = global::Study_Buddy.Resource.Styleable.TabLayout_tabGravity;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIconTint = global::Study_Buddy.Resource.Styleable.TabLayout_tabIconTint;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIconTintMode = global::Study_Buddy.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicator = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicator;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabInlineLabel = global::Study_Buddy.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabMinWidth;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabMode = global::Study_Buddy.Resource.Styleable.TabLayout_tabMode;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabPadding = global::Study_Buddy.Resource.Styleable.TabLayout_tabPadding;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabRippleColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabRippleColor;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Study_Buddy.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Study_Buddy.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance = global::Study_Buddy.Resource.Styleable.TextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_fontFamily = global::Study_Buddy.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColor;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_textColorLink = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textSize;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textStyle;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Study_Buddy.Resource.Styleable.TextAppearance_android_typeface;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_fontFamily = global::Study_Buddy.Resource.Styleable.TextAppearance_fontFamily;
+			global::ColorPicker.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Study_Buddy.Resource.Styleable.TextAppearance_textAllCaps;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout = global::Study_Buddy.Resource.Styleable.TextInputLayout;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Study_Buddy.Resource.Styleable.TextInputLayout_android_hint;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Study_Buddy.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_helperText = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperText;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::ColorPicker.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.ThemeEnforcement = global::Study_Buddy.Resource.Styleable.ThemeEnforcement;
+			global::ColorPicker.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::ColorPicker.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar = global::Study_Buddy.Resource.Styleable.Toolbar;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_android_gravity = global::Study_Buddy.Resource.Styleable.Toolbar_android_gravity;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Study_Buddy.Resource.Styleable.Toolbar_android_minHeight;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_buttonGravity = global::Study_Buddy.Resource.Styleable.Toolbar_buttonGravity;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Study_Buddy.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Study_Buddy.Resource.Styleable.Toolbar_collapseIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetRight;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetStart;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_logo = global::Study_Buddy.Resource.Styleable.Toolbar_logo;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_logoDescription = global::Study_Buddy.Resource.Styleable.Toolbar_logoDescription;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Study_Buddy.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Study_Buddy.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Study_Buddy.Resource.Styleable.Toolbar_navigationIcon;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_popupTheme = global::Study_Buddy.Resource.Styleable.Toolbar_popupTheme;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_subtitle = global::Study_Buddy.Resource.Styleable.Toolbar_subtitle;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Study_Buddy.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Study_Buddy.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_title = global::Study_Buddy.Resource.Styleable.Toolbar_title;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMargin = global::Study_Buddy.Resource.Styleable.Toolbar_titleMargin;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMargins = global::Study_Buddy.Resource.Styleable.Toolbar_titleMargins;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginStart;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginTop;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Study_Buddy.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::ColorPicker.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Study_Buddy.Resource.Styleable.Toolbar_titleTextColor;
+			global::ColorPicker.Droid.Resource.Styleable.View = global::Study_Buddy.Resource.Styleable.View;
+			global::ColorPicker.Droid.Resource.Styleable.ViewBackgroundHelper = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper;
+			global::ColorPicker.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::ColorPicker.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::ColorPicker.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::ColorPicker.Droid.Resource.Styleable.ViewStubCompat = global::Study_Buddy.Resource.Styleable.ViewStubCompat;
+			global::ColorPicker.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_id;
+			global::ColorPicker.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::ColorPicker.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_layout;
+			global::ColorPicker.Droid.Resource.Styleable.View_android_focusable = global::Study_Buddy.Resource.Styleable.View_android_focusable;
+			global::ColorPicker.Droid.Resource.Styleable.View_android_theme = global::Study_Buddy.Resource.Styleable.View_android_theme;
+			global::ColorPicker.Droid.Resource.Styleable.View_paddingEnd = global::Study_Buddy.Resource.Styleable.View_paddingEnd;
+			global::ColorPicker.Droid.Resource.Styleable.View_paddingStart = global::Study_Buddy.Resource.Styleable.View_paddingStart;
+			global::ColorPicker.Droid.Resource.Styleable.View_theme = global::Study_Buddy.Resource.Styleable.View_theme;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_fade_in = global::Study_Buddy.Resource.Animation.abc_fade_in;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_fade_out = global::Study_Buddy.Resource.Animation.abc_fade_out;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_grow_fade_in_from_bottom = global::Study_Buddy.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_popup_enter = global::Study_Buddy.Resource.Animation.abc_popup_enter;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_popup_exit = global::Study_Buddy.Resource.Animation.abc_popup_exit;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Study_Buddy.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_in_bottom = global::Study_Buddy.Resource.Animation.abc_slide_in_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_in_top = global::Study_Buddy.Resource.Animation.abc_slide_in_top;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_out_bottom = global::Study_Buddy.Resource.Animation.abc_slide_out_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_slide_out_top = global::Study_Buddy.Resource.Animation.abc_slide_out_top;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_tooltip_enter = global::Study_Buddy.Resource.Animation.abc_tooltip_enter;
+			global::SkiaSharp.Views.Forms.Resource.Animation.abc_tooltip_exit = global::Study_Buddy.Resource.Animation.abc_tooltip_exit;
+			global::SkiaSharp.Views.Forms.Resource.Animation.design_bottom_sheet_slide_in = global::Study_Buddy.Resource.Animation.design_bottom_sheet_slide_in;
+			global::SkiaSharp.Views.Forms.Resource.Animation.design_bottom_sheet_slide_out = global::Study_Buddy.Resource.Animation.design_bottom_sheet_slide_out;
+			global::SkiaSharp.Views.Forms.Resource.Animation.design_snackbar_in = global::Study_Buddy.Resource.Animation.design_snackbar_in;
+			global::SkiaSharp.Views.Forms.Resource.Animation.design_snackbar_out = global::Study_Buddy.Resource.Animation.design_snackbar_out;
+			global::SkiaSharp.Views.Forms.Resource.Animation.EnterFromLeft = global::Study_Buddy.Resource.Animation.EnterFromLeft;
+			global::SkiaSharp.Views.Forms.Resource.Animation.EnterFromRight = global::Study_Buddy.Resource.Animation.EnterFromRight;
+			global::SkiaSharp.Views.Forms.Resource.Animation.ExitToLeft = global::Study_Buddy.Resource.Animation.ExitToLeft;
+			global::SkiaSharp.Views.Forms.Resource.Animation.ExitToRight = global::Study_Buddy.Resource.Animation.ExitToRight;
+			global::SkiaSharp.Views.Forms.Resource.Animator.design_appbar_state_list_animator = global::Study_Buddy.Resource.Animator.design_appbar_state_list_animator;
+			global::SkiaSharp.Views.Forms.Resource.Animator.design_fab_hide_motion_spec = global::Study_Buddy.Resource.Animator.design_fab_hide_motion_spec;
+			global::SkiaSharp.Views.Forms.Resource.Animator.design_fab_show_motion_spec = global::Study_Buddy.Resource.Animator.design_fab_show_motion_spec;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_btn_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_btn_state_list_anim;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_chip_state_list_anim = global::Study_Buddy.Resource.Animator.mtrl_chip_state_list_anim;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_hide_motion_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_show_motion_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::SkiaSharp.Views.Forms.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Study_Buddy.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarDivider = global::Study_Buddy.Resource.Attribute.actionBarDivider;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarItemBackground = global::Study_Buddy.Resource.Attribute.actionBarItemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarPopupTheme = global::Study_Buddy.Resource.Attribute.actionBarPopupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarSize = global::Study_Buddy.Resource.Attribute.actionBarSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarSplitStyle = global::Study_Buddy.Resource.Attribute.actionBarSplitStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarStyle = global::Study_Buddy.Resource.Attribute.actionBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabBarStyle = global::Study_Buddy.Resource.Attribute.actionBarTabBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabStyle = global::Study_Buddy.Resource.Attribute.actionBarTabStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTabTextStyle = global::Study_Buddy.Resource.Attribute.actionBarTabTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarTheme = global::Study_Buddy.Resource.Attribute.actionBarTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionBarWidgetTheme = global::Study_Buddy.Resource.Attribute.actionBarWidgetTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionButtonStyle = global::Study_Buddy.Resource.Attribute.actionButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionDropDownStyle = global::Study_Buddy.Resource.Attribute.actionDropDownStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionLayout = global::Study_Buddy.Resource.Attribute.actionLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionMenuTextAppearance = global::Study_Buddy.Resource.Attribute.actionMenuTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionMenuTextColor = global::Study_Buddy.Resource.Attribute.actionMenuTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeBackground = global::Study_Buddy.Resource.Attribute.actionModeBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCloseButtonStyle = global::Study_Buddy.Resource.Attribute.actionModeCloseButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCloseDrawable = global::Study_Buddy.Resource.Attribute.actionModeCloseDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCopyDrawable = global::Study_Buddy.Resource.Attribute.actionModeCopyDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeCutDrawable = global::Study_Buddy.Resource.Attribute.actionModeCutDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeFindDrawable = global::Study_Buddy.Resource.Attribute.actionModeFindDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModePasteDrawable = global::Study_Buddy.Resource.Attribute.actionModePasteDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModePopupWindowStyle = global::Study_Buddy.Resource.Attribute.actionModePopupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeSelectAllDrawable = global::Study_Buddy.Resource.Attribute.actionModeSelectAllDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeShareDrawable = global::Study_Buddy.Resource.Attribute.actionModeShareDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeSplitBackground = global::Study_Buddy.Resource.Attribute.actionModeSplitBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeStyle = global::Study_Buddy.Resource.Attribute.actionModeStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionModeWebSearchDrawable = global::Study_Buddy.Resource.Attribute.actionModeWebSearchDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionOverflowButtonStyle = global::Study_Buddy.Resource.Attribute.actionOverflowButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionOverflowMenuStyle = global::Study_Buddy.Resource.Attribute.actionOverflowMenuStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionProviderClass = global::Study_Buddy.Resource.Attribute.actionProviderClass;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.actionViewClass = global::Study_Buddy.Resource.Attribute.actionViewClass;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.activityChooserViewStyle = global::Study_Buddy.Resource.Attribute.activityChooserViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogButtonGroupStyle = global::Study_Buddy.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogCenterButtons = global::Study_Buddy.Resource.Attribute.alertDialogCenterButtons;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogStyle = global::Study_Buddy.Resource.Attribute.alertDialogStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alertDialogTheme = global::Study_Buddy.Resource.Attribute.alertDialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.allowStacking = global::Study_Buddy.Resource.Attribute.allowStacking;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alpha = global::Study_Buddy.Resource.Attribute.alpha;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.alphabeticModifiers = global::Study_Buddy.Resource.Attribute.alphabeticModifiers;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.arrowHeadLength = global::Study_Buddy.Resource.Attribute.arrowHeadLength;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.arrowShaftLength = global::Study_Buddy.Resource.Attribute.arrowShaftLength;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoCompleteTextViewStyle = global::Study_Buddy.Resource.Attribute.autoCompleteTextViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeMaxTextSize = global::Study_Buddy.Resource.Attribute.autoSizeMaxTextSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeMinTextSize = global::Study_Buddy.Resource.Attribute.autoSizeMinTextSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizePresetSizes = global::Study_Buddy.Resource.Attribute.autoSizePresetSizes;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeStepGranularity = global::Study_Buddy.Resource.Attribute.autoSizeStepGranularity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.autoSizeTextType = global::Study_Buddy.Resource.Attribute.autoSizeTextType;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.background = global::Study_Buddy.Resource.Attribute.background;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundSplit = global::Study_Buddy.Resource.Attribute.backgroundSplit;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundStacked = global::Study_Buddy.Resource.Attribute.backgroundStacked;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundTint = global::Study_Buddy.Resource.Attribute.backgroundTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.backgroundTintMode = global::Study_Buddy.Resource.Attribute.backgroundTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.barLength = global::Study_Buddy.Resource.Attribute.barLength;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_autoHide = global::Study_Buddy.Resource.Attribute.behavior_autoHide;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_fitToContents = global::Study_Buddy.Resource.Attribute.behavior_fitToContents;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_hideable = global::Study_Buddy.Resource.Attribute.behavior_hideable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_overlapTop = global::Study_Buddy.Resource.Attribute.behavior_overlapTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_peekHeight = global::Study_Buddy.Resource.Attribute.behavior_peekHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.behavior_skipCollapsed = global::Study_Buddy.Resource.Attribute.behavior_skipCollapsed;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.borderlessButtonStyle = global::Study_Buddy.Resource.Attribute.borderlessButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.borderWidth = global::Study_Buddy.Resource.Attribute.borderWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomAppBarStyle = global::Study_Buddy.Resource.Attribute.bottomAppBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomNavigationStyle = global::Study_Buddy.Resource.Attribute.bottomNavigationStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomSheetDialogTheme = global::Study_Buddy.Resource.Attribute.bottomSheetDialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.bottomSheetStyle = global::Study_Buddy.Resource.Attribute.bottomSheetStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxBackgroundColor = global::Study_Buddy.Resource.Attribute.boxBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxBackgroundMode = global::Study_Buddy.Resource.Attribute.boxBackgroundMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCollapsedPaddingTop = global::Study_Buddy.Resource.Attribute.boxCollapsedPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusBottomEnd = global::Study_Buddy.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusBottomStart = global::Study_Buddy.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusTopEnd = global::Study_Buddy.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxCornerRadiusTopStart = global::Study_Buddy.Resource.Attribute.boxCornerRadiusTopStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxStrokeColor = global::Study_Buddy.Resource.Attribute.boxStrokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.boxStrokeWidth = global::Study_Buddy.Resource.Attribute.boxStrokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarNegativeButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarNeutralButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarPositiveButtonStyle = global::Study_Buddy.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonBarStyle = global::Study_Buddy.Resource.Attribute.buttonBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonGravity = global::Study_Buddy.Resource.Attribute.buttonGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonIconDimen = global::Study_Buddy.Resource.Attribute.buttonIconDimen;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonPanelSideLayout = global::Study_Buddy.Resource.Attribute.buttonPanelSideLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonStyle = global::Study_Buddy.Resource.Attribute.buttonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonStyleSmall = global::Study_Buddy.Resource.Attribute.buttonStyleSmall;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonTint = global::Study_Buddy.Resource.Attribute.buttonTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.buttonTintMode = global::Study_Buddy.Resource.Attribute.buttonTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardBackgroundColor = global::Study_Buddy.Resource.Attribute.cardBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardCornerRadius = global::Study_Buddy.Resource.Attribute.cardCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardElevation = global::Study_Buddy.Resource.Attribute.cardElevation;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardMaxElevation = global::Study_Buddy.Resource.Attribute.cardMaxElevation;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardPreventCornerOverlap = global::Study_Buddy.Resource.Attribute.cardPreventCornerOverlap;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardUseCompatPadding = global::Study_Buddy.Resource.Attribute.cardUseCompatPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cardViewStyle = global::Study_Buddy.Resource.Attribute.cardViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkboxStyle = global::Study_Buddy.Resource.Attribute.checkboxStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedChip = global::Study_Buddy.Resource.Attribute.checkedChip;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIcon = global::Study_Buddy.Resource.Attribute.checkedIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIconEnabled = global::Study_Buddy.Resource.Attribute.checkedIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedIconVisible = global::Study_Buddy.Resource.Attribute.checkedIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.checkedTextViewStyle = global::Study_Buddy.Resource.Attribute.checkedTextViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipBackgroundColor = global::Study_Buddy.Resource.Attribute.chipBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipCornerRadius = global::Study_Buddy.Resource.Attribute.chipCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipEndPadding = global::Study_Buddy.Resource.Attribute.chipEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipGroupStyle = global::Study_Buddy.Resource.Attribute.chipGroupStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIcon = global::Study_Buddy.Resource.Attribute.chipIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconEnabled = global::Study_Buddy.Resource.Attribute.chipIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconSize = global::Study_Buddy.Resource.Attribute.chipIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconTint = global::Study_Buddy.Resource.Attribute.chipIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipIconVisible = global::Study_Buddy.Resource.Attribute.chipIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipMinHeight = global::Study_Buddy.Resource.Attribute.chipMinHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacing = global::Study_Buddy.Resource.Attribute.chipSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacingHorizontal = global::Study_Buddy.Resource.Attribute.chipSpacingHorizontal;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipSpacingVertical = global::Study_Buddy.Resource.Attribute.chipSpacingVertical;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStandaloneStyle = global::Study_Buddy.Resource.Attribute.chipStandaloneStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStartPadding = global::Study_Buddy.Resource.Attribute.chipStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStrokeColor = global::Study_Buddy.Resource.Attribute.chipStrokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStrokeWidth = global::Study_Buddy.Resource.Attribute.chipStrokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.chipStyle = global::Study_Buddy.Resource.Attribute.chipStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIcon = global::Study_Buddy.Resource.Attribute.closeIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconEnabled = global::Study_Buddy.Resource.Attribute.closeIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconEndPadding = global::Study_Buddy.Resource.Attribute.closeIconEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconSize = global::Study_Buddy.Resource.Attribute.closeIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconStartPadding = global::Study_Buddy.Resource.Attribute.closeIconStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconTint = global::Study_Buddy.Resource.Attribute.closeIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeIconVisible = global::Study_Buddy.Resource.Attribute.closeIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.closeItemLayout = global::Study_Buddy.Resource.Attribute.closeItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.collapseContentDescription = global::Study_Buddy.Resource.Attribute.collapseContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.collapsedTitleGravity = global::Study_Buddy.Resource.Attribute.collapsedTitleGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.collapsedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.collapsedTitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.collapseIcon = global::Study_Buddy.Resource.Attribute.collapseIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.color = global::Study_Buddy.Resource.Attribute.color;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorAccent = global::Study_Buddy.Resource.Attribute.colorAccent;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorBackgroundFloating = global::Study_Buddy.Resource.Attribute.colorBackgroundFloating;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorButtonNormal = global::Study_Buddy.Resource.Attribute.colorButtonNormal;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlActivated = global::Study_Buddy.Resource.Attribute.colorControlActivated;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlHighlight = global::Study_Buddy.Resource.Attribute.colorControlHighlight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorControlNormal = global::Study_Buddy.Resource.Attribute.colorControlNormal;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorError = global::Study_Buddy.Resource.Attribute.colorError;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorPrimary = global::Study_Buddy.Resource.Attribute.colorPrimary;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorPrimaryDark = global::Study_Buddy.Resource.Attribute.colorPrimaryDark;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorSecondary = global::Study_Buddy.Resource.Attribute.colorSecondary;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.colorSwitchThumbNormal = global::Study_Buddy.Resource.Attribute.colorSwitchThumbNormal;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.commitIcon = global::Study_Buddy.Resource.Attribute.commitIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentDescription = global::Study_Buddy.Resource.Attribute.contentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetEnd = global::Study_Buddy.Resource.Attribute.contentInsetEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetEndWithActions = global::Study_Buddy.Resource.Attribute.contentInsetEndWithActions;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetLeft = global::Study_Buddy.Resource.Attribute.contentInsetLeft;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetRight = global::Study_Buddy.Resource.Attribute.contentInsetRight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetStart = global::Study_Buddy.Resource.Attribute.contentInsetStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentInsetStartWithNavigation = global::Study_Buddy.Resource.Attribute.contentInsetStartWithNavigation;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPadding = global::Study_Buddy.Resource.Attribute.contentPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingBottom = global::Study_Buddy.Resource.Attribute.contentPaddingBottom;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingLeft = global::Study_Buddy.Resource.Attribute.contentPaddingLeft;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingRight = global::Study_Buddy.Resource.Attribute.contentPaddingRight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentPaddingTop = global::Study_Buddy.Resource.Attribute.contentPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.contentScrim = global::Study_Buddy.Resource.Attribute.contentScrim;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.controlBackground = global::Study_Buddy.Resource.Attribute.controlBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.coordinatorLayoutStyle = global::Study_Buddy.Resource.Attribute.coordinatorLayoutStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.cornerRadius = global::Study_Buddy.Resource.Attribute.cornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.counterEnabled = global::Study_Buddy.Resource.Attribute.counterEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.counterMaxLength = global::Study_Buddy.Resource.Attribute.counterMaxLength;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.counterOverflowTextAppearance = global::Study_Buddy.Resource.Attribute.counterOverflowTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.counterTextAppearance = global::Study_Buddy.Resource.Attribute.counterTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.customNavigationLayout = global::Study_Buddy.Resource.Attribute.customNavigationLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.defaultQueryHint = global::Study_Buddy.Resource.Attribute.defaultQueryHint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogCornerRadius = global::Study_Buddy.Resource.Attribute.dialogCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogPreferredPadding = global::Study_Buddy.Resource.Attribute.dialogPreferredPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dialogTheme = global::Study_Buddy.Resource.Attribute.dialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.displayOptions = global::Study_Buddy.Resource.Attribute.displayOptions;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.divider = global::Study_Buddy.Resource.Attribute.divider;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerHorizontal = global::Study_Buddy.Resource.Attribute.dividerHorizontal;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerPadding = global::Study_Buddy.Resource.Attribute.dividerPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dividerVertical = global::Study_Buddy.Resource.Attribute.dividerVertical;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.drawableSize = global::Study_Buddy.Resource.Attribute.drawableSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.drawerArrowStyle = global::Study_Buddy.Resource.Attribute.drawerArrowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dropdownListPreferredItemHeight = global::Study_Buddy.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.dropDownListViewStyle = global::Study_Buddy.Resource.Attribute.dropDownListViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextBackground = global::Study_Buddy.Resource.Attribute.editTextBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextColor = global::Study_Buddy.Resource.Attribute.editTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.editTextStyle = global::Study_Buddy.Resource.Attribute.editTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.elevation = global::Study_Buddy.Resource.Attribute.elevation;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.enforceMaterialTheme = global::Study_Buddy.Resource.Attribute.enforceMaterialTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.enforceTextAppearance = global::Study_Buddy.Resource.Attribute.enforceTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.errorEnabled = global::Study_Buddy.Resource.Attribute.errorEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.errorTextAppearance = global::Study_Buddy.Resource.Attribute.errorTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Study_Buddy.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expanded = global::Study_Buddy.Resource.Attribute.expanded;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleGravity = global::Study_Buddy.Resource.Attribute.expandedTitleGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMargin = global::Study_Buddy.Resource.Attribute.expandedTitleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginBottom = global::Study_Buddy.Resource.Attribute.expandedTitleMarginBottom;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginEnd = global::Study_Buddy.Resource.Attribute.expandedTitleMarginEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginStart = global::Study_Buddy.Resource.Attribute.expandedTitleMarginStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleMarginTop = global::Study_Buddy.Resource.Attribute.expandedTitleMarginTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.expandedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.expandedTitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabAlignmentMode = global::Study_Buddy.Resource.Attribute.fabAlignmentMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleMargin = global::Study_Buddy.Resource.Attribute.fabCradleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleRoundedCornerRadius = global::Study_Buddy.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCradleVerticalOffset = global::Study_Buddy.Resource.Attribute.fabCradleVerticalOffset;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabCustomSize = global::Study_Buddy.Resource.Attribute.fabCustomSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fabSize = global::Study_Buddy.Resource.Attribute.fabSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollEnabled = global::Study_Buddy.Resource.Attribute.fastScrollEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Study_Buddy.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Study_Buddy.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Study_Buddy.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Study_Buddy.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.firstBaselineToTopHeight = global::Study_Buddy.Resource.Attribute.firstBaselineToTopHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.floatingActionButtonStyle = global::Study_Buddy.Resource.Attribute.floatingActionButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.font = global::Study_Buddy.Resource.Attribute.font;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontFamily = global::Study_Buddy.Resource.Attribute.fontFamily;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderAuthority = global::Study_Buddy.Resource.Attribute.fontProviderAuthority;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderCerts = global::Study_Buddy.Resource.Attribute.fontProviderCerts;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderFetchStrategy = global::Study_Buddy.Resource.Attribute.fontProviderFetchStrategy;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderFetchTimeout = global::Study_Buddy.Resource.Attribute.fontProviderFetchTimeout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderPackage = global::Study_Buddy.Resource.Attribute.fontProviderPackage;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontProviderQuery = global::Study_Buddy.Resource.Attribute.fontProviderQuery;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontStyle = global::Study_Buddy.Resource.Attribute.fontStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontVariationSettings = global::Study_Buddy.Resource.Attribute.fontVariationSettings;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.fontWeight = global::Study_Buddy.Resource.Attribute.fontWeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.foregroundInsidePadding = global::Study_Buddy.Resource.Attribute.foregroundInsidePadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.gapBetweenBars = global::Study_Buddy.Resource.Attribute.gapBetweenBars;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.goIcon = global::Study_Buddy.Resource.Attribute.goIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.headerLayout = global::Study_Buddy.Resource.Attribute.headerLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.height = global::Study_Buddy.Resource.Attribute.height;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.helperText = global::Study_Buddy.Resource.Attribute.helperText;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.helperTextEnabled = global::Study_Buddy.Resource.Attribute.helperTextEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.helperTextTextAppearance = global::Study_Buddy.Resource.Attribute.helperTextTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hideMotionSpec = global::Study_Buddy.Resource.Attribute.hideMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hideOnContentScroll = global::Study_Buddy.Resource.Attribute.hideOnContentScroll;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hideOnScroll = global::Study_Buddy.Resource.Attribute.hideOnScroll;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hintAnimationEnabled = global::Study_Buddy.Resource.Attribute.hintAnimationEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hintEnabled = global::Study_Buddy.Resource.Attribute.hintEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hintTextAppearance = global::Study_Buddy.Resource.Attribute.hintTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.homeAsUpIndicator = global::Study_Buddy.Resource.Attribute.homeAsUpIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.homeLayout = global::Study_Buddy.Resource.Attribute.homeLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.hoveredFocusedTranslationZ = global::Study_Buddy.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.icon = global::Study_Buddy.Resource.Attribute.icon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconEndPadding = global::Study_Buddy.Resource.Attribute.iconEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconGravity = global::Study_Buddy.Resource.Attribute.iconGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconifiedByDefault = global::Study_Buddy.Resource.Attribute.iconifiedByDefault;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconPadding = global::Study_Buddy.Resource.Attribute.iconPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconSize = global::Study_Buddy.Resource.Attribute.iconSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconStartPadding = global::Study_Buddy.Resource.Attribute.iconStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconTint = global::Study_Buddy.Resource.Attribute.iconTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.iconTintMode = global::Study_Buddy.Resource.Attribute.iconTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.imageButtonStyle = global::Study_Buddy.Resource.Attribute.imageButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.indeterminateProgressStyle = global::Study_Buddy.Resource.Attribute.indeterminateProgressStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.initialActivityCount = global::Study_Buddy.Resource.Attribute.initialActivityCount;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.insetForeground = global::Study_Buddy.Resource.Attribute.insetForeground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.isLightTheme = global::Study_Buddy.Resource.Attribute.isLightTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemBackground = global::Study_Buddy.Resource.Attribute.itemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemHorizontalPadding = global::Study_Buddy.Resource.Attribute.itemHorizontalPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemHorizontalTranslationEnabled = global::Study_Buddy.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconPadding = global::Study_Buddy.Resource.Attribute.itemIconPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconSize = global::Study_Buddy.Resource.Attribute.itemIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemIconTint = global::Study_Buddy.Resource.Attribute.itemIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemPadding = global::Study_Buddy.Resource.Attribute.itemPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemSpacing = global::Study_Buddy.Resource.Attribute.itemSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearance = global::Study_Buddy.Resource.Attribute.itemTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearanceActive = global::Study_Buddy.Resource.Attribute.itemTextAppearanceActive;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextAppearanceInactive = global::Study_Buddy.Resource.Attribute.itemTextAppearanceInactive;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.itemTextColor = global::Study_Buddy.Resource.Attribute.itemTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.keylines = global::Study_Buddy.Resource.Attribute.keylines;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.labelVisibilityMode = global::Study_Buddy.Resource.Attribute.labelVisibilityMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.lastBaselineToBottomHeight = global::Study_Buddy.Resource.Attribute.lastBaselineToBottomHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout = global::Study_Buddy.Resource.Attribute.layout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layoutManager = global::Study_Buddy.Resource.Attribute.layoutManager;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_anchor = global::Study_Buddy.Resource.Attribute.layout_anchor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_anchorGravity = global::Study_Buddy.Resource.Attribute.layout_anchorGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_behavior = global::Study_Buddy.Resource.Attribute.layout_behavior;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_collapseMode = global::Study_Buddy.Resource.Attribute.layout_collapseMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_collapseParallaxMultiplier = global::Study_Buddy.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_dodgeInsetEdges = global::Study_Buddy.Resource.Attribute.layout_dodgeInsetEdges;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_insetEdge = global::Study_Buddy.Resource.Attribute.layout_insetEdge;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_keyline = global::Study_Buddy.Resource.Attribute.layout_keyline;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_scrollFlags = global::Study_Buddy.Resource.Attribute.layout_scrollFlags;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.layout_scrollInterpolator = global::Study_Buddy.Resource.Attribute.layout_scrollInterpolator;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.liftOnScroll = global::Study_Buddy.Resource.Attribute.liftOnScroll;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.lineHeight = global::Study_Buddy.Resource.Attribute.lineHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.lineSpacing = global::Study_Buddy.Resource.Attribute.lineSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listChoiceBackgroundIndicator = global::Study_Buddy.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listDividerAlertDialog = global::Study_Buddy.Resource.Attribute.listDividerAlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listItemLayout = global::Study_Buddy.Resource.Attribute.listItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listLayout = global::Study_Buddy.Resource.Attribute.listLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listMenuViewStyle = global::Study_Buddy.Resource.Attribute.listMenuViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPopupWindowStyle = global::Study_Buddy.Resource.Attribute.listPopupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeight = global::Study_Buddy.Resource.Attribute.listPreferredItemHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeightLarge = global::Study_Buddy.Resource.Attribute.listPreferredItemHeightLarge;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemHeightSmall = global::Study_Buddy.Resource.Attribute.listPreferredItemHeightSmall;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemPaddingLeft = global::Study_Buddy.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.listPreferredItemPaddingRight = global::Study_Buddy.Resource.Attribute.listPreferredItemPaddingRight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.logo = global::Study_Buddy.Resource.Attribute.logo;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.logoDescription = global::Study_Buddy.Resource.Attribute.logoDescription;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.materialButtonStyle = global::Study_Buddy.Resource.Attribute.materialButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.materialCardViewStyle = global::Study_Buddy.Resource.Attribute.materialCardViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.maxActionInlineWidth = global::Study_Buddy.Resource.Attribute.maxActionInlineWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.maxButtonHeight = global::Study_Buddy.Resource.Attribute.maxButtonHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.maxImageSize = global::Study_Buddy.Resource.Attribute.maxImageSize;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.measureWithLargestChild = global::Study_Buddy.Resource.Attribute.measureWithLargestChild;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.menu = global::Study_Buddy.Resource.Attribute.menu;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.multiChoiceItemLayout = global::Study_Buddy.Resource.Attribute.multiChoiceItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationContentDescription = global::Study_Buddy.Resource.Attribute.navigationContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationIcon = global::Study_Buddy.Resource.Attribute.navigationIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationMode = global::Study_Buddy.Resource.Attribute.navigationMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.navigationViewStyle = global::Study_Buddy.Resource.Attribute.navigationViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.numericModifiers = global::Study_Buddy.Resource.Attribute.numericModifiers;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.overlapAnchor = global::Study_Buddy.Resource.Attribute.overlapAnchor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingBottomNoButtons = global::Study_Buddy.Resource.Attribute.paddingBottomNoButtons;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingEnd = global::Study_Buddy.Resource.Attribute.paddingEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingStart = global::Study_Buddy.Resource.Attribute.paddingStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.paddingTopNoTitle = global::Study_Buddy.Resource.Attribute.paddingTopNoTitle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.panelBackground = global::Study_Buddy.Resource.Attribute.panelBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.panelMenuListTheme = global::Study_Buddy.Resource.Attribute.panelMenuListTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.panelMenuListWidth = global::Study_Buddy.Resource.Attribute.panelMenuListWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleContentDescription = global::Study_Buddy.Resource.Attribute.passwordToggleContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleDrawable = global::Study_Buddy.Resource.Attribute.passwordToggleDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleEnabled = global::Study_Buddy.Resource.Attribute.passwordToggleEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleTint = global::Study_Buddy.Resource.Attribute.passwordToggleTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.passwordToggleTintMode = global::Study_Buddy.Resource.Attribute.passwordToggleTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.popupMenuStyle = global::Study_Buddy.Resource.Attribute.popupMenuStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.popupTheme = global::Study_Buddy.Resource.Attribute.popupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.popupWindowStyle = global::Study_Buddy.Resource.Attribute.popupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.preserveIconSpacing = global::Study_Buddy.Resource.Attribute.preserveIconSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.pressedTranslationZ = global::Study_Buddy.Resource.Attribute.pressedTranslationZ;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.progressBarPadding = global::Study_Buddy.Resource.Attribute.progressBarPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.progressBarStyle = global::Study_Buddy.Resource.Attribute.progressBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.queryBackground = global::Study_Buddy.Resource.Attribute.queryBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.queryHint = global::Study_Buddy.Resource.Attribute.queryHint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.radioButtonStyle = global::Study_Buddy.Resource.Attribute.radioButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyle = global::Study_Buddy.Resource.Attribute.ratingBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyleIndicator = global::Study_Buddy.Resource.Attribute.ratingBarStyleIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.ratingBarStyleSmall = global::Study_Buddy.Resource.Attribute.ratingBarStyleSmall;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.reverseLayout = global::Study_Buddy.Resource.Attribute.reverseLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.rippleColor = global::Study_Buddy.Resource.Attribute.rippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimAnimationDuration = global::Study_Buddy.Resource.Attribute.scrimAnimationDuration;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimBackground = global::Study_Buddy.Resource.Attribute.scrimBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.scrimVisibleHeightTrigger = global::Study_Buddy.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.searchHintIcon = global::Study_Buddy.Resource.Attribute.searchHintIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.searchIcon = global::Study_Buddy.Resource.Attribute.searchIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.searchViewStyle = global::Study_Buddy.Resource.Attribute.searchViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.seekBarStyle = global::Study_Buddy.Resource.Attribute.seekBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.selectableItemBackground = global::Study_Buddy.Resource.Attribute.selectableItemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.selectableItemBackgroundBorderless = global::Study_Buddy.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.showAsAction = global::Study_Buddy.Resource.Attribute.showAsAction;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.showDividers = global::Study_Buddy.Resource.Attribute.showDividers;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.showMotionSpec = global::Study_Buddy.Resource.Attribute.showMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.showText = global::Study_Buddy.Resource.Attribute.showText;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.showTitle = global::Study_Buddy.Resource.Attribute.showTitle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.singleChoiceItemLayout = global::Study_Buddy.Resource.Attribute.singleChoiceItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.singleLine = global::Study_Buddy.Resource.Attribute.singleLine;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.singleSelection = global::Study_Buddy.Resource.Attribute.singleSelection;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.snackbarButtonStyle = global::Study_Buddy.Resource.Attribute.snackbarButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.snackbarStyle = global::Study_Buddy.Resource.Attribute.snackbarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.spanCount = global::Study_Buddy.Resource.Attribute.spanCount;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.spinBars = global::Study_Buddy.Resource.Attribute.spinBars;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.spinnerDropDownItemStyle = global::Study_Buddy.Resource.Attribute.spinnerDropDownItemStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.spinnerStyle = global::Study_Buddy.Resource.Attribute.spinnerStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.splitTrack = global::Study_Buddy.Resource.Attribute.splitTrack;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.srcCompat = global::Study_Buddy.Resource.Attribute.srcCompat;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.stackFromEnd = global::Study_Buddy.Resource.Attribute.stackFromEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.state_above_anchor = global::Study_Buddy.Resource.Attribute.state_above_anchor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.state_collapsed = global::Study_Buddy.Resource.Attribute.state_collapsed;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.state_collapsible = global::Study_Buddy.Resource.Attribute.state_collapsible;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.state_liftable = global::Study_Buddy.Resource.Attribute.state_liftable;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.state_lifted = global::Study_Buddy.Resource.Attribute.state_lifted;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.statusBarBackground = global::Study_Buddy.Resource.Attribute.statusBarBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.statusBarScrim = global::Study_Buddy.Resource.Attribute.statusBarScrim;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.strokeColor = global::Study_Buddy.Resource.Attribute.strokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.strokeWidth = global::Study_Buddy.Resource.Attribute.strokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.subMenuArrow = global::Study_Buddy.Resource.Attribute.subMenuArrow;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.submitBackground = global::Study_Buddy.Resource.Attribute.submitBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitle = global::Study_Buddy.Resource.Attribute.subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextAppearance = global::Study_Buddy.Resource.Attribute.subtitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextColor = global::Study_Buddy.Resource.Attribute.subtitleTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.subtitleTextStyle = global::Study_Buddy.Resource.Attribute.subtitleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.suggestionRowLayout = global::Study_Buddy.Resource.Attribute.suggestionRowLayout;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.switchMinWidth = global::Study_Buddy.Resource.Attribute.switchMinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.switchPadding = global::Study_Buddy.Resource.Attribute.switchPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.switchStyle = global::Study_Buddy.Resource.Attribute.switchStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.switchTextAppearance = global::Study_Buddy.Resource.Attribute.switchTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabBackground = global::Study_Buddy.Resource.Attribute.tabBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabContentStart = global::Study_Buddy.Resource.Attribute.tabContentStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabGravity = global::Study_Buddy.Resource.Attribute.tabGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIconTint = global::Study_Buddy.Resource.Attribute.tabIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIconTintMode = global::Study_Buddy.Resource.Attribute.tabIconTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicator = global::Study_Buddy.Resource.Attribute.tabIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorAnimationDuration = global::Study_Buddy.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorColor = global::Study_Buddy.Resource.Attribute.tabIndicatorColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorFullWidth = global::Study_Buddy.Resource.Attribute.tabIndicatorFullWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorGravity = global::Study_Buddy.Resource.Attribute.tabIndicatorGravity;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabIndicatorHeight = global::Study_Buddy.Resource.Attribute.tabIndicatorHeight;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabInlineLabel = global::Study_Buddy.Resource.Attribute.tabInlineLabel;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMaxWidth = global::Study_Buddy.Resource.Attribute.tabMaxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMinWidth = global::Study_Buddy.Resource.Attribute.tabMinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabMode = global::Study_Buddy.Resource.Attribute.tabMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPadding = global::Study_Buddy.Resource.Attribute.tabPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingBottom = global::Study_Buddy.Resource.Attribute.tabPaddingBottom;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingEnd = global::Study_Buddy.Resource.Attribute.tabPaddingEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingStart = global::Study_Buddy.Resource.Attribute.tabPaddingStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabPaddingTop = global::Study_Buddy.Resource.Attribute.tabPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabRippleColor = global::Study_Buddy.Resource.Attribute.tabRippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabSelectedTextColor = global::Study_Buddy.Resource.Attribute.tabSelectedTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabStyle = global::Study_Buddy.Resource.Attribute.tabStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabTextAppearance = global::Study_Buddy.Resource.Attribute.tabTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabTextColor = global::Study_Buddy.Resource.Attribute.tabTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tabUnboundedRipple = global::Study_Buddy.Resource.Attribute.tabUnboundedRipple;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAllCaps = global::Study_Buddy.Resource.Attribute.textAllCaps;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceBody1 = global::Study_Buddy.Resource.Attribute.textAppearanceBody1;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceBody2 = global::Study_Buddy.Resource.Attribute.textAppearanceBody2;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceButton = global::Study_Buddy.Resource.Attribute.textAppearanceButton;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceCaption = global::Study_Buddy.Resource.Attribute.textAppearanceCaption;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline1 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline1;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline2 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline2;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline3 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline3;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline4 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline4;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline5 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline5;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceHeadline6 = global::Study_Buddy.Resource.Attribute.textAppearanceHeadline6;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceLargePopupMenu = global::Study_Buddy.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItem = global::Study_Buddy.Resource.Attribute.textAppearanceListItem;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItemSecondary = global::Study_Buddy.Resource.Attribute.textAppearanceListItemSecondary;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceListItemSmall = global::Study_Buddy.Resource.Attribute.textAppearanceListItemSmall;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceOverline = global::Study_Buddy.Resource.Attribute.textAppearanceOverline;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearancePopupMenuHeader = global::Study_Buddy.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Study_Buddy.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSearchResultTitle = global::Study_Buddy.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSmallPopupMenu = global::Study_Buddy.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSubtitle1 = global::Study_Buddy.Resource.Attribute.textAppearanceSubtitle1;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textAppearanceSubtitle2 = global::Study_Buddy.Resource.Attribute.textAppearanceSubtitle2;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textColorAlertDialogListItem = global::Study_Buddy.Resource.Attribute.textColorAlertDialogListItem;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textColorSearchUrl = global::Study_Buddy.Resource.Attribute.textColorSearchUrl;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textEndPadding = global::Study_Buddy.Resource.Attribute.textEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textInputStyle = global::Study_Buddy.Resource.Attribute.textInputStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.textStartPadding = global::Study_Buddy.Resource.Attribute.textStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.theme = global::Study_Buddy.Resource.Attribute.theme;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.thickness = global::Study_Buddy.Resource.Attribute.thickness;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTextPadding = global::Study_Buddy.Resource.Attribute.thumbTextPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTint = global::Study_Buddy.Resource.Attribute.thumbTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.thumbTintMode = global::Study_Buddy.Resource.Attribute.thumbTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMark = global::Study_Buddy.Resource.Attribute.tickMark;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMarkTint = global::Study_Buddy.Resource.Attribute.tickMarkTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tickMarkTintMode = global::Study_Buddy.Resource.Attribute.tickMarkTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tint = global::Study_Buddy.Resource.Attribute.tint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tintMode = global::Study_Buddy.Resource.Attribute.tintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.title = global::Study_Buddy.Resource.Attribute.title;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleEnabled = global::Study_Buddy.Resource.Attribute.titleEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMargin = global::Study_Buddy.Resource.Attribute.titleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginBottom = global::Study_Buddy.Resource.Attribute.titleMarginBottom;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginEnd = global::Study_Buddy.Resource.Attribute.titleMarginEnd;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMargins = global::Study_Buddy.Resource.Attribute.titleMargins;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginStart = global::Study_Buddy.Resource.Attribute.titleMarginStart;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleMarginTop = global::Study_Buddy.Resource.Attribute.titleMarginTop;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextAppearance = global::Study_Buddy.Resource.Attribute.titleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextColor = global::Study_Buddy.Resource.Attribute.titleTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.titleTextStyle = global::Study_Buddy.Resource.Attribute.titleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarId = global::Study_Buddy.Resource.Attribute.toolbarId;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarNavigationButtonStyle = global::Study_Buddy.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.toolbarStyle = global::Study_Buddy.Resource.Attribute.toolbarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipForegroundColor = global::Study_Buddy.Resource.Attribute.tooltipForegroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipFrameBackground = global::Study_Buddy.Resource.Attribute.tooltipFrameBackground;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.tooltipText = global::Study_Buddy.Resource.Attribute.tooltipText;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.track = global::Study_Buddy.Resource.Attribute.track;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.trackTint = global::Study_Buddy.Resource.Attribute.trackTint;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.trackTintMode = global::Study_Buddy.Resource.Attribute.trackTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.ttcIndex = global::Study_Buddy.Resource.Attribute.ttcIndex;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.useCompatPadding = global::Study_Buddy.Resource.Attribute.useCompatPadding;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.viewInflaterClass = global::Study_Buddy.Resource.Attribute.viewInflaterClass;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.voiceIcon = global::Study_Buddy.Resource.Attribute.voiceIcon;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionBar = global::Study_Buddy.Resource.Attribute.windowActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionBarOverlay = global::Study_Buddy.Resource.Attribute.windowActionBarOverlay;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowActionModeOverlay = global::Study_Buddy.Resource.Attribute.windowActionModeOverlay;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedHeightMajor = global::Study_Buddy.Resource.Attribute.windowFixedHeightMajor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedHeightMinor = global::Study_Buddy.Resource.Attribute.windowFixedHeightMinor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedWidthMajor = global::Study_Buddy.Resource.Attribute.windowFixedWidthMajor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowFixedWidthMinor = global::Study_Buddy.Resource.Attribute.windowFixedWidthMinor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowMinWidthMajor = global::Study_Buddy.Resource.Attribute.windowMinWidthMajor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowMinWidthMinor = global::Study_Buddy.Resource.Attribute.windowMinWidthMinor;
+			global::SkiaSharp.Views.Forms.Resource.Attribute.windowNoTitle = global::Study_Buddy.Resource.Attribute.windowNoTitle;
+			global::SkiaSharp.Views.Forms.Resource.Boolean.abc_action_bar_embed_tabs = global::Study_Buddy.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::SkiaSharp.Views.Forms.Resource.Boolean.abc_allow_stacked_button_bar = global::Study_Buddy.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::SkiaSharp.Views.Forms.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Study_Buddy.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::SkiaSharp.Views.Forms.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Study_Buddy.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Study_Buddy.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_background_cache_hint_selector_material_light = global::Study_Buddy.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_btn_colored_borderless_text_material = global::Study_Buddy.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_btn_colored_text_material = global::Study_Buddy.Resource.Color.abc_btn_colored_text_material;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_color_highlight_material = global::Study_Buddy.Resource.Color.abc_color_highlight_material;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_hint_foreground_material_dark = global::Study_Buddy.Resource.Color.abc_hint_foreground_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_hint_foreground_material_light = global::Study_Buddy.Resource.Color.abc_hint_foreground_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_input_method_navigation_guard = global::Study_Buddy.Resource.Color.abc_input_method_navigation_guard;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_disable_only_material_dark = global::Study_Buddy.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_disable_only_material_light = global::Study_Buddy.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_material_dark = global::Study_Buddy.Resource.Color.abc_primary_text_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_primary_text_material_light = global::Study_Buddy.Resource.Color.abc_primary_text_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text = global::Study_Buddy.Resource.Color.abc_search_url_text;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_normal = global::Study_Buddy.Resource.Color.abc_search_url_text_normal;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_pressed = global::Study_Buddy.Resource.Color.abc_search_url_text_pressed;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_search_url_text_selected = global::Study_Buddy.Resource.Color.abc_search_url_text_selected;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_secondary_text_material_dark = global::Study_Buddy.Resource.Color.abc_secondary_text_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_secondary_text_material_light = global::Study_Buddy.Resource.Color.abc_secondary_text_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_btn_checkable = global::Study_Buddy.Resource.Color.abc_tint_btn_checkable;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_default = global::Study_Buddy.Resource.Color.abc_tint_default;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_edittext = global::Study_Buddy.Resource.Color.abc_tint_edittext;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_seek_thumb = global::Study_Buddy.Resource.Color.abc_tint_seek_thumb;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_spinner = global::Study_Buddy.Resource.Color.abc_tint_spinner;
+			global::SkiaSharp.Views.Forms.Resource.Color.abc_tint_switch_track = global::Study_Buddy.Resource.Color.abc_tint_switch_track;
+			global::SkiaSharp.Views.Forms.Resource.Color.accent_material_dark = global::Study_Buddy.Resource.Color.accent_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.accent_material_light = global::Study_Buddy.Resource.Color.accent_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.background_floating_material_dark = global::Study_Buddy.Resource.Color.background_floating_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.background_floating_material_light = global::Study_Buddy.Resource.Color.background_floating_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.background_material_dark = global::Study_Buddy.Resource.Color.background_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.background_material_light = global::Study_Buddy.Resource.Color.background_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_disabled_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_disabled_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_disabled_material_light = global::Study_Buddy.Resource.Color.bright_foreground_disabled_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_inverse_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_inverse_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_inverse_material_light = global::Study_Buddy.Resource.Color.bright_foreground_inverse_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_material_dark = global::Study_Buddy.Resource.Color.bright_foreground_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.bright_foreground_material_light = global::Study_Buddy.Resource.Color.bright_foreground_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_bg_grey = global::Study_Buddy.Resource.Color.browser_actions_bg_grey;
+			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_divider_color = global::Study_Buddy.Resource.Color.browser_actions_divider_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_text_color = global::Study_Buddy.Resource.Color.browser_actions_text_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.browser_actions_title_color = global::Study_Buddy.Resource.Color.browser_actions_title_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.button_material_dark = global::Study_Buddy.Resource.Color.button_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.button_material_light = global::Study_Buddy.Resource.Color.button_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.cardview_dark_background = global::Study_Buddy.Resource.Color.cardview_dark_background;
+			global::SkiaSharp.Views.Forms.Resource.Color.cardview_light_background = global::Study_Buddy.Resource.Color.cardview_light_background;
+			global::SkiaSharp.Views.Forms.Resource.Color.cardview_shadow_end_color = global::Study_Buddy.Resource.Color.cardview_shadow_end_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.cardview_shadow_start_color = global::Study_Buddy.Resource.Color.cardview_shadow_start_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_bottom_navigation_shadow_color = global::Study_Buddy.Resource.Color.design_bottom_navigation_shadow_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_default_color_primary = global::Study_Buddy.Resource.Color.design_default_color_primary;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_default_color_primary_dark = global::Study_Buddy.Resource.Color.design_default_color_primary_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_error = global::Study_Buddy.Resource.Color.design_error;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_end_color = global::Study_Buddy.Resource.Color.design_fab_shadow_end_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_mid_color = global::Study_Buddy.Resource.Color.design_fab_shadow_mid_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_shadow_start_color = global::Study_Buddy.Resource.Color.design_fab_shadow_start_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_end_inner_color = global::Study_Buddy.Resource.Color.design_fab_stroke_end_inner_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_end_outer_color = global::Study_Buddy.Resource.Color.design_fab_stroke_end_outer_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_top_inner_color = global::Study_Buddy.Resource.Color.design_fab_stroke_top_inner_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_fab_stroke_top_outer_color = global::Study_Buddy.Resource.Color.design_fab_stroke_top_outer_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_snackbar_background_color = global::Study_Buddy.Resource.Color.design_snackbar_background_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.design_tint_password_toggle = global::Study_Buddy.Resource.Color.design_tint_password_toggle;
+			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_disabled_material_dark = global::Study_Buddy.Resource.Color.dim_foreground_disabled_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_disabled_material_light = global::Study_Buddy.Resource.Color.dim_foreground_disabled_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_material_dark = global::Study_Buddy.Resource.Color.dim_foreground_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.dim_foreground_material_light = global::Study_Buddy.Resource.Color.dim_foreground_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.error_color_material_dark = global::Study_Buddy.Resource.Color.error_color_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.error_color_material_light = global::Study_Buddy.Resource.Color.error_color_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.foreground_material_dark = global::Study_Buddy.Resource.Color.foreground_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.foreground_material_light = global::Study_Buddy.Resource.Color.foreground_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.highlighted_text_material_dark = global::Study_Buddy.Resource.Color.highlighted_text_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.highlighted_text_material_light = global::Study_Buddy.Resource.Color.highlighted_text_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_800 = global::Study_Buddy.Resource.Color.material_blue_grey_800;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_900 = global::Study_Buddy.Resource.Color.material_blue_grey_900;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_blue_grey_950 = global::Study_Buddy.Resource.Color.material_blue_grey_950;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_deep_teal_200 = global::Study_Buddy.Resource.Color.material_deep_teal_200;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_deep_teal_500 = global::Study_Buddy.Resource.Color.material_deep_teal_500;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_100 = global::Study_Buddy.Resource.Color.material_grey_100;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_300 = global::Study_Buddy.Resource.Color.material_grey_300;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_50 = global::Study_Buddy.Resource.Color.material_grey_50;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_600 = global::Study_Buddy.Resource.Color.material_grey_600;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_800 = global::Study_Buddy.Resource.Color.material_grey_800;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_850 = global::Study_Buddy.Resource.Color.material_grey_850;
+			global::SkiaSharp.Views.Forms.Resource.Color.material_grey_900 = global::Study_Buddy.Resource.Color.material_grey_900;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::Study_Buddy.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_bottom_nav_item_tint = global::Study_Buddy.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_bg_color_disabled = global::Study_Buddy.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_bg_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_bg_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_ripple_color = global::Study_Buddy.Resource.Color.mtrl_btn_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_stroke_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Study_Buddy.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_color_disabled = global::Study_Buddy.Resource.Color.mtrl_btn_text_color_disabled;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_btn_text_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_btn_transparent_bg_color = global::Study_Buddy.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_background_color = global::Study_Buddy.Resource.Color.mtrl_chip_background_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_close_icon_tint = global::Study_Buddy.Resource.Color.mtrl_chip_close_icon_tint;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_ripple_color = global::Study_Buddy.Resource.Color.mtrl_chip_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_chip_text_color = global::Study_Buddy.Resource.Color.mtrl_chip_text_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_fab_ripple_color = global::Study_Buddy.Resource.Color.mtrl_fab_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_scrim_color = global::Study_Buddy.Resource.Color.mtrl_scrim_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_colored_ripple_color = global::Study_Buddy.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_icon_color_selector = global::Study_Buddy.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Study_Buddy.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_tabs_ripple_color = global::Study_Buddy.Resource.Color.mtrl_tabs_ripple_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Study_Buddy.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_disabled_color = global::Study_Buddy.Resource.Color.mtrl_textinput_disabled_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Study_Buddy.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Study_Buddy.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.mtrl_text_btn_text_color_selector = global::Study_Buddy.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::SkiaSharp.Views.Forms.Resource.Color.notification_action_color_filter = global::Study_Buddy.Resource.Color.notification_action_color_filter;
+			global::SkiaSharp.Views.Forms.Resource.Color.notification_icon_bg_color = global::Study_Buddy.Resource.Color.notification_icon_bg_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.notification_material_background_media_default_color = global::Study_Buddy.Resource.Color.notification_material_background_media_default_color;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_dark_material_dark = global::Study_Buddy.Resource.Color.primary_dark_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_dark_material_light = global::Study_Buddy.Resource.Color.primary_dark_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_material_dark = global::Study_Buddy.Resource.Color.primary_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_material_light = global::Study_Buddy.Resource.Color.primary_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_default_material_dark = global::Study_Buddy.Resource.Color.primary_text_default_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_default_material_light = global::Study_Buddy.Resource.Color.primary_text_default_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_disabled_material_dark = global::Study_Buddy.Resource.Color.primary_text_disabled_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.primary_text_disabled_material_light = global::Study_Buddy.Resource.Color.primary_text_disabled_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.ripple_material_dark = global::Study_Buddy.Resource.Color.ripple_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.ripple_material_light = global::Study_Buddy.Resource.Color.ripple_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_default_material_dark = global::Study_Buddy.Resource.Color.secondary_text_default_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_default_material_light = global::Study_Buddy.Resource.Color.secondary_text_default_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_disabled_material_dark = global::Study_Buddy.Resource.Color.secondary_text_disabled_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.secondary_text_disabled_material_light = global::Study_Buddy.Resource.Color.secondary_text_disabled_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_disabled_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_disabled_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_disabled_material_light = global::Study_Buddy.Resource.Color.switch_thumb_disabled_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_material_light = global::Study_Buddy.Resource.Color.switch_thumb_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_normal_material_dark = global::Study_Buddy.Resource.Color.switch_thumb_normal_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.switch_thumb_normal_material_light = global::Study_Buddy.Resource.Color.switch_thumb_normal_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Color.tooltip_background_dark = global::Study_Buddy.Resource.Color.tooltip_background_dark;
+			global::SkiaSharp.Views.Forms.Resource.Color.tooltip_background_light = global::Study_Buddy.Resource.Color.tooltip_background_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_content_inset_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Study_Buddy.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_height_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_height_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_elevation_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_elevation_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_stacked_max_height = global::Study_Buddy.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Study_Buddy.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Study_Buddy.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_height_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_height_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_width_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_width_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Study_Buddy.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Study_Buddy.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_alert_dialog_button_dimen = global::Study_Buddy.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_inset_vertical_material = global::Study_Buddy.Resource.Dimension.abc_button_inset_vertical_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_button_padding_vertical_material = global::Study_Buddy.Resource.Dimension.abc_button_padding_vertical_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Study_Buddy.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_config_prefDialogWidth = global::Study_Buddy.Resource.Dimension.abc_config_prefDialogWidth;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_corner_material = global::Study_Buddy.Resource.Dimension.abc_control_corner_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_inset_material = global::Study_Buddy.Resource.Dimension.abc_control_inset_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_control_padding_material = global::Study_Buddy.Resource.Dimension.abc_control_padding_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_corner_radius_material = global::Study_Buddy.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_height_major = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_height_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_width_major = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_fixed_width_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Study_Buddy.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Study_Buddy.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_min_width_major = global::Study_Buddy.Resource.Dimension.abc_dialog_min_width_major;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_min_width_minor = global::Study_Buddy.Resource.Dimension.abc_dialog_min_width_minor;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_padding_material = global::Study_Buddy.Resource.Dimension.abc_dialog_padding_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_padding_top_material = global::Study_Buddy.Resource.Dimension.abc_dialog_padding_top_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dialog_title_divider_material = global::Study_Buddy.Resource.Dimension.abc_dialog_title_divider_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_disabled_alpha_material_dark = global::Study_Buddy.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_disabled_alpha_material_light = global::Study_Buddy.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_icon_width = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Study_Buddy.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_edit_text_inset_top_material = global::Study_Buddy.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_floating_window_z = global::Study_Buddy.Resource.Dimension.abc_floating_window_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_panel_menu_list_width = global::Study_Buddy.Resource.Dimension.abc_panel_menu_list_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_progress_bar_height_material = global::Study_Buddy.Resource.Dimension.abc_progress_bar_height_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_search_view_preferred_height = global::Study_Buddy.Resource.Dimension.abc_search_view_preferred_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_search_view_preferred_width = global::Study_Buddy.Resource.Dimension.abc_search_view_preferred_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_seekbar_track_background_height_material = global::Study_Buddy.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Study_Buddy.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_select_dialog_padding_start_material = global::Study_Buddy.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_switch_padding = global::Study_Buddy.Resource.Dimension.abc_switch_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_body_1_material = global::Study_Buddy.Resource.Dimension.abc_text_size_body_1_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_body_2_material = global::Study_Buddy.Resource.Dimension.abc_text_size_body_2_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_button_material = global::Study_Buddy.Resource.Dimension.abc_text_size_button_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_caption_material = global::Study_Buddy.Resource.Dimension.abc_text_size_caption_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_1_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_1_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_2_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_2_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_3_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_3_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_display_4_material = global::Study_Buddy.Resource.Dimension.abc_text_size_display_4_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_headline_material = global::Study_Buddy.Resource.Dimension.abc_text_size_headline_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_large_material = global::Study_Buddy.Resource.Dimension.abc_text_size_large_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_medium_material = global::Study_Buddy.Resource.Dimension.abc_text_size_medium_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_menu_header_material = global::Study_Buddy.Resource.Dimension.abc_text_size_menu_header_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_menu_material = global::Study_Buddy.Resource.Dimension.abc_text_size_menu_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_small_material = global::Study_Buddy.Resource.Dimension.abc_text_size_small_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_subhead_material = global::Study_Buddy.Resource.Dimension.abc_text_size_subhead_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Study_Buddy.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_title_material = global::Study_Buddy.Resource.Dimension.abc_text_size_title_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.abc_text_size_title_material_toolbar = global::Study_Buddy.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.browser_actions_context_menu_max_width = global::Study_Buddy.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.browser_actions_context_menu_min_padding = global::Study_Buddy.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_compat_inset_shadow = global::Study_Buddy.Resource.Dimension.cardview_compat_inset_shadow;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_default_elevation = global::Study_Buddy.Resource.Dimension.cardview_default_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.cardview_default_radius = global::Study_Buddy.Resource.Dimension.cardview_default_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_inset_horizontal_material = global::Study_Buddy.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_inset_vertical_material = global::Study_Buddy.Resource.Dimension.compat_button_inset_vertical_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_padding_horizontal_material = global::Study_Buddy.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_button_padding_vertical_material = global::Study_Buddy.Resource.Dimension.compat_button_padding_vertical_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_control_corner_material = global::Study_Buddy.Resource.Dimension.compat_control_corner_material;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_notification_large_icon_max_height = global::Study_Buddy.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.compat_notification_large_icon_max_width = global::Study_Buddy.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_appbar_elevation = global::Study_Buddy.Resource.Dimension.design_appbar_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_active_text_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_elevation = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_height = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_icon_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_item_max_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_item_min_width = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_margin = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_shadow_height = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_navigation_text_size = global::Study_Buddy.Resource.Dimension.design_bottom_navigation_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Study_Buddy.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Study_Buddy.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_border_width = global::Study_Buddy.Resource.Dimension.design_fab_border_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_elevation = global::Study_Buddy.Resource.Dimension.design_fab_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_image_size = global::Study_Buddy.Resource.Dimension.design_fab_image_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_size_mini = global::Study_Buddy.Resource.Dimension.design_fab_size_mini;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_size_normal = global::Study_Buddy.Resource.Dimension.design_fab_size_normal;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Study_Buddy.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_fab_translation_z_pressed = global::Study_Buddy.Resource.Dimension.design_fab_translation_z_pressed;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_elevation = global::Study_Buddy.Resource.Dimension.design_navigation_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_icon_padding = global::Study_Buddy.Resource.Dimension.design_navigation_icon_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_icon_size = global::Study_Buddy.Resource.Dimension.design_navigation_icon_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_item_horizontal_padding = global::Study_Buddy.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_item_icon_padding = global::Study_Buddy.Resource.Dimension.design_navigation_item_icon_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_max_width = global::Study_Buddy.Resource.Dimension.design_navigation_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_padding_bottom = global::Study_Buddy.Resource.Dimension.design_navigation_padding_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_navigation_separator_vertical_padding = global::Study_Buddy.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_action_inline_max_width = global::Study_Buddy.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_background_corner_radius = global::Study_Buddy.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_elevation = global::Study_Buddy.Resource.Dimension.design_snackbar_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Study_Buddy.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_max_width = global::Study_Buddy.Resource.Dimension.design_snackbar_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_min_width = global::Study_Buddy.Resource.Dimension.design_snackbar_min_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_horizontal = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_vertical = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_vertical;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Study_Buddy.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_snackbar_text_size = global::Study_Buddy.Resource.Dimension.design_snackbar_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_max_width = global::Study_Buddy.Resource.Dimension.design_tab_max_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_scrollable_min_width = global::Study_Buddy.Resource.Dimension.design_tab_scrollable_min_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_text_size = global::Study_Buddy.Resource.Dimension.design_tab_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_tab_text_size_2line = global::Study_Buddy.Resource.Dimension.design_tab_text_size_2line;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.design_textinput_caption_translate_y = global::Study_Buddy.Resource.Dimension.design_textinput_caption_translate_y;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.disabled_alpha_material_dark = global::Study_Buddy.Resource.Dimension.disabled_alpha_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.disabled_alpha_material_light = global::Study_Buddy.Resource.Dimension.disabled_alpha_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_default_thickness = global::Study_Buddy.Resource.Dimension.fastscroll_default_thickness;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_margin = global::Study_Buddy.Resource.Dimension.fastscroll_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.fastscroll_minimum_range = global::Study_Buddy.Resource.Dimension.fastscroll_minimum_range;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_colored = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_colored;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_dark = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.highlight_alpha_material_light = global::Study_Buddy.Resource.Dimension.highlight_alpha_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_alpha_material_dark = global::Study_Buddy.Resource.Dimension.hint_alpha_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_alpha_material_light = global::Study_Buddy.Resource.Dimension.hint_alpha_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_pressed_alpha_material_dark = global::Study_Buddy.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.hint_pressed_alpha_material_light = global::Study_Buddy.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Study_Buddy.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Study_Buddy.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Study_Buddy.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_bottomappbar_height = global::Study_Buddy.Resource.Dimension.mtrl_bottomappbar_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_btn_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Study_Buddy.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_disabled_elevation = global::Study_Buddy.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_disabled_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_disabled_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_elevation = global::Study_Buddy.Resource.Dimension.mtrl_btn_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_focused_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_focused_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_hovered_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_hovered_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_btn_icon_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_inset = global::Study_Buddy.Resource.Dimension.mtrl_btn_inset;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_letter_spacing = global::Study_Buddy.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_bottom = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_left;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_right = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_right;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_padding_top = global::Study_Buddy.Resource.Dimension.mtrl_btn_padding_top;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_pressed_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_pressed_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_stroke_size = global::Study_Buddy.Resource.Dimension.mtrl_btn_stroke_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_text_size = global::Study_Buddy.Resource.Dimension.mtrl_btn_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_btn_z = global::Study_Buddy.Resource.Dimension.mtrl_btn_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_card_elevation = global::Study_Buddy.Resource.Dimension.mtrl_card_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_card_spacing = global::Study_Buddy.Resource.Dimension.mtrl_card_spacing;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Study_Buddy.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_chip_text_size = global::Study_Buddy.Resource.Dimension.mtrl_chip_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_elevation = global::Study_Buddy.Resource.Dimension.mtrl_fab_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Study_Buddy.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Study_Buddy.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_elevation = global::Study_Buddy.Resource.Dimension.mtrl_navigation_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Study_Buddy.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Study_Buddy.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Study_Buddy.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_snackbar_margin = global::Study_Buddy.Resource.Dimension.mtrl_snackbar_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_padding_end = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Study_Buddy.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Study_Buddy.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.mtrl_toolbar_default_height = global::Study_Buddy.Resource.Dimension.mtrl_toolbar_default_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_action_icon_size = global::Study_Buddy.Resource.Dimension.notification_action_icon_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_action_text_size = global::Study_Buddy.Resource.Dimension.notification_action_text_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_big_circle_margin = global::Study_Buddy.Resource.Dimension.notification_big_circle_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_content_margin_start = global::Study_Buddy.Resource.Dimension.notification_content_margin_start;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_large_icon_height = global::Study_Buddy.Resource.Dimension.notification_large_icon_height;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_large_icon_width = global::Study_Buddy.Resource.Dimension.notification_large_icon_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_main_column_padding_top = global::Study_Buddy.Resource.Dimension.notification_main_column_padding_top;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_media_narrow_margin = global::Study_Buddy.Resource.Dimension.notification_media_narrow_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_right_icon_size = global::Study_Buddy.Resource.Dimension.notification_right_icon_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_right_side_padding_top = global::Study_Buddy.Resource.Dimension.notification_right_side_padding_top;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_small_icon_background_padding = global::Study_Buddy.Resource.Dimension.notification_small_icon_background_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_small_icon_size_as_large = global::Study_Buddy.Resource.Dimension.notification_small_icon_size_as_large;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_subtext_size = global::Study_Buddy.Resource.Dimension.notification_subtext_size;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_top_pad = global::Study_Buddy.Resource.Dimension.notification_top_pad;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.notification_top_pad_large_text = global::Study_Buddy.Resource.Dimension.notification_top_pad_large_text;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.subtitle_corner_radius = global::Study_Buddy.Resource.Dimension.subtitle_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.subtitle_outline_width = global::Study_Buddy.Resource.Dimension.subtitle_outline_width;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.subtitle_shadow_offset = global::Study_Buddy.Resource.Dimension.subtitle_shadow_offset;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.subtitle_shadow_radius = global::Study_Buddy.Resource.Dimension.subtitle_shadow_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_corner_radius = global::Study_Buddy.Resource.Dimension.tooltip_corner_radius;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_horizontal_padding = global::Study_Buddy.Resource.Dimension.tooltip_horizontal_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_margin = global::Study_Buddy.Resource.Dimension.tooltip_margin;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Study_Buddy.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_precise_anchor_threshold = global::Study_Buddy.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_vertical_padding = global::Study_Buddy.Resource.Dimension.tooltip_vertical_padding;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_y_offset_non_touch = global::Study_Buddy.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::SkiaSharp.Views.Forms.Resource.Dimension.tooltip_y_offset_touch = global::Study_Buddy.Resource.Dimension.tooltip_y_offset_touch;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_action_bar_item_background_material = global::Study_Buddy.Resource.Drawable.abc_action_bar_item_background_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_borderless_material = global::Study_Buddy.Resource.Drawable.abc_btn_borderless_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_material = global::Study_Buddy.Resource.Drawable.abc_btn_check_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Study_Buddy.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_colored_material = global::Study_Buddy.Resource.Drawable.abc_btn_colored_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_default_mtrl_shape = global::Study_Buddy.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_material = global::Study_Buddy.Resource.Drawable.abc_btn_radio_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Study_Buddy.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Study_Buddy.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Study_Buddy.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_internal_bg = global::Study_Buddy.Resource.Drawable.abc_cab_background_internal_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_top_material = global::Study_Buddy.Resource.Drawable.abc_cab_background_top_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_control_background_material = global::Study_Buddy.Resource.Drawable.abc_control_background_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_dialog_material_background = global::Study_Buddy.Resource.Drawable.abc_dialog_material_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_edit_text_material = global::Study_Buddy.Resource.Drawable.abc_edit_text_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_ab_back_material = global::Study_Buddy.Resource.Drawable.abc_ic_ab_back_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Study_Buddy.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_clear_material = global::Study_Buddy.Resource.Drawable.abc_ic_clear_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_go_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_go_search_api_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_overflow_material = global::Study_Buddy.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_search_api_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_black_16dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_16dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_black_36dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_36dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_black_48dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_black_48dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_half_black_16dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_half_black_36dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_star_half_black_48dp = global::Study_Buddy.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ic_voice_search_api_material = global::Study_Buddy.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_item_background_holo_dark = global::Study_Buddy.Resource.Drawable.abc_item_background_holo_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_item_background_holo_light = global::Study_Buddy.Resource.Drawable.abc_item_background_holo_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_divider_material = global::Study_Buddy.Resource.Drawable.abc_list_divider_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_focused_holo = global::Study_Buddy.Resource.Drawable.abc_list_focused_holo;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_longpressed_holo = global::Study_Buddy.Resource.Drawable.abc_list_longpressed_holo;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_pressed_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_pressed_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_pressed_holo_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_holo_dark = global::Study_Buddy.Resource.Drawable.abc_list_selector_holo_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_list_selector_holo_light = global::Study_Buddy.Resource.Drawable.abc_list_selector_holo_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Study_Buddy.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_popup_background_mtrl_mult = global::Study_Buddy.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_indicator_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_ratingbar_small_material = global::Study_Buddy.Resource.Drawable.abc_ratingbar_small_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Study_Buddy.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_thumb_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_thumb_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_tick_mark_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_seekbar_track_material = global::Study_Buddy.Resource.Drawable.abc_seekbar_track_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Study_Buddy.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_spinner_textfield_background_material = global::Study_Buddy.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_switch_thumb_material = global::Study_Buddy.Resource.Drawable.abc_switch_thumb_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_tab_indicator_material = global::Study_Buddy.Resource.Drawable.abc_tab_indicator_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Study_Buddy.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_textfield_search_material = global::Study_Buddy.Resource.Drawable.abc_textfield_search_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_cursor_material = global::Study_Buddy.Resource.Drawable.abc_text_cursor_material;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Study_Buddy.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.abc_vector_test = global::Study_Buddy.Resource.Drawable.abc_vector_test;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.avd_hide_password = global::Study_Buddy.Resource.Drawable.avd_hide_password;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.avd_show_password = global::Study_Buddy.Resource.Drawable.avd_show_password;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_bottom_navigation_item_background = global::Study_Buddy.Resource.Drawable.design_bottom_navigation_item_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_fab_background = global::Study_Buddy.Resource.Drawable.design_fab_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_ic_visibility = global::Study_Buddy.Resource.Drawable.design_ic_visibility;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_ic_visibility_off = global::Study_Buddy.Resource.Drawable.design_ic_visibility_off;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_password_eye = global::Study_Buddy.Resource.Drawable.design_password_eye;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.design_snackbar_background = global::Study_Buddy.Resource.Drawable.design_snackbar_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_checked_black = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.ic_mtrl_chip_close_circle = global::Study_Buddy.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.mtrl_snackbar_background = global::Study_Buddy.Resource.Drawable.mtrl_snackbar_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.mtrl_tabs_default_indicator = global::Study_Buddy.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.navigation_empty_icon = global::Study_Buddy.Resource.Drawable.navigation_empty_icon;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_action_background = global::Study_Buddy.Resource.Drawable.notification_action_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg = global::Study_Buddy.Resource.Drawable.notification_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low = global::Study_Buddy.Resource.Drawable.notification_bg_low;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low_normal = global::Study_Buddy.Resource.Drawable.notification_bg_low_normal;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_low_pressed = global::Study_Buddy.Resource.Drawable.notification_bg_low_pressed;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_normal = global::Study_Buddy.Resource.Drawable.notification_bg_normal;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_bg_normal_pressed = global::Study_Buddy.Resource.Drawable.notification_bg_normal_pressed;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_icon_background = global::Study_Buddy.Resource.Drawable.notification_icon_background;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_template_icon_bg = global::Study_Buddy.Resource.Drawable.notification_template_icon_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_template_icon_low_bg = global::Study_Buddy.Resource.Drawable.notification_template_icon_low_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notification_tile_bg = global::Study_Buddy.Resource.Drawable.notification_tile_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.notify_panel_notification_icon_bg = global::Study_Buddy.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.tooltip_frame_dark = global::Study_Buddy.Resource.Drawable.tooltip_frame_dark;
+			global::SkiaSharp.Views.Forms.Resource.Drawable.tooltip_frame_light = global::Study_Buddy.Resource.Drawable.tooltip_frame_light;
+			global::SkiaSharp.Views.Forms.Resource.Id.action0 = global::Study_Buddy.Resource.Id.action0;
+			global::SkiaSharp.Views.Forms.Resource.Id.actions = global::Study_Buddy.Resource.Id.actions;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar = global::Study_Buddy.Resource.Id.action_bar;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_activity_content = global::Study_Buddy.Resource.Id.action_bar_activity_content;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_container = global::Study_Buddy.Resource.Id.action_bar_container;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_root = global::Study_Buddy.Resource.Id.action_bar_root;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_spinner = global::Study_Buddy.Resource.Id.action_bar_spinner;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_subtitle = global::Study_Buddy.Resource.Id.action_bar_subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_bar_title = global::Study_Buddy.Resource.Id.action_bar_title;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_container = global::Study_Buddy.Resource.Id.action_container;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_context_bar = global::Study_Buddy.Resource.Id.action_context_bar;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_divider = global::Study_Buddy.Resource.Id.action_divider;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_image = global::Study_Buddy.Resource.Id.action_image;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_menu_divider = global::Study_Buddy.Resource.Id.action_menu_divider;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_menu_presenter = global::Study_Buddy.Resource.Id.action_menu_presenter;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_bar = global::Study_Buddy.Resource.Id.action_mode_bar;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_bar_stub = global::Study_Buddy.Resource.Id.action_mode_bar_stub;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_mode_close_button = global::Study_Buddy.Resource.Id.action_mode_close_button;
+			global::SkiaSharp.Views.Forms.Resource.Id.action_text = global::Study_Buddy.Resource.Id.action_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.activity_chooser_view_content = global::Study_Buddy.Resource.Id.activity_chooser_view_content;
+			global::SkiaSharp.Views.Forms.Resource.Id.add = global::Study_Buddy.Resource.Id.add;
+			global::SkiaSharp.Views.Forms.Resource.Id.alertTitle = global::Study_Buddy.Resource.Id.alertTitle;
+			global::SkiaSharp.Views.Forms.Resource.Id.all = global::Study_Buddy.Resource.Id.all;
+			global::SkiaSharp.Views.Forms.Resource.Id.ALT = global::Study_Buddy.Resource.Id.ALT;
+			global::SkiaSharp.Views.Forms.Resource.Id.always = global::Study_Buddy.Resource.Id.always;
+			global::SkiaSharp.Views.Forms.Resource.Id.async = global::Study_Buddy.Resource.Id.async;
+			global::SkiaSharp.Views.Forms.Resource.Id.auto = global::Study_Buddy.Resource.Id.auto;
+			global::SkiaSharp.Views.Forms.Resource.Id.beginning = global::Study_Buddy.Resource.Id.beginning;
+			global::SkiaSharp.Views.Forms.Resource.Id.blocking = global::Study_Buddy.Resource.Id.blocking;
+			global::SkiaSharp.Views.Forms.Resource.Id.bottom = global::Study_Buddy.Resource.Id.bottom;
+			global::SkiaSharp.Views.Forms.Resource.Id.bottomtab_navarea = global::Study_Buddy.Resource.Id.bottomtab_navarea;
+			global::SkiaSharp.Views.Forms.Resource.Id.bottomtab_tabbar = global::Study_Buddy.Resource.Id.bottomtab_tabbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_header_text = global::Study_Buddy.Resource.Id.browser_actions_header_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_items = global::Study_Buddy.Resource.Id.browser_actions_menu_items;
+			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_item_icon = global::Study_Buddy.Resource.Id.browser_actions_menu_item_icon;
+			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_item_text = global::Study_Buddy.Resource.Id.browser_actions_menu_item_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.browser_actions_menu_view = global::Study_Buddy.Resource.Id.browser_actions_menu_view;
+			global::SkiaSharp.Views.Forms.Resource.Id.buttonPanel = global::Study_Buddy.Resource.Id.buttonPanel;
+			global::SkiaSharp.Views.Forms.Resource.Id.cancel_action = global::Study_Buddy.Resource.Id.cancel_action;
+			global::SkiaSharp.Views.Forms.Resource.Id.center = global::Study_Buddy.Resource.Id.center;
+			global::SkiaSharp.Views.Forms.Resource.Id.center_horizontal = global::Study_Buddy.Resource.Id.center_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Id.center_vertical = global::Study_Buddy.Resource.Id.center_vertical;
+			global::SkiaSharp.Views.Forms.Resource.Id.checkbox = global::Study_Buddy.Resource.Id.checkbox;
+			global::SkiaSharp.Views.Forms.Resource.Id.chronometer = global::Study_Buddy.Resource.Id.chronometer;
+			global::SkiaSharp.Views.Forms.Resource.Id.clip_horizontal = global::Study_Buddy.Resource.Id.clip_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Id.clip_vertical = global::Study_Buddy.Resource.Id.clip_vertical;
+			global::SkiaSharp.Views.Forms.Resource.Id.collapseActionView = global::Study_Buddy.Resource.Id.collapseActionView;
+			global::SkiaSharp.Views.Forms.Resource.Id.container = global::Study_Buddy.Resource.Id.container;
+			global::SkiaSharp.Views.Forms.Resource.Id.content = global::Study_Buddy.Resource.Id.content;
+			global::SkiaSharp.Views.Forms.Resource.Id.contentPanel = global::Study_Buddy.Resource.Id.contentPanel;
+			global::SkiaSharp.Views.Forms.Resource.Id.coordinator = global::Study_Buddy.Resource.Id.coordinator;
+			global::SkiaSharp.Views.Forms.Resource.Id.CTRL = global::Study_Buddy.Resource.Id.CTRL;
+			global::SkiaSharp.Views.Forms.Resource.Id.custom = global::Study_Buddy.Resource.Id.custom;
+			global::SkiaSharp.Views.Forms.Resource.Id.customPanel = global::Study_Buddy.Resource.Id.customPanel;
+			global::SkiaSharp.Views.Forms.Resource.Id.decor_content_parent = global::Study_Buddy.Resource.Id.decor_content_parent;
+			global::SkiaSharp.Views.Forms.Resource.Id.default_activity_button = global::Study_Buddy.Resource.Id.default_activity_button;
+			global::SkiaSharp.Views.Forms.Resource.Id.design_bottom_sheet = global::Study_Buddy.Resource.Id.design_bottom_sheet;
+			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_action_area = global::Study_Buddy.Resource.Id.design_menu_item_action_area;
+			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_action_area_stub = global::Study_Buddy.Resource.Id.design_menu_item_action_area_stub;
+			global::SkiaSharp.Views.Forms.Resource.Id.design_menu_item_text = global::Study_Buddy.Resource.Id.design_menu_item_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.design_navigation_view = global::Study_Buddy.Resource.Id.design_navigation_view;
+			global::SkiaSharp.Views.Forms.Resource.Id.disableHome = global::Study_Buddy.Resource.Id.disableHome;
+			global::SkiaSharp.Views.Forms.Resource.Id.edit_query = global::Study_Buddy.Resource.Id.edit_query;
+			global::SkiaSharp.Views.Forms.Resource.Id.end = global::Study_Buddy.Resource.Id.end;
+			global::SkiaSharp.Views.Forms.Resource.Id.end_padder = global::Study_Buddy.Resource.Id.end_padder;
+			global::SkiaSharp.Views.Forms.Resource.Id.enterAlways = global::Study_Buddy.Resource.Id.enterAlways;
+			global::SkiaSharp.Views.Forms.Resource.Id.enterAlwaysCollapsed = global::Study_Buddy.Resource.Id.enterAlwaysCollapsed;
+			global::SkiaSharp.Views.Forms.Resource.Id.exitUntilCollapsed = global::Study_Buddy.Resource.Id.exitUntilCollapsed;
+			global::SkiaSharp.Views.Forms.Resource.Id.expanded_menu = global::Study_Buddy.Resource.Id.expanded_menu;
+			global::SkiaSharp.Views.Forms.Resource.Id.expand_activities_button = global::Study_Buddy.Resource.Id.expand_activities_button;
+			global::SkiaSharp.Views.Forms.Resource.Id.fill = global::Study_Buddy.Resource.Id.fill;
+			global::SkiaSharp.Views.Forms.Resource.Id.filled = global::Study_Buddy.Resource.Id.filled;
+			global::SkiaSharp.Views.Forms.Resource.Id.fill_horizontal = global::Study_Buddy.Resource.Id.fill_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Id.fill_vertical = global::Study_Buddy.Resource.Id.fill_vertical;
+			global::SkiaSharp.Views.Forms.Resource.Id.@fixed = global::Study_Buddy.Resource.Id.@fixed;
+			global::SkiaSharp.Views.Forms.Resource.Id.flyoutcontent_appbar = global::Study_Buddy.Resource.Id.flyoutcontent_appbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.flyoutcontent_recycler = global::Study_Buddy.Resource.Id.flyoutcontent_recycler;
+			global::SkiaSharp.Views.Forms.Resource.Id.forever = global::Study_Buddy.Resource.Id.forever;
+			global::SkiaSharp.Views.Forms.Resource.Id.FUNCTION = global::Study_Buddy.Resource.Id.FUNCTION;
+			global::SkiaSharp.Views.Forms.Resource.Id.ghost_view = global::Study_Buddy.Resource.Id.ghost_view;
+			global::SkiaSharp.Views.Forms.Resource.Id.group_divider = global::Study_Buddy.Resource.Id.group_divider;
+			global::SkiaSharp.Views.Forms.Resource.Id.home = global::Study_Buddy.Resource.Id.home;
+			global::SkiaSharp.Views.Forms.Resource.Id.homeAsUp = global::Study_Buddy.Resource.Id.homeAsUp;
+			global::SkiaSharp.Views.Forms.Resource.Id.icon = global::Study_Buddy.Resource.Id.icon;
+			global::SkiaSharp.Views.Forms.Resource.Id.icon_group = global::Study_Buddy.Resource.Id.icon_group;
+			global::SkiaSharp.Views.Forms.Resource.Id.ifRoom = global::Study_Buddy.Resource.Id.ifRoom;
+			global::SkiaSharp.Views.Forms.Resource.Id.image = global::Study_Buddy.Resource.Id.image;
+			global::SkiaSharp.Views.Forms.Resource.Id.info = global::Study_Buddy.Resource.Id.info;
+			global::SkiaSharp.Views.Forms.Resource.Id.italic = global::Study_Buddy.Resource.Id.italic;
+			global::SkiaSharp.Views.Forms.Resource.Id.item_touch_helper_previous_elevation = global::Study_Buddy.Resource.Id.item_touch_helper_previous_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Id.labeled = global::Study_Buddy.Resource.Id.labeled;
+			global::SkiaSharp.Views.Forms.Resource.Id.largeLabel = global::Study_Buddy.Resource.Id.largeLabel;
+			global::SkiaSharp.Views.Forms.Resource.Id.left = global::Study_Buddy.Resource.Id.left;
+			global::SkiaSharp.Views.Forms.Resource.Id.line1 = global::Study_Buddy.Resource.Id.line1;
+			global::SkiaSharp.Views.Forms.Resource.Id.line3 = global::Study_Buddy.Resource.Id.line3;
+			global::SkiaSharp.Views.Forms.Resource.Id.listMode = global::Study_Buddy.Resource.Id.listMode;
+			global::SkiaSharp.Views.Forms.Resource.Id.list_item = global::Study_Buddy.Resource.Id.list_item;
+			global::SkiaSharp.Views.Forms.Resource.Id.main_appbar = global::Study_Buddy.Resource.Id.main_appbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.main_tablayout = global::Study_Buddy.Resource.Id.main_tablayout;
+			global::SkiaSharp.Views.Forms.Resource.Id.main_toolbar = global::Study_Buddy.Resource.Id.main_toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.main_viewpager = global::Study_Buddy.Resource.Id.main_viewpager;
+			global::SkiaSharp.Views.Forms.Resource.Id.masked = global::Study_Buddy.Resource.Id.masked;
+			global::SkiaSharp.Views.Forms.Resource.Id.media_actions = global::Study_Buddy.Resource.Id.media_actions;
+			global::SkiaSharp.Views.Forms.Resource.Id.message = global::Study_Buddy.Resource.Id.message;
+			global::SkiaSharp.Views.Forms.Resource.Id.META = global::Study_Buddy.Resource.Id.META;
+			global::SkiaSharp.Views.Forms.Resource.Id.middle = global::Study_Buddy.Resource.Id.middle;
+			global::SkiaSharp.Views.Forms.Resource.Id.mini = global::Study_Buddy.Resource.Id.mini;
+			global::SkiaSharp.Views.Forms.Resource.Id.mtrl_child_content_container = global::Study_Buddy.Resource.Id.mtrl_child_content_container;
+			global::SkiaSharp.Views.Forms.Resource.Id.mtrl_internal_children_alpha_tag = global::Study_Buddy.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::SkiaSharp.Views.Forms.Resource.Id.multiply = global::Study_Buddy.Resource.Id.multiply;
+			global::SkiaSharp.Views.Forms.Resource.Id.navigation_header_container = global::Study_Buddy.Resource.Id.navigation_header_container;
+			global::SkiaSharp.Views.Forms.Resource.Id.never = global::Study_Buddy.Resource.Id.never;
+			global::SkiaSharp.Views.Forms.Resource.Id.none = global::Study_Buddy.Resource.Id.none;
+			global::SkiaSharp.Views.Forms.Resource.Id.normal = global::Study_Buddy.Resource.Id.normal;
+			global::SkiaSharp.Views.Forms.Resource.Id.notification_background = global::Study_Buddy.Resource.Id.notification_background;
+			global::SkiaSharp.Views.Forms.Resource.Id.notification_main_column = global::Study_Buddy.Resource.Id.notification_main_column;
+			global::SkiaSharp.Views.Forms.Resource.Id.notification_main_column_container = global::Study_Buddy.Resource.Id.notification_main_column_container;
+			global::SkiaSharp.Views.Forms.Resource.Id.outline = global::Study_Buddy.Resource.Id.outline;
+			global::SkiaSharp.Views.Forms.Resource.Id.parallax = global::Study_Buddy.Resource.Id.parallax;
+			global::SkiaSharp.Views.Forms.Resource.Id.parentPanel = global::Study_Buddy.Resource.Id.parentPanel;
+			global::SkiaSharp.Views.Forms.Resource.Id.parent_matrix = global::Study_Buddy.Resource.Id.parent_matrix;
+			global::SkiaSharp.Views.Forms.Resource.Id.pin = global::Study_Buddy.Resource.Id.pin;
+			global::SkiaSharp.Views.Forms.Resource.Id.progress_circular = global::Study_Buddy.Resource.Id.progress_circular;
+			global::SkiaSharp.Views.Forms.Resource.Id.progress_horizontal = global::Study_Buddy.Resource.Id.progress_horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Id.radio = global::Study_Buddy.Resource.Id.radio;
+			global::SkiaSharp.Views.Forms.Resource.Id.right = global::Study_Buddy.Resource.Id.right;
+			global::SkiaSharp.Views.Forms.Resource.Id.right_icon = global::Study_Buddy.Resource.Id.right_icon;
+			global::SkiaSharp.Views.Forms.Resource.Id.right_side = global::Study_Buddy.Resource.Id.right_side;
+			global::SkiaSharp.Views.Forms.Resource.Id.save_image_matrix = global::Study_Buddy.Resource.Id.save_image_matrix;
+			global::SkiaSharp.Views.Forms.Resource.Id.save_non_transition_alpha = global::Study_Buddy.Resource.Id.save_non_transition_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Id.save_scale_type = global::Study_Buddy.Resource.Id.save_scale_type;
+			global::SkiaSharp.Views.Forms.Resource.Id.screen = global::Study_Buddy.Resource.Id.screen;
+			global::SkiaSharp.Views.Forms.Resource.Id.scroll = global::Study_Buddy.Resource.Id.scroll;
+			global::SkiaSharp.Views.Forms.Resource.Id.scrollable = global::Study_Buddy.Resource.Id.scrollable;
+			global::SkiaSharp.Views.Forms.Resource.Id.scrollIndicatorDown = global::Study_Buddy.Resource.Id.scrollIndicatorDown;
+			global::SkiaSharp.Views.Forms.Resource.Id.scrollIndicatorUp = global::Study_Buddy.Resource.Id.scrollIndicatorUp;
+			global::SkiaSharp.Views.Forms.Resource.Id.scrollView = global::Study_Buddy.Resource.Id.scrollView;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_badge = global::Study_Buddy.Resource.Id.search_badge;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_bar = global::Study_Buddy.Resource.Id.search_bar;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_button = global::Study_Buddy.Resource.Id.search_button;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_close_btn = global::Study_Buddy.Resource.Id.search_close_btn;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_edit_frame = global::Study_Buddy.Resource.Id.search_edit_frame;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_go_btn = global::Study_Buddy.Resource.Id.search_go_btn;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_mag_icon = global::Study_Buddy.Resource.Id.search_mag_icon;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_plate = global::Study_Buddy.Resource.Id.search_plate;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_src_text = global::Study_Buddy.Resource.Id.search_src_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.search_voice_btn = global::Study_Buddy.Resource.Id.search_voice_btn;
+			global::SkiaSharp.Views.Forms.Resource.Id.selected = global::Study_Buddy.Resource.Id.selected;
+			global::SkiaSharp.Views.Forms.Resource.Id.select_dialog_listview = global::Study_Buddy.Resource.Id.select_dialog_listview;
+			global::SkiaSharp.Views.Forms.Resource.Id.shellcontent_appbar = global::Study_Buddy.Resource.Id.shellcontent_appbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.shellcontent_toolbar = global::Study_Buddy.Resource.Id.shellcontent_toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Id.SHIFT = global::Study_Buddy.Resource.Id.SHIFT;
+			global::SkiaSharp.Views.Forms.Resource.Id.shortcut = global::Study_Buddy.Resource.Id.shortcut;
+			global::SkiaSharp.Views.Forms.Resource.Id.showCustom = global::Study_Buddy.Resource.Id.showCustom;
+			global::SkiaSharp.Views.Forms.Resource.Id.showHome = global::Study_Buddy.Resource.Id.showHome;
+			global::SkiaSharp.Views.Forms.Resource.Id.showTitle = global::Study_Buddy.Resource.Id.showTitle;
+			global::SkiaSharp.Views.Forms.Resource.Id.smallLabel = global::Study_Buddy.Resource.Id.smallLabel;
+			global::SkiaSharp.Views.Forms.Resource.Id.snackbar_action = global::Study_Buddy.Resource.Id.snackbar_action;
+			global::SkiaSharp.Views.Forms.Resource.Id.snackbar_text = global::Study_Buddy.Resource.Id.snackbar_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.snap = global::Study_Buddy.Resource.Id.snap;
+			global::SkiaSharp.Views.Forms.Resource.Id.snapMargins = global::Study_Buddy.Resource.Id.snapMargins;
+			global::SkiaSharp.Views.Forms.Resource.Id.spacer = global::Study_Buddy.Resource.Id.spacer;
+			global::SkiaSharp.Views.Forms.Resource.Id.split_action_bar = global::Study_Buddy.Resource.Id.split_action_bar;
+			global::SkiaSharp.Views.Forms.Resource.Id.src_atop = global::Study_Buddy.Resource.Id.src_atop;
+			global::SkiaSharp.Views.Forms.Resource.Id.src_in = global::Study_Buddy.Resource.Id.src_in;
+			global::SkiaSharp.Views.Forms.Resource.Id.src_over = global::Study_Buddy.Resource.Id.src_over;
+			global::SkiaSharp.Views.Forms.Resource.Id.start = global::Study_Buddy.Resource.Id.start;
+			global::SkiaSharp.Views.Forms.Resource.Id.status_bar_latest_event_content = global::Study_Buddy.Resource.Id.status_bar_latest_event_content;
+			global::SkiaSharp.Views.Forms.Resource.Id.stretch = global::Study_Buddy.Resource.Id.stretch;
+			global::SkiaSharp.Views.Forms.Resource.Id.submenuarrow = global::Study_Buddy.Resource.Id.submenuarrow;
+			global::SkiaSharp.Views.Forms.Resource.Id.submit_area = global::Study_Buddy.Resource.Id.submit_area;
+			global::SkiaSharp.Views.Forms.Resource.Id.SYM = global::Study_Buddy.Resource.Id.SYM;
+			global::SkiaSharp.Views.Forms.Resource.Id.tabMode = global::Study_Buddy.Resource.Id.tabMode;
+			global::SkiaSharp.Views.Forms.Resource.Id.tag_transition_group = global::Study_Buddy.Resource.Id.tag_transition_group;
+			global::SkiaSharp.Views.Forms.Resource.Id.tag_unhandled_key_event_manager = global::Study_Buddy.Resource.Id.tag_unhandled_key_event_manager;
+			global::SkiaSharp.Views.Forms.Resource.Id.tag_unhandled_key_listeners = global::Study_Buddy.Resource.Id.tag_unhandled_key_listeners;
+			global::SkiaSharp.Views.Forms.Resource.Id.text = global::Study_Buddy.Resource.Id.text;
+			global::SkiaSharp.Views.Forms.Resource.Id.text2 = global::Study_Buddy.Resource.Id.text2;
+			global::SkiaSharp.Views.Forms.Resource.Id.textinput_counter = global::Study_Buddy.Resource.Id.textinput_counter;
+			global::SkiaSharp.Views.Forms.Resource.Id.textinput_error = global::Study_Buddy.Resource.Id.textinput_error;
+			global::SkiaSharp.Views.Forms.Resource.Id.textinput_helper_text = global::Study_Buddy.Resource.Id.textinput_helper_text;
+			global::SkiaSharp.Views.Forms.Resource.Id.textSpacerNoButtons = global::Study_Buddy.Resource.Id.textSpacerNoButtons;
+			global::SkiaSharp.Views.Forms.Resource.Id.textSpacerNoTitle = global::Study_Buddy.Resource.Id.textSpacerNoTitle;
+			global::SkiaSharp.Views.Forms.Resource.Id.textStart = global::Study_Buddy.Resource.Id.textStart;
+			global::SkiaSharp.Views.Forms.Resource.Id.text_input_password_toggle = global::Study_Buddy.Resource.Id.text_input_password_toggle;
+			global::SkiaSharp.Views.Forms.Resource.Id.time = global::Study_Buddy.Resource.Id.time;
+			global::SkiaSharp.Views.Forms.Resource.Id.title = global::Study_Buddy.Resource.Id.title;
+			global::SkiaSharp.Views.Forms.Resource.Id.titleDividerNoCustom = global::Study_Buddy.Resource.Id.titleDividerNoCustom;
+			global::SkiaSharp.Views.Forms.Resource.Id.title_template = global::Study_Buddy.Resource.Id.title_template;
+			global::SkiaSharp.Views.Forms.Resource.Id.top = global::Study_Buddy.Resource.Id.top;
+			global::SkiaSharp.Views.Forms.Resource.Id.topPanel = global::Study_Buddy.Resource.Id.topPanel;
+			global::SkiaSharp.Views.Forms.Resource.Id.touch_outside = global::Study_Buddy.Resource.Id.touch_outside;
+			global::SkiaSharp.Views.Forms.Resource.Id.transition_current_scene = global::Study_Buddy.Resource.Id.transition_current_scene;
+			global::SkiaSharp.Views.Forms.Resource.Id.transition_layout_save = global::Study_Buddy.Resource.Id.transition_layout_save;
+			global::SkiaSharp.Views.Forms.Resource.Id.transition_position = global::Study_Buddy.Resource.Id.transition_position;
+			global::SkiaSharp.Views.Forms.Resource.Id.transition_scene_layoutid_cache = global::Study_Buddy.Resource.Id.transition_scene_layoutid_cache;
+			global::SkiaSharp.Views.Forms.Resource.Id.transition_transform = global::Study_Buddy.Resource.Id.transition_transform;
+			global::SkiaSharp.Views.Forms.Resource.Id.uniform = global::Study_Buddy.Resource.Id.uniform;
+			global::SkiaSharp.Views.Forms.Resource.Id.unlabeled = global::Study_Buddy.Resource.Id.unlabeled;
+			global::SkiaSharp.Views.Forms.Resource.Id.up = global::Study_Buddy.Resource.Id.up;
+			global::SkiaSharp.Views.Forms.Resource.Id.useLogo = global::Study_Buddy.Resource.Id.useLogo;
+			global::SkiaSharp.Views.Forms.Resource.Id.view_offset_helper = global::Study_Buddy.Resource.Id.view_offset_helper;
+			global::SkiaSharp.Views.Forms.Resource.Id.visible = global::Study_Buddy.Resource.Id.visible;
+			global::SkiaSharp.Views.Forms.Resource.Id.withText = global::Study_Buddy.Resource.Id.withText;
+			global::SkiaSharp.Views.Forms.Resource.Id.wrap_content = global::Study_Buddy.Resource.Id.wrap_content;
+			global::SkiaSharp.Views.Forms.Resource.Integer.abc_config_activityDefaultDur = global::Study_Buddy.Resource.Integer.abc_config_activityDefaultDur;
+			global::SkiaSharp.Views.Forms.Resource.Integer.abc_config_activityShortDur = global::Study_Buddy.Resource.Integer.abc_config_activityShortDur;
+			global::SkiaSharp.Views.Forms.Resource.Integer.app_bar_elevation_anim_duration = global::Study_Buddy.Resource.Integer.app_bar_elevation_anim_duration;
+			global::SkiaSharp.Views.Forms.Resource.Integer.bottom_sheet_slide_duration = global::Study_Buddy.Resource.Integer.bottom_sheet_slide_duration;
+			global::SkiaSharp.Views.Forms.Resource.Integer.cancel_button_image_alpha = global::Study_Buddy.Resource.Integer.cancel_button_image_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Integer.config_tooltipAnimTime = global::Study_Buddy.Resource.Integer.config_tooltipAnimTime;
+			global::SkiaSharp.Views.Forms.Resource.Integer.design_snackbar_text_max_lines = global::Study_Buddy.Resource.Integer.design_snackbar_text_max_lines;
+			global::SkiaSharp.Views.Forms.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Study_Buddy.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::SkiaSharp.Views.Forms.Resource.Integer.hide_password_duration = global::Study_Buddy.Resource.Integer.hide_password_duration;
+			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_btn_anim_delay_ms = global::Study_Buddy.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_btn_anim_duration_ms = global::Study_Buddy.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_chip_anim_duration = global::Study_Buddy.Resource.Integer.mtrl_chip_anim_duration;
+			global::SkiaSharp.Views.Forms.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Study_Buddy.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::SkiaSharp.Views.Forms.Resource.Integer.show_password_duration = global::Study_Buddy.Resource.Integer.show_password_duration;
+			global::SkiaSharp.Views.Forms.Resource.Integer.status_bar_notification_info_maxnum = global::Study_Buddy.Resource.Integer.status_bar_notification_info_maxnum;
+			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_fast_out_linear_in = global::Study_Buddy.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_fast_out_slow_in = global::Study_Buddy.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_linear = global::Study_Buddy.Resource.Interpolator.mtrl_linear;
+			global::SkiaSharp.Views.Forms.Resource.Interpolator.mtrl_linear_out_slow_in = global::Study_Buddy.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_bar_title_item = global::Study_Buddy.Resource.Layout.abc_action_bar_title_item;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_bar_up_container = global::Study_Buddy.Resource.Layout.abc_action_bar_up_container;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_action_menu_item_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_menu_layout = global::Study_Buddy.Resource.Layout.abc_action_menu_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_mode_bar = global::Study_Buddy.Resource.Layout.abc_action_mode_bar;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_action_mode_close_item_material = global::Study_Buddy.Resource.Layout.abc_action_mode_close_item_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_activity_chooser_view = global::Study_Buddy.Resource.Layout.abc_activity_chooser_view;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_activity_chooser_view_list_item = global::Study_Buddy.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_button_bar_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_alert_dialog_title_material = global::Study_Buddy.Resource.Layout.abc_alert_dialog_title_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_cascading_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_cascading_menu_item_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_dialog_title_material = global::Study_Buddy.Resource.Layout.abc_dialog_title_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_expanded_menu_layout = global::Study_Buddy.Resource.Layout.abc_expanded_menu_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_checkbox = global::Study_Buddy.Resource.Layout.abc_list_menu_item_checkbox;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_icon = global::Study_Buddy.Resource.Layout.abc_list_menu_item_icon;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_list_menu_item_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_list_menu_item_radio = global::Study_Buddy.Resource.Layout.abc_list_menu_item_radio;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_popup_menu_header_item_layout = global::Study_Buddy.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_popup_menu_item_layout = global::Study_Buddy.Resource.Layout.abc_popup_menu_item_layout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_content_include = global::Study_Buddy.Resource.Layout.abc_screen_content_include;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_simple = global::Study_Buddy.Resource.Layout.abc_screen_simple;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Study_Buddy.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_screen_toolbar = global::Study_Buddy.Resource.Layout.abc_screen_toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Study_Buddy.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_search_view = global::Study_Buddy.Resource.Layout.abc_search_view;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_select_dialog_material = global::Study_Buddy.Resource.Layout.abc_select_dialog_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.abc_tooltip = global::Study_Buddy.Resource.Layout.abc_tooltip;
+			global::SkiaSharp.Views.Forms.Resource.Layout.BottomTabLayout = global::Study_Buddy.Resource.Layout.BottomTabLayout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.browser_actions_context_menu_page = global::Study_Buddy.Resource.Layout.browser_actions_context_menu_page;
+			global::SkiaSharp.Views.Forms.Resource.Layout.browser_actions_context_menu_row = global::Study_Buddy.Resource.Layout.browser_actions_context_menu_row;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_bottom_navigation_item = global::Study_Buddy.Resource.Layout.design_bottom_navigation_item;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_bottom_sheet_dialog = global::Study_Buddy.Resource.Layout.design_bottom_sheet_dialog;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_snackbar = global::Study_Buddy.Resource.Layout.design_layout_snackbar;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_snackbar_include = global::Study_Buddy.Resource.Layout.design_layout_snackbar_include;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_tab_icon = global::Study_Buddy.Resource.Layout.design_layout_tab_icon;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_layout_tab_text = global::Study_Buddy.Resource.Layout.design_layout_tab_text;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_menu_item_action_area = global::Study_Buddy.Resource.Layout.design_menu_item_action_area;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item = global::Study_Buddy.Resource.Layout.design_navigation_item;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_header = global::Study_Buddy.Resource.Layout.design_navigation_item_header;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_separator = global::Study_Buddy.Resource.Layout.design_navigation_item_separator;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_item_subheader = global::Study_Buddy.Resource.Layout.design_navigation_item_subheader;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_menu = global::Study_Buddy.Resource.Layout.design_navigation_menu;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_navigation_menu_item = global::Study_Buddy.Resource.Layout.design_navigation_menu_item;
+			global::SkiaSharp.Views.Forms.Resource.Layout.design_text_input_password_icon = global::Study_Buddy.Resource.Layout.design_text_input_password_icon;
+			global::SkiaSharp.Views.Forms.Resource.Layout.FlyoutContent = global::Study_Buddy.Resource.Layout.FlyoutContent;
+			global::SkiaSharp.Views.Forms.Resource.Layout.mtrl_layout_snackbar = global::Study_Buddy.Resource.Layout.mtrl_layout_snackbar;
+			global::SkiaSharp.Views.Forms.Resource.Layout.mtrl_layout_snackbar_include = global::Study_Buddy.Resource.Layout.mtrl_layout_snackbar_include;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_action = global::Study_Buddy.Resource.Layout.notification_action;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_action_tombstone = global::Study_Buddy.Resource.Layout.notification_action_tombstone;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_media_action = global::Study_Buddy.Resource.Layout.notification_media_action;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_media_cancel_action = global::Study_Buddy.Resource.Layout.notification_media_cancel_action;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media = global::Study_Buddy.Resource.Layout.notification_template_big_media;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_custom = global::Study_Buddy.Resource.Layout.notification_template_big_media_custom;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_narrow = global::Study_Buddy.Resource.Layout.notification_template_big_media_narrow;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_big_media_narrow_custom = global::Study_Buddy.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_custom_big = global::Study_Buddy.Resource.Layout.notification_template_custom_big;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_icon_group = global::Study_Buddy.Resource.Layout.notification_template_icon_group;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_lines_media = global::Study_Buddy.Resource.Layout.notification_template_lines_media;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_media = global::Study_Buddy.Resource.Layout.notification_template_media;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_media_custom = global::Study_Buddy.Resource.Layout.notification_template_media_custom;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_part_chronometer = global::Study_Buddy.Resource.Layout.notification_template_part_chronometer;
+			global::SkiaSharp.Views.Forms.Resource.Layout.notification_template_part_time = global::Study_Buddy.Resource.Layout.notification_template_part_time;
+			global::SkiaSharp.Views.Forms.Resource.Layout.RootLayout = global::Study_Buddy.Resource.Layout.RootLayout;
+			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_item_material = global::Study_Buddy.Resource.Layout.select_dialog_item_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_multichoice_material = global::Study_Buddy.Resource.Layout.select_dialog_multichoice_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.select_dialog_singlechoice_material = global::Study_Buddy.Resource.Layout.select_dialog_singlechoice_material;
+			global::SkiaSharp.Views.Forms.Resource.Layout.ShellContent = global::Study_Buddy.Resource.Layout.ShellContent;
+			global::SkiaSharp.Views.Forms.Resource.Layout.support_simple_spinner_dropdown_item = global::Study_Buddy.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_action_bar_home_description = global::Study_Buddy.Resource.String.abc_action_bar_home_description;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_action_bar_up_description = global::Study_Buddy.Resource.String.abc_action_bar_up_description;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_action_menu_overflow_description = global::Study_Buddy.Resource.String.abc_action_menu_overflow_description;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_action_mode_done = global::Study_Buddy.Resource.String.abc_action_mode_done;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_activitychooserview_choose_application = global::Study_Buddy.Resource.String.abc_activitychooserview_choose_application;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_activity_chooser_view_see_all = global::Study_Buddy.Resource.String.abc_activity_chooser_view_see_all;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_capital_off = global::Study_Buddy.Resource.String.abc_capital_off;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_capital_on = global::Study_Buddy.Resource.String.abc_capital_on;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_body_1_material = global::Study_Buddy.Resource.String.abc_font_family_body_1_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_body_2_material = global::Study_Buddy.Resource.String.abc_font_family_body_2_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_button_material = global::Study_Buddy.Resource.String.abc_font_family_button_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_caption_material = global::Study_Buddy.Resource.String.abc_font_family_caption_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_display_1_material = global::Study_Buddy.Resource.String.abc_font_family_display_1_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_display_2_material = global::Study_Buddy.Resource.String.abc_font_family_display_2_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_display_3_material = global::Study_Buddy.Resource.String.abc_font_family_display_3_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_display_4_material = global::Study_Buddy.Resource.String.abc_font_family_display_4_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_headline_material = global::Study_Buddy.Resource.String.abc_font_family_headline_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_menu_material = global::Study_Buddy.Resource.String.abc_font_family_menu_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_subhead_material = global::Study_Buddy.Resource.String.abc_font_family_subhead_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_font_family_title_material = global::Study_Buddy.Resource.String.abc_font_family_title_material;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_alt_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_alt_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_ctrl_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_delete_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_delete_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_enter_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_enter_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_function_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_function_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_meta_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_meta_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_shift_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_shift_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_space_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_space_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_menu_sym_shortcut_label = global::Study_Buddy.Resource.String.abc_menu_sym_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_prepend_shortcut_label = global::Study_Buddy.Resource.String.abc_prepend_shortcut_label;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_clear = global::Study_Buddy.Resource.String.abc_searchview_description_clear;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_query = global::Study_Buddy.Resource.String.abc_searchview_description_query;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_search = global::Study_Buddy.Resource.String.abc_searchview_description_search;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_submit = global::Study_Buddy.Resource.String.abc_searchview_description_submit;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_searchview_description_voice = global::Study_Buddy.Resource.String.abc_searchview_description_voice;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_search_hint = global::Study_Buddy.Resource.String.abc_search_hint;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_shareactionprovider_share_with = global::Study_Buddy.Resource.String.abc_shareactionprovider_share_with;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_shareactionprovider_share_with_application = global::Study_Buddy.Resource.String.abc_shareactionprovider_share_with_application;
+			global::SkiaSharp.Views.Forms.Resource.String.abc_toolbar_collapse_description = global::Study_Buddy.Resource.String.abc_toolbar_collapse_description;
+			global::SkiaSharp.Views.Forms.Resource.String.appbar_scrolling_view_behavior = global::Study_Buddy.Resource.String.appbar_scrolling_view_behavior;
+			global::SkiaSharp.Views.Forms.Resource.String.bottom_sheet_behavior = global::Study_Buddy.Resource.String.bottom_sheet_behavior;
+			global::SkiaSharp.Views.Forms.Resource.String.character_counter_content_description = global::Study_Buddy.Resource.String.character_counter_content_description;
+			global::SkiaSharp.Views.Forms.Resource.String.character_counter_pattern = global::Study_Buddy.Resource.String.character_counter_pattern;
+			global::SkiaSharp.Views.Forms.Resource.String.fab_transformation_scrim_behavior = global::Study_Buddy.Resource.String.fab_transformation_scrim_behavior;
+			global::SkiaSharp.Views.Forms.Resource.String.fab_transformation_sheet_behavior = global::Study_Buddy.Resource.String.fab_transformation_sheet_behavior;
+			global::SkiaSharp.Views.Forms.Resource.String.hide_bottom_view_on_scroll_behavior = global::Study_Buddy.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::SkiaSharp.Views.Forms.Resource.String.mtrl_chip_close_icon_content_description = global::Study_Buddy.Resource.String.mtrl_chip_close_icon_content_description;
+			global::SkiaSharp.Views.Forms.Resource.String.password_toggle_content_description = global::Study_Buddy.Resource.String.password_toggle_content_description;
+			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye = global::Study_Buddy.Resource.String.path_password_eye;
+			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye_mask_strike_through = global::Study_Buddy.Resource.String.path_password_eye_mask_strike_through;
+			global::SkiaSharp.Views.Forms.Resource.String.path_password_eye_mask_visible = global::Study_Buddy.Resource.String.path_password_eye_mask_visible;
+			global::SkiaSharp.Views.Forms.Resource.String.path_password_strike_through = global::Study_Buddy.Resource.String.path_password_strike_through;
+			global::SkiaSharp.Views.Forms.Resource.String.search_menu_title = global::Study_Buddy.Resource.String.search_menu_title;
+			global::SkiaSharp.Views.Forms.Resource.String.status_bar_notification_info_overflow = global::Study_Buddy.Resource.String.status_bar_notification_info_overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.AlertDialog_AppCompat = global::Study_Buddy.Resource.Style.AlertDialog_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.AlertDialog_AppCompat_Light = global::Study_Buddy.Resource.Style.AlertDialog_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Animation_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_DropDownUp = global::Study_Buddy.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::SkiaSharp.Views.Forms.Resource.Style.Animation_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Animation_AppCompat_Tooltip;
+			global::SkiaSharp.Views.Forms.Resource.Style.Animation_Design_BottomSheetDialog = global::Study_Buddy.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_AlertDialog_AppCompat = global::Study_Buddy.Resource.Style.Base_AlertDialog_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_CardView = global::Study_Buddy.Resource.Style.Base_CardView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Study_Buddy.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Study_Buddy.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Study_Buddy.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V22_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V22_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V23_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V23_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V26_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V28_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V28_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SearchView = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Study_Buddy.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_Design_TabLayout = global::Study_Buddy.Resource.Style.Base_Widget_Design_TabLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Study_Buddy.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.CardView = global::Study_Buddy.Resource.Style.CardView;
+			global::SkiaSharp.Views.Forms.Resource.Style.CardView_Dark = global::Study_Buddy.Resource.Style.CardView_Dark;
+			global::SkiaSharp.Views.Forms.Resource.Style.CardView_Light = global::Study_Buddy.Resource.Style.CardView_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_AppCompat = global::Study_Buddy.Resource.Style.Platform_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents = global::Study_Buddy.Resource.Style.Platform_MaterialComponents;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V21_AppCompat = global::Study_Buddy.Resource.Style.Platform_V21_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V21_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_V21_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V25_AppCompat = global::Study_Buddy.Resource.Style.Platform_V25_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_V25_AppCompat_Light = global::Study_Buddy.Resource.Style.Platform_V25_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Study_Buddy.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Study_Buddy.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Body1 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Body2 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Button = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Caption = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display1 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display2 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display3 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Display4 = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Headline = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Medium = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Menu = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Subhead = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Info = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Time = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Title = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Study_Buddy.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Study_Buddy.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Counter = global::Study_Buddy.Resource.Style.TextAppearance_Design_Counter;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Study_Buddy.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Error = global::Study_Buddy.Resource.Style.TextAppearance_Design_Error;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_HelperText = global::Study_Buddy.Resource.Style.TextAppearance_Design_HelperText;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Hint = global::Study_Buddy.Resource.Style.TextAppearance_Design_Hint;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Study_Buddy.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Design_Tab = global::Study_Buddy.Resource.Style.TextAppearance_Design_Tab;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Button = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_MaterialComponents_Tab = global::Study_Buddy.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Study_Buddy.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_AppCompat_Light = global::Study_Buddy.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat = global::Study_Buddy.Resource.Style.Theme_AppCompat;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_CompactMenu = global::Study_Buddy.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_AppCompat_NoActionBar = global::Study_Buddy.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design = global::Study_Buddy.Resource.Style.Theme_Design;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light = global::Study_Buddy.Resource.Style.Theme_Design_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_Design_NoActionBar = global::Study_Buddy.Resource.Style.Theme_Design_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents = global::Study_Buddy.Resource.Style.Theme_MaterialComponents;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Study_Buddy.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActionMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActionMode;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ButtonBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Borderless = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Colored = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Button_Small = global::Study_Buddy.Resource.Style.Widget_AppCompat_Button_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Study_Buddy.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Study_Buddy.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_EditText = global::Study_Buddy.Resource.Style.Widget_AppCompat_EditText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ImageButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_ImageButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_SearchView = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListMenuView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ListView_Menu = global::Study_Buddy.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupMenu = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_PopupWindow = global::Study_Buddy.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ProgressBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Study_Buddy.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Study_Buddy.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SearchView = global::Study_Buddy.Resource.Style.Widget_AppCompat_SearchView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SeekBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_SeekBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Study_Buddy.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Study_Buddy.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Study_Buddy.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Toolbar = global::Study_Buddy.Resource.Style.Widget_AppCompat_Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Study_Buddy.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Compat_NotificationActionContainer = global::Study_Buddy.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Compat_NotificationActionText = global::Study_Buddy.Resource.Style.Widget_Compat_NotificationActionText;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_AppBarLayout = global::Study_Buddy.Resource.Style.Widget_Design_AppBarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_BottomNavigationView = global::Study_Buddy.Resource.Style.Widget_Design_BottomNavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_BottomSheet_Modal = global::Study_Buddy.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_CollapsingToolbar = global::Study_Buddy.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_FloatingActionButton = global::Study_Buddy.Resource.Style.Widget_Design_FloatingActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_NavigationView = global::Study_Buddy.Resource.Style.Widget_Design_NavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Study_Buddy.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_Snackbar = global::Study_Buddy.Resource.Style.Widget_Design_Snackbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_TabLayout = global::Study_Buddy.Resource.Style.Widget_Design_TabLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Design_TextInputLayout = global::Study_Buddy.Resource.Style.Widget_Design_TextInputLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_CardView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_CardView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_NavigationView = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Snackbar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TabLayout = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_MaterialComponents_Toolbar = global::Study_Buddy.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Style.Widget_Support_CoordinatorLayout = global::Study_Buddy.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar = global::Study_Buddy.Resource.Styleable.ActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBarLayout = global::Study_Buddy.Resource.Styleable.ActionBarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_background = global::Study_Buddy.Resource.Styleable.ActionBar_background;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_backgroundSplit = global::Study_Buddy.Resource.Styleable.ActionBar_backgroundSplit;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_backgroundStacked = global::Study_Buddy.Resource.Styleable.ActionBar_backgroundStacked;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetEnd = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetLeft = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetRight = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetStart = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Study_Buddy.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_customNavigationLayout = global::Study_Buddy.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_displayOptions = global::Study_Buddy.Resource.Styleable.ActionBar_displayOptions;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_divider = global::Study_Buddy.Resource.Styleable.ActionBar_divider;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_elevation = global::Study_Buddy.Resource.Styleable.ActionBar_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_height = global::Study_Buddy.Resource.Styleable.ActionBar_height;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_hideOnContentScroll = global::Study_Buddy.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Study_Buddy.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_homeLayout = global::Study_Buddy.Resource.Styleable.ActionBar_homeLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_icon = global::Study_Buddy.Resource.Styleable.ActionBar_icon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Study_Buddy.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_itemPadding = global::Study_Buddy.Resource.Styleable.ActionBar_itemPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_logo = global::Study_Buddy.Resource.Styleable.ActionBar_logo;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_navigationMode = global::Study_Buddy.Resource.Styleable.ActionBar_navigationMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_popupTheme = global::Study_Buddy.Resource.Styleable.ActionBar_popupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_progressBarPadding = global::Study_Buddy.Resource.Styleable.ActionBar_progressBarPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_progressBarStyle = global::Study_Buddy.Resource.Styleable.ActionBar_progressBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_subtitle = global::Study_Buddy.Resource.Styleable.ActionBar_subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_subtitleTextStyle = global::Study_Buddy.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_title = global::Study_Buddy.Resource.Styleable.ActionBar_title;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionBar_titleTextStyle = global::Study_Buddy.Resource.Styleable.ActionBar_titleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuItemView = global::Study_Buddy.Resource.Styleable.ActionMenuItemView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Study_Buddy.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMenuView = global::Study_Buddy.Resource.Styleable.ActionMenuView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode = global::Study_Buddy.Resource.Styleable.ActionMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_background = global::Study_Buddy.Resource.Styleable.ActionMode_background;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_backgroundSplit = global::Study_Buddy.Resource.Styleable.ActionMode_backgroundSplit;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_closeItemLayout = global::Study_Buddy.Resource.Styleable.ActionMode_closeItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_height = global::Study_Buddy.Resource.Styleable.ActionMode_height;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_subtitleTextStyle = global::Study_Buddy.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActionMode_titleTextStyle = global::Study_Buddy.Resource.Styleable.ActionMode_titleTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView = global::Study_Buddy.Resource.Styleable.ActivityChooserView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Study_Buddy.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Study_Buddy.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog = global::Study_Buddy.Resource.Styleable.AlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_android_layout = global::Study_Buddy.Resource.Styleable.AlertDialog_android_layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_buttonIconDimen = global::Study_Buddy.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_listItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_listItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_listLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_listLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_showTitle = global::Study_Buddy.Resource.Styleable.AlertDialog_showTitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Study_Buddy.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Study_Buddy.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout = global::Study_Buddy.Resource.Styleable.AppBarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Study_Buddy.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_background = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_background;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Study_Buddy.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_elevation = global::Study_Buddy.Resource.Styleable.AppBarLayout_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_expanded = global::Study_Buddy.Resource.Styleable.AppBarLayout_expanded;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Study_Buddy.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppBarLayout_liftOnScroll = global::Study_Buddy.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView = global::Study_Buddy.Resource.Styleable.AppCompatImageView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_android_src = global::Study_Buddy.Resource.Styleable.AppCompatImageView_android_src;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_srcCompat = global::Study_Buddy.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_tint = global::Study_Buddy.Resource.Styleable.AppCompatImageView_tint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatImageView_tintMode = global::Study_Buddy.Resource.Styleable.AppCompatImageView_tintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMark = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Study_Buddy.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView = global::Study_Buddy.Resource.Styleable.AppCompatTextView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Study_Buddy.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_fontFamily = global::Study_Buddy.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_lineHeight = global::Study_Buddy.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTextView_textAllCaps = global::Study_Buddy.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarSize = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Study_Buddy.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorAccent = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorError = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorError;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorPrimary = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_controlBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dialogTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dividerVertical = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_editTextStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Study_Buddy.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Study_Buddy.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Study_Buddy.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_switchStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Study_Buddy.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Study_Buddy.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Study_Buddy.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionBar = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Study_Buddy.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar = global::Study_Buddy.Resource.Styleable.BottomAppBar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_backgroundTint = global::Study_Buddy.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Study_Buddy.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomAppBar_hideOnScroll = global::Study_Buddy.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView = global::Study_Buddy.Resource.Styleable.BottomNavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_elevation = global::Study_Buddy.Resource.Styleable.BottomNavigationView_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemBackground = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemIconSize = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemIconTint = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_itemTextColor = global::Study_Buddy.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::Study_Buddy.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomNavigationView_menu = global::Study_Buddy.Resource.Styleable.BottomNavigationView_menu;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Study_Buddy.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ButtonBarLayout = global::Study_Buddy.Resource.Styleable.ButtonBarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ButtonBarLayout_allowStacking = global::Study_Buddy.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView = global::Study_Buddy.Resource.Styleable.CardView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_android_minHeight = global::Study_Buddy.Resource.Styleable.CardView_android_minHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_android_minWidth = global::Study_Buddy.Resource.Styleable.CardView_android_minWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardBackgroundColor = global::Study_Buddy.Resource.Styleable.CardView_cardBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardCornerRadius = global::Study_Buddy.Resource.Styleable.CardView_cardCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardElevation = global::Study_Buddy.Resource.Styleable.CardView_cardElevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardMaxElevation = global::Study_Buddy.Resource.Styleable.CardView_cardMaxElevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Study_Buddy.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_cardUseCompatPadding = global::Study_Buddy.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPadding = global::Study_Buddy.Resource.Styleable.CardView_contentPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingBottom = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingLeft = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingRight = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CardView_contentPaddingTop = global::Study_Buddy.Resource.Styleable.CardView_contentPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip = global::Study_Buddy.Resource.Styleable.Chip;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup = global::Study_Buddy.Resource.Styleable.ChipGroup;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_checkedChip = global::Study_Buddy.Resource.Styleable.ChipGroup_checkedChip;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacing = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Study_Buddy.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_singleLine = global::Study_Buddy.Resource.Styleable.ChipGroup_singleLine;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ChipGroup_singleSelection = global::Study_Buddy.Resource.Styleable.ChipGroup_singleSelection;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_checkable = global::Study_Buddy.Resource.Styleable.Chip_android_checkable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_ellipsize = global::Study_Buddy.Resource.Styleable.Chip_android_ellipsize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_maxWidth = global::Study_Buddy.Resource.Styleable.Chip_android_maxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_text = global::Study_Buddy.Resource.Styleable.Chip_android_text;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_android_textAppearance = global::Study_Buddy.Resource.Styleable.Chip_android_textAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIcon = global::Study_Buddy.Resource.Styleable.Chip_checkedIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_checkedIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_checkedIconVisible = global::Study_Buddy.Resource.Styleable.Chip_checkedIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipBackgroundColor = global::Study_Buddy.Resource.Styleable.Chip_chipBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipCornerRadius = global::Study_Buddy.Resource.Styleable.Chip_chipCornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipEndPadding = global::Study_Buddy.Resource.Styleable.Chip_chipEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIcon = global::Study_Buddy.Resource.Styleable.Chip_chipIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_chipIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconSize = global::Study_Buddy.Resource.Styleable.Chip_chipIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconTint = global::Study_Buddy.Resource.Styleable.Chip_chipIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipIconVisible = global::Study_Buddy.Resource.Styleable.Chip_chipIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipMinHeight = global::Study_Buddy.Resource.Styleable.Chip_chipMinHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStartPadding = global::Study_Buddy.Resource.Styleable.Chip_chipStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStrokeColor = global::Study_Buddy.Resource.Styleable.Chip_chipStrokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_chipStrokeWidth = global::Study_Buddy.Resource.Styleable.Chip_chipStrokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIcon = global::Study_Buddy.Resource.Styleable.Chip_closeIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconEnabled = global::Study_Buddy.Resource.Styleable.Chip_closeIconEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconEndPadding = global::Study_Buddy.Resource.Styleable.Chip_closeIconEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconSize = global::Study_Buddy.Resource.Styleable.Chip_closeIconSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconStartPadding = global::Study_Buddy.Resource.Styleable.Chip_closeIconStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconTint = global::Study_Buddy.Resource.Styleable.Chip_closeIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_closeIconVisible = global::Study_Buddy.Resource.Styleable.Chip_closeIconVisible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_hideMotionSpec = global::Study_Buddy.Resource.Styleable.Chip_hideMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_iconEndPadding = global::Study_Buddy.Resource.Styleable.Chip_iconEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_iconStartPadding = global::Study_Buddy.Resource.Styleable.Chip_iconStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_rippleColor = global::Study_Buddy.Resource.Styleable.Chip_rippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_showMotionSpec = global::Study_Buddy.Resource.Styleable.Chip_showMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_textEndPadding = global::Study_Buddy.Resource.Styleable.Chip_textEndPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Chip_textStartPadding = global::Study_Buddy.Resource.Styleable.Chip_textStartPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_title = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Study_Buddy.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem = global::Study_Buddy.Resource.Styleable.ColorStateListItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_alpha = global::Study_Buddy.Resource.Styleable.ColorStateListItem_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_android_alpha = global::Study_Buddy.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ColorStateListItem_android_color = global::Study_Buddy.Resource.Styleable.ColorStateListItem_android_color;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton = global::Study_Buddy.Resource.Styleable.CompoundButton;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_android_button = global::Study_Buddy.Resource.Styleable.CompoundButton_android_button;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_buttonTint = global::Study_Buddy.Resource.Styleable.CompoundButton_buttonTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CompoundButton_buttonTintMode = global::Study_Buddy.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout = global::Study_Buddy.Resource.Styleable.CoordinatorLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_keylines = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_keylines;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Study_Buddy.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DesignTheme = global::Study_Buddy.Resource.Styleable.DesignTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Study_Buddy.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Study_Buddy.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_barLength = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_color = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_color;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_spinBars = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.DrawerArrowToggle_thickness = global::Study_Buddy.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton = global::Study_Buddy.Resource.Styleable.FloatingActionButton;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_backgroundTint = global::Study_Buddy.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Study_Buddy.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Study_Buddy.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Study_Buddy.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_borderWidth = global::Study_Buddy.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_elevation = global::Study_Buddy.Resource.Styleable.FloatingActionButton_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_fabSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_fabSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Study_Buddy.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Study_Buddy.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_maxImageSize = global::Study_Buddy.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Study_Buddy.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_rippleColor = global::Study_Buddy.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Study_Buddy.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Study_Buddy.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout = global::Study_Buddy.Resource.Styleable.FlowLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout_itemSpacing = global::Study_Buddy.Resource.Styleable.FlowLayout_itemSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FlowLayout_lineSpacing = global::Study_Buddy.Resource.Styleable.FlowLayout_lineSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily = global::Study_Buddy.Resource.Styleable.FontFamily;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont = global::Study_Buddy.Resource.Styleable.FontFamilyFont;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_font = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_font;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Study_Buddy.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_font = global::Study_Buddy.Resource.Styleable.FontFamilyFont_font;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontStyle = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_fontWeight = global::Study_Buddy.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamilyFont_ttcIndex = global::Study_Buddy.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderAuthority = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderCerts = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderPackage = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.FontFamily_fontProviderQuery = global::Study_Buddy.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Study_Buddy.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor = global::Study_Buddy.Resource.Styleable.GradientColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem = global::Study_Buddy.Resource.Styleable.GradientColorItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem_android_color = global::Study_Buddy.Resource.Styleable.GradientColorItem_android_color;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColorItem_android_offset = global::Study_Buddy.Resource.Styleable.GradientColorItem_android_offset;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerX = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerX;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_centerY = global::Study_Buddy.Resource.Styleable.GradientColor_android_centerY;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_endColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endX = global::Study_Buddy.Resource.Styleable.GradientColor_android_endX;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_endY = global::Study_Buddy.Resource.Styleable.GradientColor_android_endY;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_gradientRadius = global::Study_Buddy.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startColor = global::Study_Buddy.Resource.Styleable.GradientColor_android_startColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startX = global::Study_Buddy.Resource.Styleable.GradientColor_android_startX;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_startY = global::Study_Buddy.Resource.Styleable.GradientColor_android_startY;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_tileMode = global::Study_Buddy.Resource.Styleable.GradientColor_android_tileMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.GradientColor_android_type = global::Study_Buddy.Resource.Styleable.GradientColor_android_type;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_divider = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_divider;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.LinearLayoutCompat_showDividers = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow = global::Study_Buddy.Resource.Styleable.ListPopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Study_Buddy.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Study_Buddy.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton = global::Study_Buddy.Resource.Styleable.MaterialButton;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetBottom = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetLeft = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetRight = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_android_insetTop = global::Study_Buddy.Resource.Styleable.MaterialButton_android_insetTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_backgroundTint = global::Study_Buddy.Resource.Styleable.MaterialButton_backgroundTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_backgroundTintMode = global::Study_Buddy.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_cornerRadius = global::Study_Buddy.Resource.Styleable.MaterialButton_cornerRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_icon = global::Study_Buddy.Resource.Styleable.MaterialButton_icon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconGravity = global::Study_Buddy.Resource.Styleable.MaterialButton_iconGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconPadding = global::Study_Buddy.Resource.Styleable.MaterialButton_iconPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconSize = global::Study_Buddy.Resource.Styleable.MaterialButton_iconSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconTint = global::Study_Buddy.Resource.Styleable.MaterialButton_iconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_iconTintMode = global::Study_Buddy.Resource.Styleable.MaterialButton_iconTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_rippleColor = global::Study_Buddy.Resource.Styleable.MaterialButton_rippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_strokeColor = global::Study_Buddy.Resource.Styleable.MaterialButton_strokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialButton_strokeWidth = global::Study_Buddy.Resource.Styleable.MaterialButton_strokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView = global::Study_Buddy.Resource.Styleable.MaterialCardView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView_strokeColor = global::Study_Buddy.Resource.Styleable.MaterialCardView_strokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialCardView_strokeWidth = global::Study_Buddy.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::Study_Buddy.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup = global::Study_Buddy.Resource.Styleable.MenuGroup;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Study_Buddy.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_enabled = global::Study_Buddy.Resource.Styleable.MenuGroup_android_enabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_id = global::Study_Buddy.Resource.Styleable.MenuGroup_android_id;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_menuCategory = global::Study_Buddy.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_orderInCategory = global::Study_Buddy.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuGroup_android_visible = global::Study_Buddy.Resource.Styleable.MenuGroup_android_visible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem = global::Study_Buddy.Resource.Styleable.MenuItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionLayout = global::Study_Buddy.Resource.Styleable.MenuItem_actionLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionProviderClass = global::Study_Buddy.Resource.Styleable.MenuItem_actionProviderClass;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_actionViewClass = global::Study_Buddy.Resource.Styleable.MenuItem_actionViewClass;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_alphabeticModifiers = global::Study_Buddy.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Study_Buddy.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_checkable = global::Study_Buddy.Resource.Styleable.MenuItem_android_checkable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_checked = global::Study_Buddy.Resource.Styleable.MenuItem_android_checked;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_enabled = global::Study_Buddy.Resource.Styleable.MenuItem_android_enabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_icon = global::Study_Buddy.Resource.Styleable.MenuItem_android_icon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_id = global::Study_Buddy.Resource.Styleable.MenuItem_android_id;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_menuCategory = global::Study_Buddy.Resource.Styleable.MenuItem_android_menuCategory;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_numericShortcut = global::Study_Buddy.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_onClick = global::Study_Buddy.Resource.Styleable.MenuItem_android_onClick;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_orderInCategory = global::Study_Buddy.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_title = global::Study_Buddy.Resource.Styleable.MenuItem_android_title;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_titleCondensed = global::Study_Buddy.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_android_visible = global::Study_Buddy.Resource.Styleable.MenuItem_android_visible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_contentDescription = global::Study_Buddy.Resource.Styleable.MenuItem_contentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_iconTint = global::Study_Buddy.Resource.Styleable.MenuItem_iconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_iconTintMode = global::Study_Buddy.Resource.Styleable.MenuItem_iconTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_numericModifiers = global::Study_Buddy.Resource.Styleable.MenuItem_numericModifiers;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_showAsAction = global::Study_Buddy.Resource.Styleable.MenuItem_showAsAction;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuItem_tooltipText = global::Study_Buddy.Resource.Styleable.MenuItem_tooltipText;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView = global::Study_Buddy.Resource.Styleable.MenuView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_headerBackground = global::Study_Buddy.Resource.Styleable.MenuView_android_headerBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_horizontalDivider = global::Study_Buddy.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemBackground = global::Study_Buddy.Resource.Styleable.MenuView_android_itemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Study_Buddy.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_itemTextAppearance = global::Study_Buddy.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_verticalDivider = global::Study_Buddy.Resource.Styleable.MenuView_android_verticalDivider;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Study_Buddy.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_preserveIconSpacing = global::Study_Buddy.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.MenuView_subMenuArrow = global::Study_Buddy.Resource.Styleable.MenuView_subMenuArrow;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView = global::Study_Buddy.Resource.Styleable.NavigationView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_background = global::Study_Buddy.Resource.Styleable.NavigationView_android_background;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Study_Buddy.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_android_maxWidth = global::Study_Buddy.Resource.Styleable.NavigationView_android_maxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_elevation = global::Study_Buddy.Resource.Styleable.NavigationView_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_headerLayout = global::Study_Buddy.Resource.Styleable.NavigationView_headerLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemBackground = global::Study_Buddy.Resource.Styleable.NavigationView_itemBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Study_Buddy.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemIconPadding = global::Study_Buddy.Resource.Styleable.NavigationView_itemIconPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemIconTint = global::Study_Buddy.Resource.Styleable.NavigationView_itemIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemTextAppearance = global::Study_Buddy.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_itemTextColor = global::Study_Buddy.Resource.Styleable.NavigationView_itemTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.NavigationView_menu = global::Study_Buddy.Resource.Styleable.NavigationView_menu;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow = global::Study_Buddy.Resource.Styleable.PopupWindow;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindowBackgroundState = global::Study_Buddy.Resource.Styleable.PopupWindowBackgroundState;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Study_Buddy.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Study_Buddy.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_android_popupBackground = global::Study_Buddy.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.PopupWindow_overlapAnchor = global::Study_Buddy.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView = global::Study_Buddy.Resource.Styleable.RecycleListView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Study_Buddy.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Study_Buddy.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView = global::Study_Buddy.Resource.Styleable.RecyclerView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Study_Buddy.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_android_orientation = global::Study_Buddy.Resource.Styleable.RecyclerView_android_orientation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Study_Buddy.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_layoutManager = global::Study_Buddy.Resource.Styleable.RecyclerView_layoutManager;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_reverseLayout = global::Study_Buddy.Resource.Styleable.RecyclerView_reverseLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_spanCount = global::Study_Buddy.Resource.Styleable.RecyclerView_spanCount;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.RecyclerView_stackFromEnd = global::Study_Buddy.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrimInsetsFrameLayout = global::Study_Buddy.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Study_Buddy.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrollingViewBehavior_Layout = global::Study_Buddy.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Study_Buddy.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView = global::Study_Buddy.Resource.Styleable.SearchView;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_focusable = global::Study_Buddy.Resource.Styleable.SearchView_android_focusable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_imeOptions = global::Study_Buddy.Resource.Styleable.SearchView_android_imeOptions;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_inputType = global::Study_Buddy.Resource.Styleable.SearchView_android_inputType;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_android_maxWidth = global::Study_Buddy.Resource.Styleable.SearchView_android_maxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_closeIcon = global::Study_Buddy.Resource.Styleable.SearchView_closeIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_commitIcon = global::Study_Buddy.Resource.Styleable.SearchView_commitIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_defaultQueryHint = global::Study_Buddy.Resource.Styleable.SearchView_defaultQueryHint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_goIcon = global::Study_Buddy.Resource.Styleable.SearchView_goIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_iconifiedByDefault = global::Study_Buddy.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_layout = global::Study_Buddy.Resource.Styleable.SearchView_layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_queryBackground = global::Study_Buddy.Resource.Styleable.SearchView_queryBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_queryHint = global::Study_Buddy.Resource.Styleable.SearchView_queryHint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_searchHintIcon = global::Study_Buddy.Resource.Styleable.SearchView_searchHintIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_searchIcon = global::Study_Buddy.Resource.Styleable.SearchView_searchIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_submitBackground = global::Study_Buddy.Resource.Styleable.SearchView_submitBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_suggestionRowLayout = global::Study_Buddy.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SearchView_voiceIcon = global::Study_Buddy.Resource.Styleable.SearchView_voiceIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar = global::Study_Buddy.Resource.Styleable.Snackbar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout = global::Study_Buddy.Resource.Styleable.SnackbarLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Study_Buddy.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_elevation = global::Study_Buddy.Resource.Styleable.SnackbarLayout_elevation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Study_Buddy.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Study_Buddy.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Snackbar_snackbarStyle = global::Study_Buddy.Resource.Styleable.Snackbar_snackbarStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner = global::Study_Buddy.Resource.Styleable.Spinner;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_dropDownWidth = global::Study_Buddy.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_entries = global::Study_Buddy.Resource.Styleable.Spinner_android_entries;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_popupBackground = global::Study_Buddy.Resource.Styleable.Spinner_android_popupBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_android_prompt = global::Study_Buddy.Resource.Styleable.Spinner_android_prompt;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Spinner_popupTheme = global::Study_Buddy.Resource.Styleable.Spinner_popupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable = global::Study_Buddy.Resource.Styleable.StateListDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawableItem = global::Study_Buddy.Resource.Styleable.StateListDrawableItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawableItem_android_drawable = global::Study_Buddy.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_constantSize = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_dither = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_dither;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_variablePadding = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.StateListDrawable_android_visible = global::Study_Buddy.Resource.Styleable.StateListDrawable_android_visible;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat = global::Study_Buddy.Resource.Styleable.SwitchCompat;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_textOff = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_textOff;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_textOn = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_textOn;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_android_thumb = global::Study_Buddy.Resource.Styleable.SwitchCompat_android_thumb;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_showText = global::Study_Buddy.Resource.Styleable.SwitchCompat_showText;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_splitTrack = global::Study_Buddy.Resource.Styleable.SwitchCompat_splitTrack;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchMinWidth = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchPadding = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Study_Buddy.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTint = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_thumbTintMode = global::Study_Buddy.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_track = global::Study_Buddy.Resource.Styleable.SwitchCompat_track;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_trackTint = global::Study_Buddy.Resource.Styleable.SwitchCompat_trackTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.SwitchCompat_trackTintMode = global::Study_Buddy.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem = global::Study_Buddy.Resource.Styleable.TabItem;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_icon = global::Study_Buddy.Resource.Styleable.TabItem_android_icon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_layout = global::Study_Buddy.Resource.Styleable.TabItem_android_layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabItem_android_text = global::Study_Buddy.Resource.Styleable.TabItem_android_text;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout = global::Study_Buddy.Resource.Styleable.TabLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabBackground = global::Study_Buddy.Resource.Styleable.TabLayout_tabBackground;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabContentStart = global::Study_Buddy.Resource.Styleable.TabLayout_tabContentStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabGravity = global::Study_Buddy.Resource.Styleable.TabLayout_tabGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIconTint = global::Study_Buddy.Resource.Styleable.TabLayout_tabIconTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIconTintMode = global::Study_Buddy.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicator = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicator;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Study_Buddy.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabInlineLabel = global::Study_Buddy.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMaxWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMinWidth = global::Study_Buddy.Resource.Styleable.TabLayout_tabMinWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabMode = global::Study_Buddy.Resource.Styleable.TabLayout_tabMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPadding = global::Study_Buddy.Resource.Styleable.TabLayout_tabPadding;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingBottom = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingEnd = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingStart = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabPaddingTop = global::Study_Buddy.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabRippleColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabRippleColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabTextAppearance = global::Study_Buddy.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabTextColor = global::Study_Buddy.Resource.Styleable.TabLayout_tabTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Study_Buddy.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance = global::Study_Buddy.Resource.Styleable.TextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_fontFamily = global::Study_Buddy.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowColor = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowDx = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowDy = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_shadowRadius = global::Study_Buddy.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColor = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColorHint = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textColorLink = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textSize = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textSize;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_textStyle = global::Study_Buddy.Resource.Styleable.TextAppearance_android_textStyle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_android_typeface = global::Study_Buddy.Resource.Styleable.TextAppearance_android_typeface;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_fontFamily = global::Study_Buddy.Resource.Styleable.TextAppearance_fontFamily;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextAppearance_textAllCaps = global::Study_Buddy.Resource.Styleable.TextAppearance_textAllCaps;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout = global::Study_Buddy.Resource.Styleable.TextInputLayout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_android_hint = global::Study_Buddy.Resource.Styleable.TextInputLayout_android_hint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_android_textColorHint = global::Study_Buddy.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Study_Buddy.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterMaxLength = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_errorEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperText = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperText;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Study_Buddy.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Study_Buddy.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement = global::Study_Buddy.Resource.Styleable.ThemeEnforcement;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Study_Buddy.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar = global::Study_Buddy.Resource.Styleable.Toolbar;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_android_gravity = global::Study_Buddy.Resource.Styleable.Toolbar_android_gravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_android_minHeight = global::Study_Buddy.Resource.Styleable.Toolbar_android_minHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_buttonGravity = global::Study_Buddy.Resource.Styleable.Toolbar_buttonGravity;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_collapseContentDescription = global::Study_Buddy.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_collapseIcon = global::Study_Buddy.Resource.Styleable.Toolbar_collapseIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetEnd = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetLeft = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetRight = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetRight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetStart = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Study_Buddy.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_logo = global::Study_Buddy.Resource.Styleable.Toolbar_logo;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_logoDescription = global::Study_Buddy.Resource.Styleable.Toolbar_logoDescription;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_maxButtonHeight = global::Study_Buddy.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_navigationContentDescription = global::Study_Buddy.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_navigationIcon = global::Study_Buddy.Resource.Styleable.Toolbar_navigationIcon;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_popupTheme = global::Study_Buddy.Resource.Styleable.Toolbar_popupTheme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitle = global::Study_Buddy.Resource.Styleable.Toolbar_subtitle;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Study_Buddy.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_subtitleTextColor = global::Study_Buddy.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_title = global::Study_Buddy.Resource.Styleable.Toolbar_title;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMargin = global::Study_Buddy.Resource.Styleable.Toolbar_titleMargin;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginBottom = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginEnd = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMargins = global::Study_Buddy.Resource.Styleable.Toolbar_titleMargins;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginStart = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleMarginTop = global::Study_Buddy.Resource.Styleable.Toolbar_titleMarginTop;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleTextAppearance = global::Study_Buddy.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.Toolbar_titleTextColor = global::Study_Buddy.Resource.Styleable.Toolbar_titleTextColor;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View = global::Study_Buddy.Resource.Styleable.View;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_android_background = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Study_Buddy.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat = global::Study_Buddy.Resource.Styleable.ViewStubCompat;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_id = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_id;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.ViewStubCompat_android_layout = global::Study_Buddy.Resource.Styleable.ViewStubCompat_android_layout;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View_android_focusable = global::Study_Buddy.Resource.Styleable.View_android_focusable;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View_android_theme = global::Study_Buddy.Resource.Styleable.View_android_theme;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View_paddingEnd = global::Study_Buddy.Resource.Styleable.View_paddingEnd;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View_paddingStart = global::Study_Buddy.Resource.Styleable.View_paddingStart;
+			global::SkiaSharp.Views.Forms.Resource.Styleable.View_theme = global::Study_Buddy.Resource.Styleable.View_theme;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Study_Buddy.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Study_Buddy.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Study_Buddy.Resource.Attribute.font;
@@ -368,6 +5526,7 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::Study_Buddy.Resource.Attribute.collapsedTitleGravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.collapsedTitleTextAppearance;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::Study_Buddy.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collectionViewStyle = global::Study_Buddy.Resource.Attribute.collectionViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::Study_Buddy.Resource.Attribute.color;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::Study_Buddy.Resource.Attribute.colorAccent;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::Study_Buddy.Resource.Attribute.colorBackgroundFloating;
@@ -1510,6 +6669,7 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::Study_Buddy.Resource.String.fab_transformation_sheet_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::Study_Buddy.Resource.String.hide_bottom_view_on_scroll_behavior;
 			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::Study_Buddy.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.overflow_tab_title = global::Study_Buddy.Resource.String.overflow_tab_title;
 			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::Study_Buddy.Resource.String.password_toggle_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::Study_Buddy.Resource.String.path_password_eye;
 			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::Study_Buddy.Resource.String.path_password_eye_mask_strike_through;
@@ -1715,7 +6875,8 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::Study_Buddy.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::Study_Buddy.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::Study_Buddy.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::Study_Buddy.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewScrollBars = global::Study_Buddy.Resource.Style.collectionViewScrollBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewTheme = global::Study_Buddy.Resource.Style.collectionViewTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.MainTheme = global::Study_Buddy.Resource.Style.MainTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.MainTheme_Base = global::Study_Buddy.Resource.Style.MainTheme_Base;
 			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::Study_Buddy.Resource.Style.Platform_AppCompat;
@@ -2446,6 +7607,8 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::Study_Buddy.Resource.Styleable.GradientColor_android_startY;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::Study_Buddy.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::Study_Buddy.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ItemsViewRendererTheme = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -2933,6 +8096,7 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleGravity = global::Study_Buddy.Resource.Attribute.collapsedTitleGravity;
 			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleTextAppearance = global::Study_Buddy.Resource.Attribute.collapsedTitleTextAppearance;
 			global::Xamarin.Forms.Platform.Resource.Attribute.collapseIcon = global::Study_Buddy.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collectionViewStyle = global::Study_Buddy.Resource.Attribute.collectionViewStyle;
 			global::Xamarin.Forms.Platform.Resource.Attribute.color = global::Study_Buddy.Resource.Attribute.color;
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorAccent = global::Study_Buddy.Resource.Attribute.colorAccent;
 			global::Xamarin.Forms.Platform.Resource.Attribute.colorBackgroundFloating = global::Study_Buddy.Resource.Attribute.colorBackgroundFloating;
@@ -4075,6 +9239,7 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Resource.String.fab_transformation_sheet_behavior = global::Study_Buddy.Resource.String.fab_transformation_sheet_behavior;
 			global::Xamarin.Forms.Platform.Resource.String.hide_bottom_view_on_scroll_behavior = global::Study_Buddy.Resource.String.hide_bottom_view_on_scroll_behavior;
 			global::Xamarin.Forms.Platform.Resource.String.mtrl_chip_close_icon_content_description = global::Study_Buddy.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.overflow_tab_title = global::Study_Buddy.Resource.String.overflow_tab_title;
 			global::Xamarin.Forms.Platform.Resource.String.password_toggle_content_description = global::Study_Buddy.Resource.String.password_toggle_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.path_password_eye = global::Study_Buddy.Resource.String.path_password_eye;
 			global::Xamarin.Forms.Platform.Resource.String.path_password_eye_mask_strike_through = global::Study_Buddy.Resource.String.path_password_eye_mask_strike_through;
@@ -4280,7 +9445,8 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Resource.Style.CardView = global::Study_Buddy.Resource.Style.CardView;
 			global::Xamarin.Forms.Platform.Resource.Style.CardView_Dark = global::Study_Buddy.Resource.Style.CardView_Dark;
 			global::Xamarin.Forms.Platform.Resource.Style.CardView_Light = global::Study_Buddy.Resource.Style.CardView_Light;
-			global::Xamarin.Forms.Platform.Resource.Style.collectionViewStyle = global::Study_Buddy.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Style.collectionViewScrollBars = global::Study_Buddy.Resource.Style.collectionViewScrollBars;
+			global::Xamarin.Forms.Platform.Resource.Style.collectionViewTheme = global::Study_Buddy.Resource.Style.collectionViewTheme;
 			global::Xamarin.Forms.Platform.Resource.Style.MainTheme = global::Study_Buddy.Resource.Style.MainTheme;
 			global::Xamarin.Forms.Platform.Resource.Style.MainTheme_Base = global::Study_Buddy.Resource.Style.MainTheme_Base;
 			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat = global::Study_Buddy.Resource.Style.Platform_AppCompat;
@@ -5011,6 +10177,8 @@ namespace Study_Buddy
 			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startY = global::Study_Buddy.Resource.Styleable.GradientColor_android_startY;
 			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_tileMode = global::Study_Buddy.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_type = global::Study_Buddy.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ItemsViewRendererTheme = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::Study_Buddy.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
 			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat;
 			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Study_Buddy.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -5852,1042 +11020,1045 @@ namespace Study_Buddy
 			public const int collapseIcon = 2130903168;
 			
 			// aapt resource value: 0x7F030083
-			public const int color = 2130903171;
+			public const int collectionViewStyle = 2130903171;
 			
 			// aapt resource value: 0x7F030084
-			public const int colorAccent = 2130903172;
+			public const int color = 2130903172;
 			
 			// aapt resource value: 0x7F030085
-			public const int colorBackgroundFloating = 2130903173;
+			public const int colorAccent = 2130903173;
 			
 			// aapt resource value: 0x7F030086
-			public const int colorButtonNormal = 2130903174;
+			public const int colorBackgroundFloating = 2130903174;
 			
 			// aapt resource value: 0x7F030087
-			public const int colorControlActivated = 2130903175;
+			public const int colorButtonNormal = 2130903175;
 			
 			// aapt resource value: 0x7F030088
-			public const int colorControlHighlight = 2130903176;
+			public const int colorControlActivated = 2130903176;
 			
 			// aapt resource value: 0x7F030089
-			public const int colorControlNormal = 2130903177;
+			public const int colorControlHighlight = 2130903177;
 			
 			// aapt resource value: 0x7F03008A
-			public const int colorError = 2130903178;
+			public const int colorControlNormal = 2130903178;
 			
 			// aapt resource value: 0x7F03008B
-			public const int colorPrimary = 2130903179;
+			public const int colorError = 2130903179;
 			
 			// aapt resource value: 0x7F03008C
-			public const int colorPrimaryDark = 2130903180;
+			public const int colorPrimary = 2130903180;
 			
 			// aapt resource value: 0x7F03008D
-			public const int colorSecondary = 2130903181;
+			public const int colorPrimaryDark = 2130903181;
 			
 			// aapt resource value: 0x7F03008E
-			public const int colorSwitchThumbNormal = 2130903182;
+			public const int colorSecondary = 2130903182;
 			
 			// aapt resource value: 0x7F03008F
-			public const int commitIcon = 2130903183;
+			public const int colorSwitchThumbNormal = 2130903183;
 			
 			// aapt resource value: 0x7F030090
-			public const int contentDescription = 2130903184;
+			public const int commitIcon = 2130903184;
 			
 			// aapt resource value: 0x7F030091
-			public const int contentInsetEnd = 2130903185;
+			public const int contentDescription = 2130903185;
 			
 			// aapt resource value: 0x7F030092
-			public const int contentInsetEndWithActions = 2130903186;
+			public const int contentInsetEnd = 2130903186;
 			
 			// aapt resource value: 0x7F030093
-			public const int contentInsetLeft = 2130903187;
+			public const int contentInsetEndWithActions = 2130903187;
 			
 			// aapt resource value: 0x7F030094
-			public const int contentInsetRight = 2130903188;
+			public const int contentInsetLeft = 2130903188;
 			
 			// aapt resource value: 0x7F030095
-			public const int contentInsetStart = 2130903189;
+			public const int contentInsetRight = 2130903189;
 			
 			// aapt resource value: 0x7F030096
-			public const int contentInsetStartWithNavigation = 2130903190;
+			public const int contentInsetStart = 2130903190;
 			
 			// aapt resource value: 0x7F030097
-			public const int contentPadding = 2130903191;
+			public const int contentInsetStartWithNavigation = 2130903191;
 			
 			// aapt resource value: 0x7F030098
-			public const int contentPaddingBottom = 2130903192;
+			public const int contentPadding = 2130903192;
 			
 			// aapt resource value: 0x7F030099
-			public const int contentPaddingLeft = 2130903193;
+			public const int contentPaddingBottom = 2130903193;
 			
 			// aapt resource value: 0x7F03009A
-			public const int contentPaddingRight = 2130903194;
+			public const int contentPaddingLeft = 2130903194;
 			
 			// aapt resource value: 0x7F03009B
-			public const int contentPaddingTop = 2130903195;
+			public const int contentPaddingRight = 2130903195;
 			
 			// aapt resource value: 0x7F03009C
-			public const int contentScrim = 2130903196;
+			public const int contentPaddingTop = 2130903196;
 			
 			// aapt resource value: 0x7F03009D
-			public const int controlBackground = 2130903197;
+			public const int contentScrim = 2130903197;
 			
 			// aapt resource value: 0x7F03009E
-			public const int coordinatorLayoutStyle = 2130903198;
+			public const int controlBackground = 2130903198;
 			
 			// aapt resource value: 0x7F03009F
-			public const int cornerRadius = 2130903199;
+			public const int coordinatorLayoutStyle = 2130903199;
 			
 			// aapt resource value: 0x7F0300A0
-			public const int counterEnabled = 2130903200;
+			public const int cornerRadius = 2130903200;
 			
 			// aapt resource value: 0x7F0300A1
-			public const int counterMaxLength = 2130903201;
+			public const int counterEnabled = 2130903201;
 			
 			// aapt resource value: 0x7F0300A2
-			public const int counterOverflowTextAppearance = 2130903202;
+			public const int counterMaxLength = 2130903202;
 			
 			// aapt resource value: 0x7F0300A3
-			public const int counterTextAppearance = 2130903203;
+			public const int counterOverflowTextAppearance = 2130903203;
 			
 			// aapt resource value: 0x7F0300A4
-			public const int customNavigationLayout = 2130903204;
+			public const int counterTextAppearance = 2130903204;
 			
 			// aapt resource value: 0x7F0300A5
-			public const int defaultQueryHint = 2130903205;
+			public const int customNavigationLayout = 2130903205;
 			
 			// aapt resource value: 0x7F0300A6
-			public const int dialogCornerRadius = 2130903206;
+			public const int defaultQueryHint = 2130903206;
 			
 			// aapt resource value: 0x7F0300A7
-			public const int dialogPreferredPadding = 2130903207;
+			public const int dialogCornerRadius = 2130903207;
 			
 			// aapt resource value: 0x7F0300A8
-			public const int dialogTheme = 2130903208;
+			public const int dialogPreferredPadding = 2130903208;
 			
 			// aapt resource value: 0x7F0300A9
-			public const int displayOptions = 2130903209;
+			public const int dialogTheme = 2130903209;
 			
 			// aapt resource value: 0x7F0300AA
-			public const int divider = 2130903210;
+			public const int displayOptions = 2130903210;
 			
 			// aapt resource value: 0x7F0300AB
-			public const int dividerHorizontal = 2130903211;
+			public const int divider = 2130903211;
 			
 			// aapt resource value: 0x7F0300AC
-			public const int dividerPadding = 2130903212;
+			public const int dividerHorizontal = 2130903212;
 			
 			// aapt resource value: 0x7F0300AD
-			public const int dividerVertical = 2130903213;
+			public const int dividerPadding = 2130903213;
 			
 			// aapt resource value: 0x7F0300AE
-			public const int drawableSize = 2130903214;
+			public const int dividerVertical = 2130903214;
 			
 			// aapt resource value: 0x7F0300AF
-			public const int drawerArrowStyle = 2130903215;
-			
-			// aapt resource value: 0x7F0300B1
-			public const int dropdownListPreferredItemHeight = 2130903217;
+			public const int drawableSize = 2130903215;
 			
 			// aapt resource value: 0x7F0300B0
-			public const int dropDownListViewStyle = 2130903216;
+			public const int drawerArrowStyle = 2130903216;
 			
 			// aapt resource value: 0x7F0300B2
-			public const int editTextBackground = 2130903218;
+			public const int dropdownListPreferredItemHeight = 2130903218;
+			
+			// aapt resource value: 0x7F0300B1
+			public const int dropDownListViewStyle = 2130903217;
 			
 			// aapt resource value: 0x7F0300B3
-			public const int editTextColor = 2130903219;
+			public const int editTextBackground = 2130903219;
 			
 			// aapt resource value: 0x7F0300B4
-			public const int editTextStyle = 2130903220;
+			public const int editTextColor = 2130903220;
 			
 			// aapt resource value: 0x7F0300B5
-			public const int elevation = 2130903221;
+			public const int editTextStyle = 2130903221;
 			
 			// aapt resource value: 0x7F0300B6
-			public const int enforceMaterialTheme = 2130903222;
+			public const int elevation = 2130903222;
 			
 			// aapt resource value: 0x7F0300B7
-			public const int enforceTextAppearance = 2130903223;
+			public const int enforceMaterialTheme = 2130903223;
 			
 			// aapt resource value: 0x7F0300B8
-			public const int errorEnabled = 2130903224;
+			public const int enforceTextAppearance = 2130903224;
 			
 			// aapt resource value: 0x7F0300B9
-			public const int errorTextAppearance = 2130903225;
+			public const int errorEnabled = 2130903225;
 			
 			// aapt resource value: 0x7F0300BA
-			public const int expandActivityOverflowButtonDrawable = 2130903226;
+			public const int errorTextAppearance = 2130903226;
 			
 			// aapt resource value: 0x7F0300BB
-			public const int expanded = 2130903227;
+			public const int expandActivityOverflowButtonDrawable = 2130903227;
 			
 			// aapt resource value: 0x7F0300BC
-			public const int expandedTitleGravity = 2130903228;
+			public const int expanded = 2130903228;
 			
 			// aapt resource value: 0x7F0300BD
-			public const int expandedTitleMargin = 2130903229;
+			public const int expandedTitleGravity = 2130903229;
 			
 			// aapt resource value: 0x7F0300BE
-			public const int expandedTitleMarginBottom = 2130903230;
+			public const int expandedTitleMargin = 2130903230;
 			
 			// aapt resource value: 0x7F0300BF
-			public const int expandedTitleMarginEnd = 2130903231;
+			public const int expandedTitleMarginBottom = 2130903231;
 			
 			// aapt resource value: 0x7F0300C0
-			public const int expandedTitleMarginStart = 2130903232;
+			public const int expandedTitleMarginEnd = 2130903232;
 			
 			// aapt resource value: 0x7F0300C1
-			public const int expandedTitleMarginTop = 2130903233;
+			public const int expandedTitleMarginStart = 2130903233;
 			
 			// aapt resource value: 0x7F0300C2
-			public const int expandedTitleTextAppearance = 2130903234;
+			public const int expandedTitleMarginTop = 2130903234;
 			
 			// aapt resource value: 0x7F0300C3
-			public const int fabAlignmentMode = 2130903235;
+			public const int expandedTitleTextAppearance = 2130903235;
 			
 			// aapt resource value: 0x7F0300C4
-			public const int fabCradleMargin = 2130903236;
+			public const int fabAlignmentMode = 2130903236;
 			
 			// aapt resource value: 0x7F0300C5
-			public const int fabCradleRoundedCornerRadius = 2130903237;
+			public const int fabCradleMargin = 2130903237;
 			
 			// aapt resource value: 0x7F0300C6
-			public const int fabCradleVerticalOffset = 2130903238;
+			public const int fabCradleRoundedCornerRadius = 2130903238;
 			
 			// aapt resource value: 0x7F0300C7
-			public const int fabCustomSize = 2130903239;
+			public const int fabCradleVerticalOffset = 2130903239;
 			
 			// aapt resource value: 0x7F0300C8
-			public const int fabSize = 2130903240;
+			public const int fabCustomSize = 2130903240;
 			
 			// aapt resource value: 0x7F0300C9
-			public const int fastScrollEnabled = 2130903241;
+			public const int fabSize = 2130903241;
 			
 			// aapt resource value: 0x7F0300CA
-			public const int fastScrollHorizontalThumbDrawable = 2130903242;
+			public const int fastScrollEnabled = 2130903242;
 			
 			// aapt resource value: 0x7F0300CB
-			public const int fastScrollHorizontalTrackDrawable = 2130903243;
+			public const int fastScrollHorizontalThumbDrawable = 2130903243;
 			
 			// aapt resource value: 0x7F0300CC
-			public const int fastScrollVerticalThumbDrawable = 2130903244;
+			public const int fastScrollHorizontalTrackDrawable = 2130903244;
 			
 			// aapt resource value: 0x7F0300CD
-			public const int fastScrollVerticalTrackDrawable = 2130903245;
+			public const int fastScrollVerticalThumbDrawable = 2130903245;
 			
 			// aapt resource value: 0x7F0300CE
-			public const int firstBaselineToTopHeight = 2130903246;
+			public const int fastScrollVerticalTrackDrawable = 2130903246;
 			
 			// aapt resource value: 0x7F0300CF
-			public const int floatingActionButtonStyle = 2130903247;
+			public const int firstBaselineToTopHeight = 2130903247;
 			
 			// aapt resource value: 0x7F0300D0
-			public const int font = 2130903248;
+			public const int floatingActionButtonStyle = 2130903248;
 			
 			// aapt resource value: 0x7F0300D1
-			public const int fontFamily = 2130903249;
+			public const int font = 2130903249;
 			
 			// aapt resource value: 0x7F0300D2
-			public const int fontProviderAuthority = 2130903250;
+			public const int fontFamily = 2130903250;
 			
 			// aapt resource value: 0x7F0300D3
-			public const int fontProviderCerts = 2130903251;
+			public const int fontProviderAuthority = 2130903251;
 			
 			// aapt resource value: 0x7F0300D4
-			public const int fontProviderFetchStrategy = 2130903252;
+			public const int fontProviderCerts = 2130903252;
 			
 			// aapt resource value: 0x7F0300D5
-			public const int fontProviderFetchTimeout = 2130903253;
+			public const int fontProviderFetchStrategy = 2130903253;
 			
 			// aapt resource value: 0x7F0300D6
-			public const int fontProviderPackage = 2130903254;
+			public const int fontProviderFetchTimeout = 2130903254;
 			
 			// aapt resource value: 0x7F0300D7
-			public const int fontProviderQuery = 2130903255;
+			public const int fontProviderPackage = 2130903255;
 			
 			// aapt resource value: 0x7F0300D8
-			public const int fontStyle = 2130903256;
+			public const int fontProviderQuery = 2130903256;
 			
 			// aapt resource value: 0x7F0300D9
-			public const int fontVariationSettings = 2130903257;
+			public const int fontStyle = 2130903257;
 			
 			// aapt resource value: 0x7F0300DA
-			public const int fontWeight = 2130903258;
+			public const int fontVariationSettings = 2130903258;
 			
 			// aapt resource value: 0x7F0300DB
-			public const int foregroundInsidePadding = 2130903259;
+			public const int fontWeight = 2130903259;
 			
 			// aapt resource value: 0x7F0300DC
-			public const int gapBetweenBars = 2130903260;
+			public const int foregroundInsidePadding = 2130903260;
 			
 			// aapt resource value: 0x7F0300DD
-			public const int goIcon = 2130903261;
+			public const int gapBetweenBars = 2130903261;
 			
 			// aapt resource value: 0x7F0300DE
-			public const int headerLayout = 2130903262;
+			public const int goIcon = 2130903262;
 			
 			// aapt resource value: 0x7F0300DF
-			public const int height = 2130903263;
+			public const int headerLayout = 2130903263;
 			
 			// aapt resource value: 0x7F0300E0
-			public const int helperText = 2130903264;
+			public const int height = 2130903264;
 			
 			// aapt resource value: 0x7F0300E1
-			public const int helperTextEnabled = 2130903265;
+			public const int helperText = 2130903265;
 			
 			// aapt resource value: 0x7F0300E2
-			public const int helperTextTextAppearance = 2130903266;
+			public const int helperTextEnabled = 2130903266;
 			
 			// aapt resource value: 0x7F0300E3
-			public const int hideMotionSpec = 2130903267;
+			public const int helperTextTextAppearance = 2130903267;
 			
 			// aapt resource value: 0x7F0300E4
-			public const int hideOnContentScroll = 2130903268;
+			public const int hideMotionSpec = 2130903268;
 			
 			// aapt resource value: 0x7F0300E5
-			public const int hideOnScroll = 2130903269;
+			public const int hideOnContentScroll = 2130903269;
 			
 			// aapt resource value: 0x7F0300E6
-			public const int hintAnimationEnabled = 2130903270;
+			public const int hideOnScroll = 2130903270;
 			
 			// aapt resource value: 0x7F0300E7
-			public const int hintEnabled = 2130903271;
+			public const int hintAnimationEnabled = 2130903271;
 			
 			// aapt resource value: 0x7F0300E8
-			public const int hintTextAppearance = 2130903272;
+			public const int hintEnabled = 2130903272;
 			
 			// aapt resource value: 0x7F0300E9
-			public const int homeAsUpIndicator = 2130903273;
+			public const int hintTextAppearance = 2130903273;
 			
 			// aapt resource value: 0x7F0300EA
-			public const int homeLayout = 2130903274;
+			public const int homeAsUpIndicator = 2130903274;
 			
 			// aapt resource value: 0x7F0300EB
-			public const int hoveredFocusedTranslationZ = 2130903275;
+			public const int homeLayout = 2130903275;
 			
 			// aapt resource value: 0x7F0300EC
-			public const int icon = 2130903276;
+			public const int hoveredFocusedTranslationZ = 2130903276;
 			
 			// aapt resource value: 0x7F0300ED
-			public const int iconEndPadding = 2130903277;
+			public const int icon = 2130903277;
 			
 			// aapt resource value: 0x7F0300EE
-			public const int iconGravity = 2130903278;
-			
-			// aapt resource value: 0x7F0300F4
-			public const int iconifiedByDefault = 2130903284;
+			public const int iconEndPadding = 2130903278;
 			
 			// aapt resource value: 0x7F0300EF
-			public const int iconPadding = 2130903279;
-			
-			// aapt resource value: 0x7F0300F0
-			public const int iconSize = 2130903280;
-			
-			// aapt resource value: 0x7F0300F1
-			public const int iconStartPadding = 2130903281;
-			
-			// aapt resource value: 0x7F0300F2
-			public const int iconTint = 2130903282;
-			
-			// aapt resource value: 0x7F0300F3
-			public const int iconTintMode = 2130903283;
+			public const int iconGravity = 2130903279;
 			
 			// aapt resource value: 0x7F0300F5
-			public const int imageButtonStyle = 2130903285;
+			public const int iconifiedByDefault = 2130903285;
+			
+			// aapt resource value: 0x7F0300F0
+			public const int iconPadding = 2130903280;
+			
+			// aapt resource value: 0x7F0300F1
+			public const int iconSize = 2130903281;
+			
+			// aapt resource value: 0x7F0300F2
+			public const int iconStartPadding = 2130903282;
+			
+			// aapt resource value: 0x7F0300F3
+			public const int iconTint = 2130903283;
+			
+			// aapt resource value: 0x7F0300F4
+			public const int iconTintMode = 2130903284;
 			
 			// aapt resource value: 0x7F0300F6
-			public const int indeterminateProgressStyle = 2130903286;
+			public const int imageButtonStyle = 2130903286;
 			
 			// aapt resource value: 0x7F0300F7
-			public const int initialActivityCount = 2130903287;
+			public const int indeterminateProgressStyle = 2130903287;
 			
 			// aapt resource value: 0x7F0300F8
-			public const int insetForeground = 2130903288;
+			public const int initialActivityCount = 2130903288;
 			
 			// aapt resource value: 0x7F0300F9
-			public const int isLightTheme = 2130903289;
+			public const int insetForeground = 2130903289;
 			
 			// aapt resource value: 0x7F0300FA
-			public const int itemBackground = 2130903290;
+			public const int isLightTheme = 2130903290;
 			
 			// aapt resource value: 0x7F0300FB
-			public const int itemHorizontalPadding = 2130903291;
+			public const int itemBackground = 2130903291;
 			
 			// aapt resource value: 0x7F0300FC
-			public const int itemHorizontalTranslationEnabled = 2130903292;
+			public const int itemHorizontalPadding = 2130903292;
 			
 			// aapt resource value: 0x7F0300FD
-			public const int itemIconPadding = 2130903293;
+			public const int itemHorizontalTranslationEnabled = 2130903293;
 			
 			// aapt resource value: 0x7F0300FE
-			public const int itemIconSize = 2130903294;
+			public const int itemIconPadding = 2130903294;
 			
 			// aapt resource value: 0x7F0300FF
-			public const int itemIconTint = 2130903295;
+			public const int itemIconSize = 2130903295;
 			
 			// aapt resource value: 0x7F030100
-			public const int itemPadding = 2130903296;
+			public const int itemIconTint = 2130903296;
 			
 			// aapt resource value: 0x7F030101
-			public const int itemSpacing = 2130903297;
+			public const int itemPadding = 2130903297;
 			
 			// aapt resource value: 0x7F030102
-			public const int itemTextAppearance = 2130903298;
+			public const int itemSpacing = 2130903298;
 			
 			// aapt resource value: 0x7F030103
-			public const int itemTextAppearanceActive = 2130903299;
+			public const int itemTextAppearance = 2130903299;
 			
 			// aapt resource value: 0x7F030104
-			public const int itemTextAppearanceInactive = 2130903300;
+			public const int itemTextAppearanceActive = 2130903300;
 			
 			// aapt resource value: 0x7F030105
-			public const int itemTextColor = 2130903301;
+			public const int itemTextAppearanceInactive = 2130903301;
 			
 			// aapt resource value: 0x7F030106
-			public const int keylines = 2130903302;
+			public const int itemTextColor = 2130903302;
 			
 			// aapt resource value: 0x7F030107
-			public const int labelVisibilityMode = 2130903303;
+			public const int keylines = 2130903303;
 			
 			// aapt resource value: 0x7F030108
-			public const int lastBaselineToBottomHeight = 2130903304;
+			public const int labelVisibilityMode = 2130903304;
 			
 			// aapt resource value: 0x7F030109
-			public const int layout = 2130903305;
+			public const int lastBaselineToBottomHeight = 2130903305;
 			
 			// aapt resource value: 0x7F03010A
-			public const int layoutManager = 2130903306;
+			public const int layout = 2130903306;
 			
 			// aapt resource value: 0x7F03010B
-			public const int layout_anchor = 2130903307;
+			public const int layoutManager = 2130903307;
 			
 			// aapt resource value: 0x7F03010C
-			public const int layout_anchorGravity = 2130903308;
+			public const int layout_anchor = 2130903308;
 			
 			// aapt resource value: 0x7F03010D
-			public const int layout_behavior = 2130903309;
+			public const int layout_anchorGravity = 2130903309;
 			
 			// aapt resource value: 0x7F03010E
-			public const int layout_collapseMode = 2130903310;
+			public const int layout_behavior = 2130903310;
 			
 			// aapt resource value: 0x7F03010F
-			public const int layout_collapseParallaxMultiplier = 2130903311;
+			public const int layout_collapseMode = 2130903311;
 			
 			// aapt resource value: 0x7F030110
-			public const int layout_dodgeInsetEdges = 2130903312;
+			public const int layout_collapseParallaxMultiplier = 2130903312;
 			
 			// aapt resource value: 0x7F030111
-			public const int layout_insetEdge = 2130903313;
+			public const int layout_dodgeInsetEdges = 2130903313;
 			
 			// aapt resource value: 0x7F030112
-			public const int layout_keyline = 2130903314;
+			public const int layout_insetEdge = 2130903314;
 			
 			// aapt resource value: 0x7F030113
-			public const int layout_scrollFlags = 2130903315;
+			public const int layout_keyline = 2130903315;
 			
 			// aapt resource value: 0x7F030114
-			public const int layout_scrollInterpolator = 2130903316;
+			public const int layout_scrollFlags = 2130903316;
 			
 			// aapt resource value: 0x7F030115
-			public const int liftOnScroll = 2130903317;
+			public const int layout_scrollInterpolator = 2130903317;
 			
 			// aapt resource value: 0x7F030116
-			public const int lineHeight = 2130903318;
+			public const int liftOnScroll = 2130903318;
 			
 			// aapt resource value: 0x7F030117
-			public const int lineSpacing = 2130903319;
+			public const int lineHeight = 2130903319;
 			
 			// aapt resource value: 0x7F030118
-			public const int listChoiceBackgroundIndicator = 2130903320;
+			public const int lineSpacing = 2130903320;
 			
 			// aapt resource value: 0x7F030119
-			public const int listDividerAlertDialog = 2130903321;
+			public const int listChoiceBackgroundIndicator = 2130903321;
 			
 			// aapt resource value: 0x7F03011A
-			public const int listItemLayout = 2130903322;
+			public const int listDividerAlertDialog = 2130903322;
 			
 			// aapt resource value: 0x7F03011B
-			public const int listLayout = 2130903323;
+			public const int listItemLayout = 2130903323;
 			
 			// aapt resource value: 0x7F03011C
-			public const int listMenuViewStyle = 2130903324;
+			public const int listLayout = 2130903324;
 			
 			// aapt resource value: 0x7F03011D
-			public const int listPopupWindowStyle = 2130903325;
+			public const int listMenuViewStyle = 2130903325;
 			
 			// aapt resource value: 0x7F03011E
-			public const int listPreferredItemHeight = 2130903326;
+			public const int listPopupWindowStyle = 2130903326;
 			
 			// aapt resource value: 0x7F03011F
-			public const int listPreferredItemHeightLarge = 2130903327;
+			public const int listPreferredItemHeight = 2130903327;
 			
 			// aapt resource value: 0x7F030120
-			public const int listPreferredItemHeightSmall = 2130903328;
+			public const int listPreferredItemHeightLarge = 2130903328;
 			
 			// aapt resource value: 0x7F030121
-			public const int listPreferredItemPaddingLeft = 2130903329;
+			public const int listPreferredItemHeightSmall = 2130903329;
 			
 			// aapt resource value: 0x7F030122
-			public const int listPreferredItemPaddingRight = 2130903330;
+			public const int listPreferredItemPaddingLeft = 2130903330;
 			
 			// aapt resource value: 0x7F030123
-			public const int logo = 2130903331;
+			public const int listPreferredItemPaddingRight = 2130903331;
 			
 			// aapt resource value: 0x7F030124
-			public const int logoDescription = 2130903332;
+			public const int logo = 2130903332;
 			
 			// aapt resource value: 0x7F030125
-			public const int materialButtonStyle = 2130903333;
+			public const int logoDescription = 2130903333;
 			
 			// aapt resource value: 0x7F030126
-			public const int materialCardViewStyle = 2130903334;
+			public const int materialButtonStyle = 2130903334;
 			
 			// aapt resource value: 0x7F030127
-			public const int maxActionInlineWidth = 2130903335;
+			public const int materialCardViewStyle = 2130903335;
 			
 			// aapt resource value: 0x7F030128
-			public const int maxButtonHeight = 2130903336;
+			public const int maxActionInlineWidth = 2130903336;
 			
 			// aapt resource value: 0x7F030129
-			public const int maxImageSize = 2130903337;
+			public const int maxButtonHeight = 2130903337;
 			
 			// aapt resource value: 0x7F03012A
-			public const int measureWithLargestChild = 2130903338;
+			public const int maxImageSize = 2130903338;
 			
 			// aapt resource value: 0x7F03012B
-			public const int menu = 2130903339;
+			public const int measureWithLargestChild = 2130903339;
 			
 			// aapt resource value: 0x7F03012C
-			public const int multiChoiceItemLayout = 2130903340;
+			public const int menu = 2130903340;
 			
 			// aapt resource value: 0x7F03012D
-			public const int navigationContentDescription = 2130903341;
+			public const int multiChoiceItemLayout = 2130903341;
 			
 			// aapt resource value: 0x7F03012E
-			public const int navigationIcon = 2130903342;
+			public const int navigationContentDescription = 2130903342;
 			
 			// aapt resource value: 0x7F03012F
-			public const int navigationMode = 2130903343;
+			public const int navigationIcon = 2130903343;
 			
 			// aapt resource value: 0x7F030130
-			public const int navigationViewStyle = 2130903344;
+			public const int navigationMode = 2130903344;
 			
 			// aapt resource value: 0x7F030131
-			public const int numericModifiers = 2130903345;
+			public const int navigationViewStyle = 2130903345;
 			
 			// aapt resource value: 0x7F030132
-			public const int overlapAnchor = 2130903346;
+			public const int numericModifiers = 2130903346;
 			
 			// aapt resource value: 0x7F030133
-			public const int paddingBottomNoButtons = 2130903347;
+			public const int overlapAnchor = 2130903347;
 			
 			// aapt resource value: 0x7F030134
-			public const int paddingEnd = 2130903348;
+			public const int paddingBottomNoButtons = 2130903348;
 			
 			// aapt resource value: 0x7F030135
-			public const int paddingStart = 2130903349;
+			public const int paddingEnd = 2130903349;
 			
 			// aapt resource value: 0x7F030136
-			public const int paddingTopNoTitle = 2130903350;
+			public const int paddingStart = 2130903350;
 			
 			// aapt resource value: 0x7F030137
-			public const int panelBackground = 2130903351;
+			public const int paddingTopNoTitle = 2130903351;
 			
 			// aapt resource value: 0x7F030138
-			public const int panelMenuListTheme = 2130903352;
+			public const int panelBackground = 2130903352;
 			
 			// aapt resource value: 0x7F030139
-			public const int panelMenuListWidth = 2130903353;
+			public const int panelMenuListTheme = 2130903353;
 			
 			// aapt resource value: 0x7F03013A
-			public const int passwordToggleContentDescription = 2130903354;
+			public const int panelMenuListWidth = 2130903354;
 			
 			// aapt resource value: 0x7F03013B
-			public const int passwordToggleDrawable = 2130903355;
+			public const int passwordToggleContentDescription = 2130903355;
 			
 			// aapt resource value: 0x7F03013C
-			public const int passwordToggleEnabled = 2130903356;
+			public const int passwordToggleDrawable = 2130903356;
 			
 			// aapt resource value: 0x7F03013D
-			public const int passwordToggleTint = 2130903357;
+			public const int passwordToggleEnabled = 2130903357;
 			
 			// aapt resource value: 0x7F03013E
-			public const int passwordToggleTintMode = 2130903358;
+			public const int passwordToggleTint = 2130903358;
 			
 			// aapt resource value: 0x7F03013F
-			public const int popupMenuStyle = 2130903359;
+			public const int passwordToggleTintMode = 2130903359;
 			
 			// aapt resource value: 0x7F030140
-			public const int popupTheme = 2130903360;
+			public const int popupMenuStyle = 2130903360;
 			
 			// aapt resource value: 0x7F030141
-			public const int popupWindowStyle = 2130903361;
+			public const int popupTheme = 2130903361;
 			
 			// aapt resource value: 0x7F030142
-			public const int preserveIconSpacing = 2130903362;
+			public const int popupWindowStyle = 2130903362;
 			
 			// aapt resource value: 0x7F030143
-			public const int pressedTranslationZ = 2130903363;
+			public const int preserveIconSpacing = 2130903363;
 			
 			// aapt resource value: 0x7F030144
-			public const int progressBarPadding = 2130903364;
+			public const int pressedTranslationZ = 2130903364;
 			
 			// aapt resource value: 0x7F030145
-			public const int progressBarStyle = 2130903365;
+			public const int progressBarPadding = 2130903365;
 			
 			// aapt resource value: 0x7F030146
-			public const int queryBackground = 2130903366;
+			public const int progressBarStyle = 2130903366;
 			
 			// aapt resource value: 0x7F030147
-			public const int queryHint = 2130903367;
+			public const int queryBackground = 2130903367;
 			
 			// aapt resource value: 0x7F030148
-			public const int radioButtonStyle = 2130903368;
+			public const int queryHint = 2130903368;
 			
 			// aapt resource value: 0x7F030149
-			public const int ratingBarStyle = 2130903369;
+			public const int radioButtonStyle = 2130903369;
 			
 			// aapt resource value: 0x7F03014A
-			public const int ratingBarStyleIndicator = 2130903370;
+			public const int ratingBarStyle = 2130903370;
 			
 			// aapt resource value: 0x7F03014B
-			public const int ratingBarStyleSmall = 2130903371;
+			public const int ratingBarStyleIndicator = 2130903371;
 			
 			// aapt resource value: 0x7F03014C
-			public const int reverseLayout = 2130903372;
+			public const int ratingBarStyleSmall = 2130903372;
 			
 			// aapt resource value: 0x7F03014D
-			public const int rippleColor = 2130903373;
+			public const int reverseLayout = 2130903373;
 			
 			// aapt resource value: 0x7F03014E
-			public const int scrimAnimationDuration = 2130903374;
+			public const int rippleColor = 2130903374;
 			
 			// aapt resource value: 0x7F03014F
-			public const int scrimBackground = 2130903375;
+			public const int scrimAnimationDuration = 2130903375;
 			
 			// aapt resource value: 0x7F030150
-			public const int scrimVisibleHeightTrigger = 2130903376;
+			public const int scrimBackground = 2130903376;
 			
 			// aapt resource value: 0x7F030151
-			public const int searchHintIcon = 2130903377;
+			public const int scrimVisibleHeightTrigger = 2130903377;
 			
 			// aapt resource value: 0x7F030152
-			public const int searchIcon = 2130903378;
+			public const int searchHintIcon = 2130903378;
 			
 			// aapt resource value: 0x7F030153
-			public const int searchViewStyle = 2130903379;
+			public const int searchIcon = 2130903379;
 			
 			// aapt resource value: 0x7F030154
-			public const int seekBarStyle = 2130903380;
+			public const int searchViewStyle = 2130903380;
 			
 			// aapt resource value: 0x7F030155
-			public const int selectableItemBackground = 2130903381;
+			public const int seekBarStyle = 2130903381;
 			
 			// aapt resource value: 0x7F030156
-			public const int selectableItemBackgroundBorderless = 2130903382;
+			public const int selectableItemBackground = 2130903382;
 			
 			// aapt resource value: 0x7F030157
-			public const int showAsAction = 2130903383;
+			public const int selectableItemBackgroundBorderless = 2130903383;
 			
 			// aapt resource value: 0x7F030158
-			public const int showDividers = 2130903384;
+			public const int showAsAction = 2130903384;
 			
 			// aapt resource value: 0x7F030159
-			public const int showMotionSpec = 2130903385;
+			public const int showDividers = 2130903385;
 			
 			// aapt resource value: 0x7F03015A
-			public const int showText = 2130903386;
+			public const int showMotionSpec = 2130903386;
 			
 			// aapt resource value: 0x7F03015B
-			public const int showTitle = 2130903387;
+			public const int showText = 2130903387;
 			
 			// aapt resource value: 0x7F03015C
-			public const int singleChoiceItemLayout = 2130903388;
+			public const int showTitle = 2130903388;
 			
 			// aapt resource value: 0x7F03015D
-			public const int singleLine = 2130903389;
+			public const int singleChoiceItemLayout = 2130903389;
 			
 			// aapt resource value: 0x7F03015E
-			public const int singleSelection = 2130903390;
+			public const int singleLine = 2130903390;
 			
 			// aapt resource value: 0x7F03015F
-			public const int snackbarButtonStyle = 2130903391;
+			public const int singleSelection = 2130903391;
 			
 			// aapt resource value: 0x7F030160
-			public const int snackbarStyle = 2130903392;
+			public const int snackbarButtonStyle = 2130903392;
 			
 			// aapt resource value: 0x7F030161
-			public const int spanCount = 2130903393;
+			public const int snackbarStyle = 2130903393;
 			
 			// aapt resource value: 0x7F030162
-			public const int spinBars = 2130903394;
+			public const int spanCount = 2130903394;
 			
 			// aapt resource value: 0x7F030163
-			public const int spinnerDropDownItemStyle = 2130903395;
+			public const int spinBars = 2130903395;
 			
 			// aapt resource value: 0x7F030164
-			public const int spinnerStyle = 2130903396;
+			public const int spinnerDropDownItemStyle = 2130903396;
 			
 			// aapt resource value: 0x7F030165
-			public const int splitTrack = 2130903397;
+			public const int spinnerStyle = 2130903397;
 			
 			// aapt resource value: 0x7F030166
-			public const int srcCompat = 2130903398;
+			public const int splitTrack = 2130903398;
 			
 			// aapt resource value: 0x7F030167
-			public const int stackFromEnd = 2130903399;
+			public const int srcCompat = 2130903399;
 			
 			// aapt resource value: 0x7F030168
-			public const int state_above_anchor = 2130903400;
+			public const int stackFromEnd = 2130903400;
 			
 			// aapt resource value: 0x7F030169
-			public const int state_collapsed = 2130903401;
+			public const int state_above_anchor = 2130903401;
 			
 			// aapt resource value: 0x7F03016A
-			public const int state_collapsible = 2130903402;
+			public const int state_collapsed = 2130903402;
 			
 			// aapt resource value: 0x7F03016B
-			public const int state_liftable = 2130903403;
+			public const int state_collapsible = 2130903403;
 			
 			// aapt resource value: 0x7F03016C
-			public const int state_lifted = 2130903404;
+			public const int state_liftable = 2130903404;
 			
 			// aapt resource value: 0x7F03016D
-			public const int statusBarBackground = 2130903405;
+			public const int state_lifted = 2130903405;
 			
 			// aapt resource value: 0x7F03016E
-			public const int statusBarScrim = 2130903406;
+			public const int statusBarBackground = 2130903406;
 			
 			// aapt resource value: 0x7F03016F
-			public const int strokeColor = 2130903407;
+			public const int statusBarScrim = 2130903407;
 			
 			// aapt resource value: 0x7F030170
-			public const int strokeWidth = 2130903408;
+			public const int strokeColor = 2130903408;
 			
 			// aapt resource value: 0x7F030171
-			public const int subMenuArrow = 2130903409;
+			public const int strokeWidth = 2130903409;
 			
 			// aapt resource value: 0x7F030172
-			public const int submitBackground = 2130903410;
+			public const int subMenuArrow = 2130903410;
 			
 			// aapt resource value: 0x7F030173
-			public const int subtitle = 2130903411;
+			public const int submitBackground = 2130903411;
 			
 			// aapt resource value: 0x7F030174
-			public const int subtitleTextAppearance = 2130903412;
+			public const int subtitle = 2130903412;
 			
 			// aapt resource value: 0x7F030175
-			public const int subtitleTextColor = 2130903413;
+			public const int subtitleTextAppearance = 2130903413;
 			
 			// aapt resource value: 0x7F030176
-			public const int subtitleTextStyle = 2130903414;
+			public const int subtitleTextColor = 2130903414;
 			
 			// aapt resource value: 0x7F030177
-			public const int suggestionRowLayout = 2130903415;
+			public const int subtitleTextStyle = 2130903415;
 			
 			// aapt resource value: 0x7F030178
-			public const int switchMinWidth = 2130903416;
+			public const int suggestionRowLayout = 2130903416;
 			
 			// aapt resource value: 0x7F030179
-			public const int switchPadding = 2130903417;
+			public const int switchMinWidth = 2130903417;
 			
 			// aapt resource value: 0x7F03017A
-			public const int switchStyle = 2130903418;
+			public const int switchPadding = 2130903418;
 			
 			// aapt resource value: 0x7F03017B
-			public const int switchTextAppearance = 2130903419;
+			public const int switchStyle = 2130903419;
 			
 			// aapt resource value: 0x7F03017C
-			public const int tabBackground = 2130903420;
+			public const int switchTextAppearance = 2130903420;
 			
 			// aapt resource value: 0x7F03017D
-			public const int tabContentStart = 2130903421;
+			public const int tabBackground = 2130903421;
 			
 			// aapt resource value: 0x7F03017E
-			public const int tabGravity = 2130903422;
+			public const int tabContentStart = 2130903422;
 			
 			// aapt resource value: 0x7F03017F
-			public const int tabIconTint = 2130903423;
+			public const int tabGravity = 2130903423;
 			
 			// aapt resource value: 0x7F030180
-			public const int tabIconTintMode = 2130903424;
+			public const int tabIconTint = 2130903424;
 			
 			// aapt resource value: 0x7F030181
-			public const int tabIndicator = 2130903425;
+			public const int tabIconTintMode = 2130903425;
 			
 			// aapt resource value: 0x7F030182
-			public const int tabIndicatorAnimationDuration = 2130903426;
+			public const int tabIndicator = 2130903426;
 			
 			// aapt resource value: 0x7F030183
-			public const int tabIndicatorColor = 2130903427;
+			public const int tabIndicatorAnimationDuration = 2130903427;
 			
 			// aapt resource value: 0x7F030184
-			public const int tabIndicatorFullWidth = 2130903428;
+			public const int tabIndicatorColor = 2130903428;
 			
 			// aapt resource value: 0x7F030185
-			public const int tabIndicatorGravity = 2130903429;
+			public const int tabIndicatorFullWidth = 2130903429;
 			
 			// aapt resource value: 0x7F030186
-			public const int tabIndicatorHeight = 2130903430;
+			public const int tabIndicatorGravity = 2130903430;
 			
 			// aapt resource value: 0x7F030187
-			public const int tabInlineLabel = 2130903431;
+			public const int tabIndicatorHeight = 2130903431;
 			
 			// aapt resource value: 0x7F030188
-			public const int tabMaxWidth = 2130903432;
+			public const int tabInlineLabel = 2130903432;
 			
 			// aapt resource value: 0x7F030189
-			public const int tabMinWidth = 2130903433;
+			public const int tabMaxWidth = 2130903433;
 			
 			// aapt resource value: 0x7F03018A
-			public const int tabMode = 2130903434;
+			public const int tabMinWidth = 2130903434;
 			
 			// aapt resource value: 0x7F03018B
-			public const int tabPadding = 2130903435;
+			public const int tabMode = 2130903435;
 			
 			// aapt resource value: 0x7F03018C
-			public const int tabPaddingBottom = 2130903436;
+			public const int tabPadding = 2130903436;
 			
 			// aapt resource value: 0x7F03018D
-			public const int tabPaddingEnd = 2130903437;
+			public const int tabPaddingBottom = 2130903437;
 			
 			// aapt resource value: 0x7F03018E
-			public const int tabPaddingStart = 2130903438;
+			public const int tabPaddingEnd = 2130903438;
 			
 			// aapt resource value: 0x7F03018F
-			public const int tabPaddingTop = 2130903439;
+			public const int tabPaddingStart = 2130903439;
 			
 			// aapt resource value: 0x7F030190
-			public const int tabRippleColor = 2130903440;
+			public const int tabPaddingTop = 2130903440;
 			
 			// aapt resource value: 0x7F030191
-			public const int tabSelectedTextColor = 2130903441;
+			public const int tabRippleColor = 2130903441;
 			
 			// aapt resource value: 0x7F030192
-			public const int tabStyle = 2130903442;
+			public const int tabSelectedTextColor = 2130903442;
 			
 			// aapt resource value: 0x7F030193
-			public const int tabTextAppearance = 2130903443;
+			public const int tabStyle = 2130903443;
 			
 			// aapt resource value: 0x7F030194
-			public const int tabTextColor = 2130903444;
+			public const int tabTextAppearance = 2130903444;
 			
 			// aapt resource value: 0x7F030195
-			public const int tabUnboundedRipple = 2130903445;
+			public const int tabTextColor = 2130903445;
 			
 			// aapt resource value: 0x7F030196
-			public const int textAllCaps = 2130903446;
+			public const int tabUnboundedRipple = 2130903446;
 			
 			// aapt resource value: 0x7F030197
-			public const int textAppearanceBody1 = 2130903447;
+			public const int textAllCaps = 2130903447;
 			
 			// aapt resource value: 0x7F030198
-			public const int textAppearanceBody2 = 2130903448;
+			public const int textAppearanceBody1 = 2130903448;
 			
 			// aapt resource value: 0x7F030199
-			public const int textAppearanceButton = 2130903449;
+			public const int textAppearanceBody2 = 2130903449;
 			
 			// aapt resource value: 0x7F03019A
-			public const int textAppearanceCaption = 2130903450;
+			public const int textAppearanceButton = 2130903450;
 			
 			// aapt resource value: 0x7F03019B
-			public const int textAppearanceHeadline1 = 2130903451;
+			public const int textAppearanceCaption = 2130903451;
 			
 			// aapt resource value: 0x7F03019C
-			public const int textAppearanceHeadline2 = 2130903452;
+			public const int textAppearanceHeadline1 = 2130903452;
 			
 			// aapt resource value: 0x7F03019D
-			public const int textAppearanceHeadline3 = 2130903453;
+			public const int textAppearanceHeadline2 = 2130903453;
 			
 			// aapt resource value: 0x7F03019E
-			public const int textAppearanceHeadline4 = 2130903454;
+			public const int textAppearanceHeadline3 = 2130903454;
 			
 			// aapt resource value: 0x7F03019F
-			public const int textAppearanceHeadline5 = 2130903455;
+			public const int textAppearanceHeadline4 = 2130903455;
 			
 			// aapt resource value: 0x7F0301A0
-			public const int textAppearanceHeadline6 = 2130903456;
+			public const int textAppearanceHeadline5 = 2130903456;
 			
 			// aapt resource value: 0x7F0301A1
-			public const int textAppearanceLargePopupMenu = 2130903457;
+			public const int textAppearanceHeadline6 = 2130903457;
 			
 			// aapt resource value: 0x7F0301A2
-			public const int textAppearanceListItem = 2130903458;
+			public const int textAppearanceLargePopupMenu = 2130903458;
 			
 			// aapt resource value: 0x7F0301A3
-			public const int textAppearanceListItemSecondary = 2130903459;
+			public const int textAppearanceListItem = 2130903459;
 			
 			// aapt resource value: 0x7F0301A4
-			public const int textAppearanceListItemSmall = 2130903460;
+			public const int textAppearanceListItemSecondary = 2130903460;
 			
 			// aapt resource value: 0x7F0301A5
-			public const int textAppearanceOverline = 2130903461;
+			public const int textAppearanceListItemSmall = 2130903461;
 			
 			// aapt resource value: 0x7F0301A6
-			public const int textAppearancePopupMenuHeader = 2130903462;
+			public const int textAppearanceOverline = 2130903462;
 			
 			// aapt resource value: 0x7F0301A7
-			public const int textAppearanceSearchResultSubtitle = 2130903463;
+			public const int textAppearancePopupMenuHeader = 2130903463;
 			
 			// aapt resource value: 0x7F0301A8
-			public const int textAppearanceSearchResultTitle = 2130903464;
+			public const int textAppearanceSearchResultSubtitle = 2130903464;
 			
 			// aapt resource value: 0x7F0301A9
-			public const int textAppearanceSmallPopupMenu = 2130903465;
+			public const int textAppearanceSearchResultTitle = 2130903465;
 			
 			// aapt resource value: 0x7F0301AA
-			public const int textAppearanceSubtitle1 = 2130903466;
+			public const int textAppearanceSmallPopupMenu = 2130903466;
 			
 			// aapt resource value: 0x7F0301AB
-			public const int textAppearanceSubtitle2 = 2130903467;
+			public const int textAppearanceSubtitle1 = 2130903467;
 			
 			// aapt resource value: 0x7F0301AC
-			public const int textColorAlertDialogListItem = 2130903468;
+			public const int textAppearanceSubtitle2 = 2130903468;
 			
 			// aapt resource value: 0x7F0301AD
-			public const int textColorSearchUrl = 2130903469;
+			public const int textColorAlertDialogListItem = 2130903469;
 			
 			// aapt resource value: 0x7F0301AE
-			public const int textEndPadding = 2130903470;
+			public const int textColorSearchUrl = 2130903470;
 			
 			// aapt resource value: 0x7F0301AF
-			public const int textInputStyle = 2130903471;
+			public const int textEndPadding = 2130903471;
 			
 			// aapt resource value: 0x7F0301B0
-			public const int textStartPadding = 2130903472;
+			public const int textInputStyle = 2130903472;
 			
 			// aapt resource value: 0x7F0301B1
-			public const int theme = 2130903473;
+			public const int textStartPadding = 2130903473;
 			
 			// aapt resource value: 0x7F0301B2
-			public const int thickness = 2130903474;
+			public const int theme = 2130903474;
 			
 			// aapt resource value: 0x7F0301B3
-			public const int thumbTextPadding = 2130903475;
+			public const int thickness = 2130903475;
 			
 			// aapt resource value: 0x7F0301B4
-			public const int thumbTint = 2130903476;
+			public const int thumbTextPadding = 2130903476;
 			
 			// aapt resource value: 0x7F0301B5
-			public const int thumbTintMode = 2130903477;
+			public const int thumbTint = 2130903477;
 			
 			// aapt resource value: 0x7F0301B6
-			public const int tickMark = 2130903478;
+			public const int thumbTintMode = 2130903478;
 			
 			// aapt resource value: 0x7F0301B7
-			public const int tickMarkTint = 2130903479;
+			public const int tickMark = 2130903479;
 			
 			// aapt resource value: 0x7F0301B8
-			public const int tickMarkTintMode = 2130903480;
+			public const int tickMarkTint = 2130903480;
 			
 			// aapt resource value: 0x7F0301B9
-			public const int tint = 2130903481;
+			public const int tickMarkTintMode = 2130903481;
 			
 			// aapt resource value: 0x7F0301BA
-			public const int tintMode = 2130903482;
+			public const int tint = 2130903482;
 			
 			// aapt resource value: 0x7F0301BB
-			public const int title = 2130903483;
+			public const int tintMode = 2130903483;
 			
 			// aapt resource value: 0x7F0301BC
-			public const int titleEnabled = 2130903484;
+			public const int title = 2130903484;
 			
 			// aapt resource value: 0x7F0301BD
-			public const int titleMargin = 2130903485;
+			public const int titleEnabled = 2130903485;
 			
 			// aapt resource value: 0x7F0301BE
-			public const int titleMarginBottom = 2130903486;
+			public const int titleMargin = 2130903486;
 			
 			// aapt resource value: 0x7F0301BF
-			public const int titleMarginEnd = 2130903487;
-			
-			// aapt resource value: 0x7F0301C2
-			public const int titleMargins = 2130903490;
+			public const int titleMarginBottom = 2130903487;
 			
 			// aapt resource value: 0x7F0301C0
-			public const int titleMarginStart = 2130903488;
-			
-			// aapt resource value: 0x7F0301C1
-			public const int titleMarginTop = 2130903489;
+			public const int titleMarginEnd = 2130903488;
 			
 			// aapt resource value: 0x7F0301C3
-			public const int titleTextAppearance = 2130903491;
+			public const int titleMargins = 2130903491;
+			
+			// aapt resource value: 0x7F0301C1
+			public const int titleMarginStart = 2130903489;
+			
+			// aapt resource value: 0x7F0301C2
+			public const int titleMarginTop = 2130903490;
 			
 			// aapt resource value: 0x7F0301C4
-			public const int titleTextColor = 2130903492;
+			public const int titleTextAppearance = 2130903492;
 			
 			// aapt resource value: 0x7F0301C5
-			public const int titleTextStyle = 2130903493;
+			public const int titleTextColor = 2130903493;
 			
 			// aapt resource value: 0x7F0301C6
-			public const int toolbarId = 2130903494;
+			public const int titleTextStyle = 2130903494;
 			
 			// aapt resource value: 0x7F0301C7
-			public const int toolbarNavigationButtonStyle = 2130903495;
+			public const int toolbarId = 2130903495;
 			
 			// aapt resource value: 0x7F0301C8
-			public const int toolbarStyle = 2130903496;
+			public const int toolbarNavigationButtonStyle = 2130903496;
 			
 			// aapt resource value: 0x7F0301C9
-			public const int tooltipForegroundColor = 2130903497;
+			public const int toolbarStyle = 2130903497;
 			
 			// aapt resource value: 0x7F0301CA
-			public const int tooltipFrameBackground = 2130903498;
+			public const int tooltipForegroundColor = 2130903498;
 			
 			// aapt resource value: 0x7F0301CB
-			public const int tooltipText = 2130903499;
+			public const int tooltipFrameBackground = 2130903499;
 			
 			// aapt resource value: 0x7F0301CC
-			public const int track = 2130903500;
+			public const int tooltipText = 2130903500;
 			
 			// aapt resource value: 0x7F0301CD
-			public const int trackTint = 2130903501;
+			public const int track = 2130903501;
 			
 			// aapt resource value: 0x7F0301CE
-			public const int trackTintMode = 2130903502;
+			public const int trackTint = 2130903502;
 			
 			// aapt resource value: 0x7F0301CF
-			public const int ttcIndex = 2130903503;
+			public const int trackTintMode = 2130903503;
 			
 			// aapt resource value: 0x7F0301D0
-			public const int useCompatPadding = 2130903504;
+			public const int ttcIndex = 2130903504;
 			
 			// aapt resource value: 0x7F0301D1
-			public const int viewInflaterClass = 2130903505;
+			public const int useCompatPadding = 2130903505;
 			
 			// aapt resource value: 0x7F0301D2
-			public const int voiceIcon = 2130903506;
+			public const int viewInflaterClass = 2130903506;
 			
 			// aapt resource value: 0x7F0301D3
-			public const int windowActionBar = 2130903507;
+			public const int voiceIcon = 2130903507;
 			
 			// aapt resource value: 0x7F0301D4
-			public const int windowActionBarOverlay = 2130903508;
+			public const int windowActionBar = 2130903508;
 			
 			// aapt resource value: 0x7F0301D5
-			public const int windowActionModeOverlay = 2130903509;
+			public const int windowActionBarOverlay = 2130903509;
 			
 			// aapt resource value: 0x7F0301D6
-			public const int windowFixedHeightMajor = 2130903510;
+			public const int windowActionModeOverlay = 2130903510;
 			
 			// aapt resource value: 0x7F0301D7
-			public const int windowFixedHeightMinor = 2130903511;
+			public const int windowFixedHeightMajor = 2130903511;
 			
 			// aapt resource value: 0x7F0301D8
-			public const int windowFixedWidthMajor = 2130903512;
+			public const int windowFixedHeightMinor = 2130903512;
 			
 			// aapt resource value: 0x7F0301D9
-			public const int windowFixedWidthMinor = 2130903513;
+			public const int windowFixedWidthMajor = 2130903513;
 			
 			// aapt resource value: 0x7F0301DA
-			public const int windowMinWidthMajor = 2130903514;
+			public const int windowFixedWidthMinor = 2130903514;
 			
 			// aapt resource value: 0x7F0301DB
-			public const int windowMinWidthMinor = 2130903515;
+			public const int windowMinWidthMajor = 2130903515;
 			
 			// aapt resource value: 0x7F0301DC
-			public const int windowNoTitle = 2130903516;
+			public const int windowMinWidthMinor = 2130903516;
+			
+			// aapt resource value: 0x7F0301DD
+			public const int windowNoTitle = 2130903517;
 			
 			static Attribute()
 			{
@@ -8283,91 +13454,97 @@ namespace Study_Buddy
 			public const int avd_show_password = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int design_bottom_navigation_item_background = 2131165276;
+			public const int collapse = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int design_fab_background = 2131165277;
+			public const int design_bottom_navigation_item_background = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int design_ic_visibility = 2131165278;
+			public const int design_fab_background = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int design_ic_visibility_off = 2131165279;
+			public const int design_ic_visibility = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int design_password_eye = 2131165280;
+			public const int design_ic_visibility_off = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int design_snackbar_background = 2131165281;
+			public const int design_password_eye = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int ic_mtrl_chip_checked_black = 2131165282;
+			public const int design_snackbar_background = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int ic_mtrl_chip_checked_circle = 2131165283;
+			public const int expand = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int ic_mtrl_chip_close_circle = 2131165284;
+			public const int ic_mtrl_chip_checked_black = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int mtrl_snackbar_background = 2131165285;
+			public const int ic_mtrl_chip_checked_circle = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int mtrl_tabs_default_indicator = 2131165286;
+			public const int ic_mtrl_chip_close_circle = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int navigation_empty_icon = 2131165287;
+			public const int mtrl_snackbar_background = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int notification_action_background = 2131165288;
+			public const int mtrl_tabs_default_indicator = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int notification_bg = 2131165289;
+			public const int navigation_empty_icon = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int notification_bg_low = 2131165290;
+			public const int notification_action_background = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int notification_bg_low_normal = 2131165291;
+			public const int notification_bg = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int notification_bg_low_pressed = 2131165292;
+			public const int notification_bg_low = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int notification_bg_normal = 2131165293;
+			public const int notification_bg_low_normal = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int notification_bg_normal_pressed = 2131165294;
+			public const int notification_bg_low_pressed = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int notification_icon_background = 2131165295;
+			public const int notification_bg_normal = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int notification_template_icon_bg = 2131165296;
+			public const int notification_bg_normal_pressed = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int notification_template_icon_low_bg = 2131165297;
+			public const int notification_icon_background = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int notification_tile_bg = 2131165298;
+			public const int notification_template_icon_bg = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int notify_panel_notification_icon_bg = 2131165299;
+			public const int notification_template_icon_low_bg = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int tab_about = 2131165300;
+			public const int notification_tile_bg = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int tab_feed = 2131165301;
+			public const int notify_panel_notification_icon_bg = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int tooltip_frame_dark = 2131165302;
+			public const int tab_about = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int tooltip_frame_light = 2131165303;
+			public const int tab_feed = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int xamarin_logo = 2131165304;
+			public const int tooltip_frame_dark = 2131165304;
+			
+			// aapt resource value: 0x7F070079
+			public const int tooltip_frame_light = 2131165305;
+			
+			// aapt resource value: 0x7F07007A
+			public const int xamarin_logo = 2131165306;
 			
 			static Drawable()
 			{
@@ -9464,50 +14641,59 @@ namespace Study_Buddy
 			// aapt resource value: 0x7F0D0026
 			public const int abc_toolbar_collapse_description = 2131558438;
 			
-			// aapt resource value: 0x7F0D0027
-			public const int appbar_scrolling_view_behavior = 2131558439;
-			
 			// aapt resource value: 0x7F0D0028
-			public const int bottom_sheet_behavior = 2131558440;
+			public const int appbar_scrolling_view_behavior = 2131558440;
+			
+			// aapt resource value: 0x7F0D0027
+			public const int app_name = 2131558439;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int character_counter_content_description = 2131558441;
+			public const int bottom_sheet_behavior = 2131558441;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int character_counter_pattern = 2131558442;
+			public const int character_counter_content_description = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int fab_transformation_scrim_behavior = 2131558443;
+			public const int character_counter_pattern = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_sheet_behavior = 2131558444;
+			public const int fab_transformation_scrim_behavior = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
+			public const int fab_transformation_sheet_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int mtrl_chip_close_icon_content_description = 2131558446;
+			public const int hello = 2131558446;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int password_toggle_content_description = 2131558447;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int path_password_eye = 2131558448;
+			public const int mtrl_chip_close_icon_content_description = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int path_password_eye_mask_strike_through = 2131558449;
+			public const int overflow_tab_title = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int path_password_eye_mask_visible = 2131558450;
+			public const int password_toggle_content_description = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int path_password_strike_through = 2131558451;
+			public const int path_password_eye = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int search_menu_title = 2131558452;
+			public const int path_password_eye_mask_strike_through = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int status_bar_notification_info_overflow = 2131558453;
+			public const int path_password_eye_mask_visible = 2131558453;
+			
+			// aapt resource value: 0x7F0D0036
+			public const int path_password_strike_through = 2131558454;
+			
+			// aapt resource value: 0x7F0D0037
+			public const int search_menu_title = 2131558455;
+			
+			// aapt resource value: 0x7F0D0038
+			public const int status_bar_notification_info_overflow = 2131558456;
 			
 			static String()
 			{
@@ -10117,7 +15303,10 @@ namespace Study_Buddy
 			public const int CardView_Light = 2131624133;
 			
 			// aapt resource value: 0x7F0E01F7
-			public const int collectionViewStyle = 2131624439;
+			public const int collectionViewScrollBars = 2131624439;
+			
+			// aapt resource value: 0x7F0E01F8
+			public const int collectionViewTheme = 2131624440;
 			
 			// aapt resource value: 0x7F0E00C6
 			public const int MainTheme = 2131624134;
@@ -11047,37 +16236,37 @@ namespace Study_Buddy
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F030031,0x7F030032,0x7F030033,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F0300A4,0x7F0300A9,0x7F0300AA,0x7F0300B5,0x7F0300DF,0x7F0300E4,0x7F0300E9,0x7F0300EA,0x7F0300EC,0x7F0300F6,0x7F030100,0x7F030123,0x7F03012F,0x7F030140,0x7F030144,0x7F030145,0x7F030173,0x7F030176,0x7F0301BB,0x7F0301C5 }
+			// aapt resource value: { 0x7F030031,0x7F030032,0x7F030033,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F0300A5,0x7F0300AA,0x7F0300AB,0x7F0300B6,0x7F0300E0,0x7F0300E5,0x7F0300EA,0x7F0300EB,0x7F0300ED,0x7F0300F7,0x7F030101,0x7F030124,0x7F030130,0x7F030141,0x7F030145,0x7F030146,0x7F030174,0x7F030177,0x7F0301BC,0x7F0301C6 }
 			public static int[] ActionBar = new int[] {
 					2130903089,
 					2130903090,
 					2130903091,
-					2130903185,
 					2130903186,
 					2130903187,
 					2130903188,
 					2130903189,
 					2130903190,
-					2130903204,
-					2130903209,
+					2130903191,
+					2130903205,
 					2130903210,
-					2130903221,
-					2130903263,
-					2130903268,
-					2130903273,
+					2130903211,
+					2130903222,
+					2130903264,
+					2130903269,
 					2130903274,
-					2130903276,
-					2130903286,
-					2130903296,
-					2130903331,
-					2130903343,
-					2130903360,
-					2130903364,
+					2130903275,
+					2130903277,
+					2130903287,
+					2130903297,
+					2130903332,
+					2130903344,
+					2130903361,
 					2130903365,
-					2130903411,
-					2130903414,
-					2130903483,
-					2130903493};
+					2130903366,
+					2130903412,
+					2130903415,
+					2130903484,
+					2130903494};
 			
 			// aapt resource value: { 0x10100B3 }
 			public static int[] ActionBarLayout = new int[] {
@@ -11184,14 +16373,14 @@ namespace Study_Buddy
 			public static int[] ActionMenuView = new int[] {
 					-1};
 			
-			// aapt resource value: { 0x7F030031,0x7F030032,0x7F03007E,0x7F0300DF,0x7F030176,0x7F0301C5 }
+			// aapt resource value: { 0x7F030031,0x7F030032,0x7F03007E,0x7F0300E0,0x7F030177,0x7F0301C6 }
 			public static int[] ActionMode = new int[] {
 					2130903089,
 					2130903090,
 					2130903166,
-					2130903263,
-					2130903414,
-					2130903493};
+					2130903264,
+					2130903415,
+					2130903494};
 			
 			// aapt resource value: 0
 			public const int ActionMode_background = 0;
@@ -11211,10 +16400,10 @@ namespace Study_Buddy
 			// aapt resource value: 5
 			public const int ActionMode_titleTextStyle = 5;
 			
-			// aapt resource value: { 0x7F0300BA,0x7F0300F7 }
+			// aapt resource value: { 0x7F0300BB,0x7F0300F8 }
 			public static int[] ActivityChooserView = new int[] {
-					2130903226,
-					2130903287};
+					2130903227,
+					2130903288};
 			
 			// aapt resource value: 0
 			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 0;
@@ -11222,16 +16411,16 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x10100F2,0x7F030052,0x7F030053,0x7F03011A,0x7F03011B,0x7F03012C,0x7F03015B,0x7F03015C }
+			// aapt resource value: { 0x10100F2,0x7F030052,0x7F030053,0x7F03011B,0x7F03011C,0x7F03012D,0x7F03015C,0x7F03015D }
 			public static int[] AlertDialog = new int[] {
 					16842994,
 					2130903122,
 					2130903123,
-					2130903322,
 					2130903323,
-					2130903340,
-					2130903387,
-					2130903388};
+					2130903324,
+					2130903341,
+					2130903388,
+					2130903389};
 			
 			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
@@ -11314,21 +16503,21 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int AnimatedStateListDrawableTransition_android_toId = 1;
 			
-			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300B5,0x7F0300BB,0x7F030115 }
+			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300B6,0x7F0300BC,0x7F030116 }
 			public static int[] AppBarLayout = new int[] {
 					16842964,
 					16843919,
 					16844096,
-					2130903221,
-					2130903227,
-					2130903317};
+					2130903222,
+					2130903228,
+					2130903318};
 			
-			// aapt resource value: { 0x7F030169,0x7F03016A,0x7F03016B,0x7F03016C }
+			// aapt resource value: { 0x7F03016A,0x7F03016B,0x7F03016C,0x7F03016D }
 			public static int[] AppBarLayoutStates = new int[] {
-					2130903401,
 					2130903402,
 					2130903403,
-					2130903404};
+					2130903404,
+					2130903405};
 			
 			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
@@ -11357,10 +16546,10 @@ namespace Study_Buddy
 			// aapt resource value: 4
 			public const int AppBarLayout_expanded = 4;
 			
-			// aapt resource value: { 0x7F030113,0x7F030114 }
+			// aapt resource value: { 0x7F030114,0x7F030115 }
 			public static int[] AppBarLayout_Layout = new int[] {
-					2130903315,
-					2130903316};
+					2130903316,
+					2130903317};
 			
 			// aapt resource value: 0
 			public const int AppBarLayout_Layout_layout_scrollFlags = 0;
@@ -11371,12 +16560,12 @@ namespace Study_Buddy
 			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
-			// aapt resource value: { 0x1010119,0x7F030166,0x7F0301B9,0x7F0301BA }
+			// aapt resource value: { 0x1010119,0x7F030167,0x7F0301BA,0x7F0301BB }
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130903398,
-					2130903481,
-					2130903482};
+					2130903399,
+					2130903482,
+					2130903483};
 			
 			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
@@ -11390,12 +16579,12 @@ namespace Study_Buddy
 			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
-			// aapt resource value: { 0x1010142,0x7F0301B6,0x7F0301B7,0x7F0301B8 }
+			// aapt resource value: { 0x1010142,0x7F0301B7,0x7F0301B8,0x7F0301B9 }
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130903478,
 					2130903479,
-					2130903480};
+					2130903480,
+					2130903481};
 			
 			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
@@ -11440,7 +16629,7 @@ namespace Study_Buddy
 			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
-			// aapt resource value: { 0x1010034,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F0300CE,0x7F0300D1,0x7F030108,0x7F030116,0x7F030196 }
+			// aapt resource value: { 0x1010034,0x7F03002C,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F0300CF,0x7F0300D2,0x7F030109,0x7F030117,0x7F030197 }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
 					2130903084,
@@ -11448,11 +16637,11 @@ namespace Study_Buddy
 					2130903086,
 					2130903087,
 					2130903088,
-					2130903246,
-					2130903249,
-					2130903304,
-					2130903318,
-					2130903446};
+					2130903247,
+					2130903250,
+					2130903305,
+					2130903319,
+					2130903447};
 			
 			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
@@ -11487,7 +16676,7 @@ namespace Study_Buddy
 			// aapt resource value: 10
 			public const int AppCompatTextView_textAllCaps = 10;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002B,0x7F03003E,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030054,0x7F030055,0x7F03005F,0x7F030064,0x7F030084,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008E,0x7F03009D,0x7F0300A6,0x7F0300A7,0x7F0300A8,0x7F0300AB,0x7F0300AD,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300E9,0x7F0300F5,0x7F030118,0x7F030119,0x7F03011C,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030121,0x7F030122,0x7F030137,0x7F030138,0x7F030139,0x7F03013F,0x7F030141,0x7F030148,0x7F030149,0x7F03014A,0x7F03014B,0x7F030153,0x7F030154,0x7F030155,0x7F030156,0x7F030163,0x7F030164,0x7F03017A,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AC,0x7F0301AD,0x7F0301C7,0x7F0301C8,0x7F0301C9,0x7F0301CA,0x7F0301D1,0x7F0301D3,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301D9,0x7F0301DA,0x7F0301DB,0x7F0301DC }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002B,0x7F03003E,0x7F03004C,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030054,0x7F030055,0x7F03005F,0x7F030064,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F03008D,0x7F03008F,0x7F03009E,0x7F0300A7,0x7F0300A8,0x7F0300A9,0x7F0300AC,0x7F0300AE,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300B4,0x7F0300B5,0x7F0300EA,0x7F0300F6,0x7F030119,0x7F03011A,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F030121,0x7F030122,0x7F030123,0x7F030138,0x7F030139,0x7F03013A,0x7F030140,0x7F030142,0x7F030149,0x7F03014A,0x7F03014B,0x7F03014C,0x7F030154,0x7F030155,0x7F030156,0x7F030157,0x7F030164,0x7F030165,0x7F03017B,0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A5,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AD,0x7F0301AE,0x7F0301C8,0x7F0301C9,0x7F0301CA,0x7F0301CB,0x7F0301D2,0x7F0301D4,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301D9,0x7F0301DA,0x7F0301DB,0x7F0301DC,0x7F0301DD }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -11537,7 +16726,6 @@ namespace Study_Buddy
 					2130903125,
 					2130903135,
 					2130903140,
-					2130903172,
 					2130903173,
 					2130903174,
 					2130903175,
@@ -11546,61 +16734,61 @@ namespace Study_Buddy
 					2130903178,
 					2130903179,
 					2130903180,
-					2130903182,
-					2130903197,
-					2130903206,
+					2130903181,
+					2130903183,
+					2130903198,
 					2130903207,
 					2130903208,
-					2130903211,
-					2130903213,
-					2130903216,
+					2130903209,
+					2130903212,
+					2130903214,
 					2130903217,
 					2130903218,
 					2130903219,
 					2130903220,
-					2130903273,
-					2130903285,
-					2130903320,
+					2130903221,
+					2130903274,
+					2130903286,
 					2130903321,
-					2130903324,
+					2130903322,
 					2130903325,
 					2130903326,
 					2130903327,
 					2130903328,
 					2130903329,
 					2130903330,
-					2130903351,
+					2130903331,
 					2130903352,
 					2130903353,
-					2130903359,
-					2130903361,
-					2130903368,
+					2130903354,
+					2130903360,
+					2130903362,
 					2130903369,
 					2130903370,
 					2130903371,
-					2130903379,
+					2130903372,
 					2130903380,
 					2130903381,
 					2130903382,
-					2130903395,
+					2130903383,
 					2130903396,
-					2130903418,
-					2130903457,
+					2130903397,
+					2130903419,
 					2130903458,
 					2130903459,
 					2130903460,
-					2130903462,
+					2130903461,
 					2130903463,
 					2130903464,
 					2130903465,
-					2130903468,
+					2130903466,
 					2130903469,
-					2130903495,
+					2130903470,
 					2130903496,
 					2130903497,
 					2130903498,
-					2130903505,
-					2130903507,
+					2130903499,
+					2130903506,
 					2130903508,
 					2130903509,
 					2130903510,
@@ -11609,7 +16797,8 @@ namespace Study_Buddy
 					2130903513,
 					2130903514,
 					2130903515,
-					2130903516};
+					2130903516,
+					2130903517};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -11974,14 +17163,14 @@ namespace Study_Buddy
 			// aapt resource value: 120
 			public const int AppCompatTheme_windowNoTitle = 120;
 			
-			// aapt resource value: { 0x7F030034,0x7F0300C3,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300E5 }
+			// aapt resource value: { 0x7F030034,0x7F0300C4,0x7F0300C5,0x7F0300C6,0x7F0300C7,0x7F0300E6 }
 			public static int[] BottomAppBar = new int[] {
 					2130903092,
-					2130903235,
 					2130903236,
 					2130903237,
 					2130903238,
-					2130903269};
+					2130903239,
+					2130903270};
 			
 			// aapt resource value: 0
 			public const int BottomAppBar_backgroundTint = 0;
@@ -12001,18 +17190,18 @@ namespace Study_Buddy
 			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
-			// aapt resource value: { 0x7F0300B5,0x7F0300FA,0x7F0300FC,0x7F0300FE,0x7F0300FF,0x7F030103,0x7F030104,0x7F030105,0x7F030107,0x7F03012B }
+			// aapt resource value: { 0x7F0300B6,0x7F0300FB,0x7F0300FD,0x7F0300FF,0x7F030100,0x7F030104,0x7F030105,0x7F030106,0x7F030108,0x7F03012C }
 			public static int[] BottomNavigationView = new int[] {
-					2130903221,
-					2130903290,
-					2130903292,
-					2130903294,
+					2130903222,
+					2130903291,
+					2130903293,
 					2130903295,
-					2130903299,
+					2130903296,
 					2130903300,
 					2130903301,
-					2130903303,
-					2130903339};
+					2130903302,
+					2130903304,
+					2130903340};
 			
 			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
@@ -12070,7 +17259,7 @@ namespace Study_Buddy
 			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
 			
-			// aapt resource value: { 0x101013F,0x1010140,0x7F030058,0x7F030059,0x7F03005A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B }
+			// aapt resource value: { 0x101013F,0x1010140,0x7F030058,0x7F030059,0x7F03005A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009C }
 			public static int[] CardView = new int[] {
 					16843071,
 					16843072,
@@ -12080,11 +17269,11 @@ namespace Study_Buddy
 					2130903131,
 					2130903132,
 					2130903133,
-					2130903191,
 					2130903192,
 					2130903193,
 					2130903194,
-					2130903195};
+					2130903195,
+					2130903196};
 			
 			// aapt resource value: 1
 			public const int CardView_android_minHeight = 1;
@@ -12125,7 +17314,7 @@ namespace Study_Buddy
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030061,0x7F030062,0x7F030063,0x7F030065,0x7F030066,0x7F030067,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006E,0x7F030073,0x7F030074,0x7F030075,0x7F030077,0x7F030078,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F0300E3,0x7F0300ED,0x7F0300F1,0x7F03014D,0x7F030159,0x7F0301AE,0x7F0301B0 }
+			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F030061,0x7F030062,0x7F030063,0x7F030065,0x7F030066,0x7F030067,0x7F030069,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006E,0x7F030073,0x7F030074,0x7F030075,0x7F030077,0x7F030078,0x7F030079,0x7F03007A,0x7F03007B,0x7F03007C,0x7F03007D,0x7F0300E4,0x7F0300EE,0x7F0300F2,0x7F03014E,0x7F03015A,0x7F0301AF,0x7F0301B1 }
 			public static int[] Chip = new int[] {
 					16842804,
 					16842923,
@@ -12154,22 +17343,22 @@ namespace Study_Buddy
 					2130903163,
 					2130903164,
 					2130903165,
-					2130903267,
-					2130903277,
-					2130903281,
-					2130903373,
-					2130903385,
-					2130903470,
-					2130903472};
+					2130903268,
+					2130903278,
+					2130903282,
+					2130903374,
+					2130903386,
+					2130903471,
+					2130903473};
 			
-			// aapt resource value: { 0x7F030060,0x7F03006F,0x7F030070,0x7F030071,0x7F03015D,0x7F03015E }
+			// aapt resource value: { 0x7F030060,0x7F03006F,0x7F030070,0x7F030071,0x7F03015E,0x7F03015F }
 			public static int[] ChipGroup = new int[] {
 					2130903136,
 					2130903151,
 					2130903152,
 					2130903153,
-					2130903389,
-					2130903390};
+					2130903390,
+					2130903391};
 			
 			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
@@ -12291,24 +17480,24 @@ namespace Study_Buddy
 			// aapt resource value: 33
 			public const int Chip_textStartPadding = 33;
 			
-			// aapt resource value: { 0x7F030081,0x7F030082,0x7F03009C,0x7F0300BC,0x7F0300BD,0x7F0300BE,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F03014E,0x7F030150,0x7F03016E,0x7F0301BB,0x7F0301BC,0x7F0301C6 }
+			// aapt resource value: { 0x7F030081,0x7F030082,0x7F03009D,0x7F0300BD,0x7F0300BE,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F03014F,0x7F030151,0x7F03016F,0x7F0301BC,0x7F0301BD,0x7F0301C7 }
 			public static int[] CollapsingToolbarLayout = new int[] {
 					2130903169,
 					2130903170,
-					2130903196,
-					2130903228,
+					2130903197,
 					2130903229,
 					2130903230,
 					2130903231,
 					2130903232,
 					2130903233,
 					2130903234,
-					2130903374,
-					2130903376,
-					2130903406,
-					2130903483,
+					2130903235,
+					2130903375,
+					2130903377,
+					2130903407,
 					2130903484,
-					2130903494};
+					2130903485,
+					2130903495};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
@@ -12340,10 +17529,10 @@ namespace Study_Buddy
 			// aapt resource value: 9
 			public const int CollapsingToolbarLayout_expandedTitleTextAppearance = 9;
 			
-			// aapt resource value: { 0x7F03010E,0x7F03010F }
+			// aapt resource value: { 0x7F03010F,0x7F030110 }
 			public static int[] CollapsingToolbarLayout_Layout = new int[] {
-					2130903310,
-					2130903311};
+					2130903311,
+					2130903312};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
@@ -12399,23 +17588,23 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int CompoundButton_buttonTintMode = 2;
 			
-			// aapt resource value: { 0x7F030106,0x7F03016D }
+			// aapt resource value: { 0x7F030107,0x7F03016E }
 			public static int[] CoordinatorLayout = new int[] {
-					2130903302,
-					2130903405};
+					2130903303,
+					2130903406};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
 			
-			// aapt resource value: { 0x10100B3,0x7F03010B,0x7F03010C,0x7F03010D,0x7F030110,0x7F030111,0x7F030112 }
+			// aapt resource value: { 0x10100B3,0x7F03010C,0x7F03010D,0x7F03010E,0x7F030111,0x7F030112,0x7F030113 }
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130903307,
 					2130903308,
 					2130903309,
-					2130903312,
+					2130903310,
 					2130903313,
-					2130903314};
+					2130903314,
+					2130903315};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_Layout_android_layout_gravity = 0;
@@ -12452,16 +17641,16 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: { 0x7F030029,0x7F03002A,0x7F030036,0x7F030083,0x7F0300AE,0x7F0300DC,0x7F030162,0x7F0301B2 }
+			// aapt resource value: { 0x7F030029,0x7F03002A,0x7F030036,0x7F030084,0x7F0300AF,0x7F0300DD,0x7F030163,0x7F0301B3 }
 			public static int[] DrawerArrowToggle = new int[] {
 					2130903081,
 					2130903082,
 					2130903094,
-					2130903171,
-					2130903214,
-					2130903260,
-					2130903394,
-					2130903474};
+					2130903172,
+					2130903215,
+					2130903261,
+					2130903395,
+					2130903475};
 			
 			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
@@ -12487,21 +17676,21 @@ namespace Study_Buddy
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F030034,0x7F030035,0x7F03003D,0x7F0300B5,0x7F0300C7,0x7F0300C8,0x7F0300E3,0x7F0300EB,0x7F030129,0x7F030143,0x7F03014D,0x7F030159,0x7F0301D0 }
+			// aapt resource value: { 0x7F030034,0x7F030035,0x7F03003D,0x7F0300B6,0x7F0300C8,0x7F0300C9,0x7F0300E4,0x7F0300EC,0x7F03012A,0x7F030144,0x7F03014E,0x7F03015A,0x7F0301D1 }
 			public static int[] FloatingActionButton = new int[] {
 					2130903092,
 					2130903093,
 					2130903101,
-					2130903221,
-					2130903239,
+					2130903222,
 					2130903240,
-					2130903267,
-					2130903275,
-					2130903337,
-					2130903363,
-					2130903373,
-					2130903385,
-					2130903504};
+					2130903241,
+					2130903268,
+					2130903276,
+					2130903338,
+					2130903364,
+					2130903374,
+					2130903386,
+					2130903505};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
@@ -12549,10 +17738,10 @@ namespace Study_Buddy
 			// aapt resource value: 12
 			public const int FloatingActionButton_useCompatPadding = 12;
 			
-			// aapt resource value: { 0x7F030101,0x7F030117 }
+			// aapt resource value: { 0x7F030102,0x7F030118 }
 			public static int[] FlowLayout = new int[] {
-					2130903297,
-					2130903319};
+					2130903298,
+					2130903320};
 			
 			// aapt resource value: 0
 			public const int FlowLayout_itemSpacing = 0;
@@ -12560,27 +17749,27 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int FlowLayout_lineSpacing = 1;
 			
-			// aapt resource value: { 0x7F0300D2,0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7 }
+			// aapt resource value: { 0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F0300D8 }
 			public static int[] FontFamily = new int[] {
-					2130903250,
 					2130903251,
 					2130903252,
 					2130903253,
 					2130903254,
-					2130903255};
+					2130903255,
+					2130903256};
 			
-			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300D0,0x7F0300D8,0x7F0300D9,0x7F0300DA,0x7F0301CF }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300D1,0x7F0300D9,0x7F0300DA,0x7F0300DB,0x7F0301D0 }
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844083,
 					16844095,
 					16844143,
 					16844144,
-					2130903248,
-					2130903256,
+					2130903249,
 					2130903257,
 					2130903258,
-					2130903503};
+					2130903259,
+					2130903504};
 			
 			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
@@ -12630,11 +17819,11 @@ namespace Study_Buddy
 			// aapt resource value: 5
 			public const int FontFamily_fontProviderQuery = 5;
 			
-			// aapt resource value: { 0x1010109,0x1010200,0x7F0300DB }
+			// aapt resource value: { 0x1010109,0x1010200,0x7F0300DC }
 			public static int[] ForegroundLinearLayout = new int[] {
 					16843017,
 					16843264,
-					2130903259};
+					2130903260};
 			
 			// aapt resource value: 0
 			public const int ForegroundLinearLayout_android_foreground = 0;
@@ -12707,17 +17896,24 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300AA,0x7F0300AC,0x7F03012A,0x7F030158 }
+			// aapt resource value: { 0x7F030083 }
+			public static int[] ItemsViewRendererTheme = new int[] {
+					2130903171};
+			
+			// aapt resource value: 0
+			public const int ItemsViewRendererTheme_collectionViewStyle = 0;
+			
+			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300AB,0x7F0300AD,0x7F03012B,0x7F030159 }
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
 					16843046,
 					16843047,
 					16843048,
-					2130903210,
-					2130903212,
-					2130903338,
-					2130903384};
+					2130903211,
+					2130903213,
+					2130903339,
+					2130903385};
 			
 			// aapt resource value: 2
 			public const int LinearLayoutCompat_android_baselineAligned = 2;
@@ -12776,7 +17972,7 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030034,0x7F030035,0x7F03009F,0x7F0300EC,0x7F0300EE,0x7F0300EF,0x7F0300F0,0x7F0300F2,0x7F0300F3,0x7F03014D,0x7F03016F,0x7F030170 }
+			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030034,0x7F030035,0x7F0300A0,0x7F0300ED,0x7F0300EF,0x7F0300F0,0x7F0300F1,0x7F0300F3,0x7F0300F4,0x7F03014E,0x7F030170,0x7F030171 }
 			public static int[] MaterialButton = new int[] {
 					16843191,
 					16843192,
@@ -12784,16 +17980,16 @@ namespace Study_Buddy
 					16843194,
 					2130903092,
 					2130903093,
-					2130903199,
-					2130903276,
-					2130903278,
+					2130903200,
+					2130903277,
 					2130903279,
 					2130903280,
-					2130903282,
+					2130903281,
 					2130903283,
-					2130903373,
-					2130903407,
-					2130903408};
+					2130903284,
+					2130903374,
+					2130903408,
+					2130903409};
 			
 			// aapt resource value: 3
 			public const int MaterialButton_android_insetBottom = 3;
@@ -12843,10 +18039,10 @@ namespace Study_Buddy
 			// aapt resource value: 15
 			public const int MaterialButton_strokeWidth = 15;
 			
-			// aapt resource value: { 0x7F03016F,0x7F030170 }
+			// aapt resource value: { 0x7F030170,0x7F030171 }
 			public static int[] MaterialCardView = new int[] {
-					2130903407,
-					2130903408};
+					2130903408,
+					2130903409};
 			
 			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
@@ -12854,27 +18050,26 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
-			// aapt resource value: { 0x7F030041,0x7F030042,0x7F030068,0x7F030072,0x7F030076,0x7F030084,0x7F030085,0x7F03008B,0x7F03008C,0x7F03008D,0x7F0300B4,0x7F0300CF,0x7F030125,0x7F030126,0x7F030130,0x7F03014F,0x7F03015F,0x7F030192,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A5,0x7F0301AA,0x7F0301AB,0x7F0301AF }
+			// aapt resource value: { 0x7F030041,0x7F030042,0x7F030068,0x7F030072,0x7F030076,0x7F030085,0x7F030086,0x7F03008C,0x7F03008D,0x7F03008E,0x7F0300B5,0x7F0300D0,0x7F030126,0x7F030127,0x7F030131,0x7F030150,0x7F030160,0x7F030193,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A6,0x7F0301AB,0x7F0301AC,0x7F0301B0 }
 			public static int[] MaterialComponentsTheme = new int[] {
 					2130903105,
 					2130903106,
 					2130903144,
 					2130903154,
 					2130903158,
-					2130903172,
 					2130903173,
-					2130903179,
+					2130903174,
 					2130903180,
 					2130903181,
-					2130903220,
-					2130903247,
-					2130903333,
+					2130903182,
+					2130903221,
+					2130903248,
 					2130903334,
-					2130903344,
-					2130903375,
-					2130903391,
-					2130903442,
-					2130903447,
+					2130903335,
+					2130903345,
+					2130903376,
+					2130903392,
+					2130903443,
 					2130903448,
 					2130903449,
 					2130903450,
@@ -12884,10 +18079,11 @@ namespace Study_Buddy
 					2130903454,
 					2130903455,
 					2130903456,
-					2130903461,
-					2130903466,
+					2130903457,
+					2130903462,
 					2130903467,
-					2130903471};
+					2130903468,
+					2130903472};
 			
 			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
@@ -13012,7 +18208,7 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F030028,0x7F030090,0x7F0300F2,0x7F0300F3,0x7F030131,0x7F030157,0x7F0301CB }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F030028,0x7F030091,0x7F0300F3,0x7F0300F4,0x7F030132,0x7F030158,0x7F0301CC }
 			public static int[] MenuItem = new int[] {
 					16842754,
 					16842766,
@@ -13031,12 +18227,12 @@ namespace Study_Buddy
 					2130903071,
 					2130903072,
 					2130903080,
-					2130903184,
-					2130903282,
+					2130903185,
 					2130903283,
-					2130903345,
-					2130903383,
-					2130903499};
+					2130903284,
+					2130903346,
+					2130903384,
+					2130903500};
 			
 			// aapt resource value: 13
 			public const int MenuItem_actionLayout = 13;
@@ -13107,7 +18303,7 @@ namespace Study_Buddy
 			// aapt resource value: 22
 			public const int MenuItem_tooltipText = 22;
 			
-			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030142,0x7F030171 }
+			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030143,0x7F030172 }
 			public static int[] MenuView = new int[] {
 					16842926,
 					16843052,
@@ -13116,8 +18312,8 @@ namespace Study_Buddy
 					16843055,
 					16843056,
 					16843057,
-					2130903362,
-					2130903409};
+					2130903363,
+					2130903410};
 			
 			// aapt resource value: 4
 			public const int MenuView_android_headerBackground = 4;
@@ -13146,20 +18342,20 @@ namespace Study_Buddy
 			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
-			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300B5,0x7F0300DE,0x7F0300FA,0x7F0300FB,0x7F0300FD,0x7F0300FF,0x7F030102,0x7F030105,0x7F03012B }
+			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300B6,0x7F0300DF,0x7F0300FB,0x7F0300FC,0x7F0300FE,0x7F030100,0x7F030103,0x7F030106,0x7F03012C }
 			public static int[] NavigationView = new int[] {
 					16842964,
 					16842973,
 					16843039,
-					2130903221,
-					2130903262,
-					2130903290,
+					2130903222,
+					2130903263,
 					2130903291,
-					2130903293,
-					2130903295,
-					2130903298,
-					2130903301,
-					2130903339};
+					2130903292,
+					2130903294,
+					2130903296,
+					2130903299,
+					2130903302,
+					2130903340};
 			
 			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
@@ -13197,15 +18393,15 @@ namespace Study_Buddy
 			// aapt resource value: 11
 			public const int NavigationView_menu = 11;
 			
-			// aapt resource value: { 0x1010176,0x10102C9,0x7F030132 }
+			// aapt resource value: { 0x1010176,0x10102C9,0x7F030133 }
 			public static int[] PopupWindow = new int[] {
 					16843126,
 					16843465,
-					2130903346};
+					2130903347};
 			
-			// aapt resource value: { 0x7F030168 }
+			// aapt resource value: { 0x7F030169 }
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130903400};
+					2130903401};
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
@@ -13219,10 +18415,10 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F030133,0x7F030136 }
+			// aapt resource value: { 0x7F030134,0x7F030137 }
 			public static int[] RecycleListView = new int[] {
-					2130903347,
-					2130903350};
+					2130903348,
+					2130903351};
 			
 			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
@@ -13230,19 +18426,19 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
-			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300C9,0x7F0300CA,0x7F0300CB,0x7F0300CC,0x7F0300CD,0x7F03010A,0x7F03014C,0x7F030161,0x7F030167 }
+			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300CA,0x7F0300CB,0x7F0300CC,0x7F0300CD,0x7F0300CE,0x7F03010B,0x7F03014D,0x7F030162,0x7F030168 }
 			public static int[] RecyclerView = new int[] {
 					16842948,
 					16842993,
-					2130903241,
 					2130903242,
 					2130903243,
 					2130903244,
 					2130903245,
-					2130903306,
-					2130903372,
-					2130903393,
-					2130903399};
+					2130903246,
+					2130903307,
+					2130903373,
+					2130903394,
+					2130903400};
 			
 			// aapt resource value: 1
 			public const int RecyclerView_android_descendantFocusability = 1;
@@ -13277,9 +18473,9 @@ namespace Study_Buddy
 			// aapt resource value: 10
 			public const int RecyclerView_stackFromEnd = 10;
 			
-			// aapt resource value: { 0x7F0300F8 }
+			// aapt resource value: { 0x7F0300F9 }
 			public static int[] ScrimInsetsFrameLayout = new int[] {
-					2130903288};
+					2130903289};
 			
 			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
@@ -13291,25 +18487,25 @@ namespace Study_Buddy
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030077,0x7F03008F,0x7F0300A5,0x7F0300DD,0x7F0300F4,0x7F030109,0x7F030146,0x7F030147,0x7F030151,0x7F030152,0x7F030172,0x7F030177,0x7F0301D2 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030077,0x7F030090,0x7F0300A6,0x7F0300DE,0x7F0300F5,0x7F03010A,0x7F030147,0x7F030148,0x7F030152,0x7F030153,0x7F030173,0x7F030178,0x7F0301D3 }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
 					16843296,
 					16843364,
 					2130903159,
-					2130903183,
-					2130903205,
-					2130903261,
-					2130903284,
-					2130903305,
-					2130903366,
+					2130903184,
+					2130903206,
+					2130903262,
+					2130903285,
+					2130903306,
 					2130903367,
-					2130903377,
+					2130903368,
 					2130903378,
-					2130903410,
-					2130903415,
-					2130903506};
+					2130903379,
+					2130903411,
+					2130903416,
+					2130903507};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -13362,16 +18558,16 @@ namespace Study_Buddy
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x7F03015F,0x7F030160 }
+			// aapt resource value: { 0x7F030160,0x7F030161 }
 			public static int[] Snackbar = new int[] {
-					2130903391,
-					2130903392};
+					2130903392,
+					2130903393};
 			
-			// aapt resource value: { 0x101011F,0x7F0300B5,0x7F030127 }
+			// aapt resource value: { 0x101011F,0x7F0300B6,0x7F030128 }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
-					2130903221,
-					2130903335};
+					2130903222,
+					2130903336};
 			
 			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
@@ -13388,13 +18584,13 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
-			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F030140 }
+			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F030141 }
 			public static int[] Spinner = new int[] {
 					16842930,
 					16843126,
 					16843131,
 					16843362,
-					2130903360};
+					2130903361};
 			
 			// aapt resource value: 3
 			public const int Spinner_android_dropDownWidth = 3;
@@ -13445,22 +18641,22 @@ namespace Study_Buddy
 			// aapt resource value: 1
 			public const int StateListDrawable_android_visible = 1;
 			
-			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F03015A,0x7F030165,0x7F030178,0x7F030179,0x7F03017B,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301CC,0x7F0301CD,0x7F0301CE }
+			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F03015B,0x7F030166,0x7F030179,0x7F03017A,0x7F03017C,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301CD,0x7F0301CE,0x7F0301CF }
 			public static int[] SwitchCompat = new int[] {
 					16843044,
 					16843045,
 					16843074,
-					2130903386,
-					2130903397,
-					2130903416,
+					2130903387,
+					2130903398,
 					2130903417,
-					2130903419,
-					2130903475,
+					2130903418,
+					2130903420,
 					2130903476,
 					2130903477,
-					2130903500,
+					2130903478,
 					2130903501,
-					2130903502};
+					2130903502,
+					2130903503};
 			
 			// aapt resource value: 1
 			public const int SwitchCompat_android_textOff = 1;
@@ -13519,9 +18715,8 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
-			// aapt resource value: { 0x7F03017C,0x7F03017D,0x7F03017E,0x7F03017F,0x7F030180,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030186,0x7F030187,0x7F030188,0x7F030189,0x7F03018A,0x7F03018B,0x7F03018C,0x7F03018D,0x7F03018E,0x7F03018F,0x7F030190,0x7F030191,0x7F030193,0x7F030194,0x7F030195 }
+			// aapt resource value: { 0x7F03017D,0x7F03017E,0x7F03017F,0x7F030180,0x7F030181,0x7F030182,0x7F030183,0x7F030184,0x7F030185,0x7F030186,0x7F030187,0x7F030188,0x7F030189,0x7F03018A,0x7F03018B,0x7F03018C,0x7F03018D,0x7F03018E,0x7F03018F,0x7F030190,0x7F030191,0x7F030192,0x7F030194,0x7F030195,0x7F030196 }
 			public static int[] TabLayout = new int[] {
-					2130903420,
 					2130903421,
 					2130903422,
 					2130903423,
@@ -13543,9 +18738,10 @@ namespace Study_Buddy
 					2130903439,
 					2130903440,
 					2130903441,
-					2130903443,
+					2130903442,
 					2130903444,
-					2130903445};
+					2130903445,
+					2130903446};
 			
 			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
@@ -13622,7 +18818,7 @@ namespace Study_Buddy
 			// aapt resource value: 24
 			public const int TabLayout_tabUnboundedRipple = 24;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300D1,0x7F030196 }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300D2,0x7F030197 }
 			public static int[] TextAppearance = new int[] {
 					16842901,
 					16842902,
@@ -13635,8 +18831,8 @@ namespace Study_Buddy
 					16843107,
 					16843108,
 					16843692,
-					2130903249,
-					2130903446};
+					2130903250,
+					2130903447};
 			
 			// aapt resource value: 10
 			public const int TextAppearance_android_fontFamily = 10;
@@ -13677,7 +18873,7 @@ namespace Study_Buddy
 			// aapt resource value: 12
 			public const int TextAppearance_textAllCaps = 12;
 			
-			// aapt resource value: { 0x101009A,0x1010150,0x7F030043,0x7F030044,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300B8,0x7F0300B9,0x7F0300E0,0x7F0300E1,0x7F0300E2,0x7F0300E6,0x7F0300E7,0x7F0300E8,0x7F03013A,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E }
+			// aapt resource value: { 0x101009A,0x1010150,0x7F030043,0x7F030044,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300B9,0x7F0300BA,0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E7,0x7F0300E8,0x7F0300E9,0x7F03013B,0x7F03013C,0x7F03013D,0x7F03013E,0x7F03013F }
 			public static int[] TextInputLayout = new int[] {
 					16842906,
 					16843088,
@@ -13690,23 +18886,23 @@ namespace Study_Buddy
 					2130903113,
 					2130903114,
 					2130903115,
-					2130903200,
 					2130903201,
 					2130903202,
 					2130903203,
-					2130903224,
+					2130903204,
 					2130903225,
-					2130903264,
+					2130903226,
 					2130903265,
 					2130903266,
-					2130903270,
+					2130903267,
 					2130903271,
 					2130903272,
-					2130903354,
+					2130903273,
 					2130903355,
 					2130903356,
 					2130903357,
-					2130903358};
+					2130903358,
+					2130903359};
 			
 			// aapt resource value: 1
 			public const int TextInputLayout_android_hint = 1;
@@ -13792,11 +18988,11 @@ namespace Study_Buddy
 			// aapt resource value: 27
 			public const int TextInputLayout_passwordToggleTintMode = 27;
 			
-			// aapt resource value: { 0x1010034,0x7F0300B6,0x7F0300B7 }
+			// aapt resource value: { 0x1010034,0x7F0300B7,0x7F0300B8 }
 			public static int[] ThemeEnforcement = new int[] {
 					16842804,
-					2130903222,
-					2130903223};
+					2130903223,
+					2130903224};
 			
 			// aapt resource value: 0
 			public const int ThemeEnforcement_android_textAppearance = 0;
@@ -13807,37 +19003,37 @@ namespace Study_Buddy
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F030051,0x7F03007F,0x7F030080,0x7F030091,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030123,0x7F030124,0x7F030128,0x7F03012D,0x7F03012E,0x7F030140,0x7F030173,0x7F030174,0x7F030175,0x7F0301BB,0x7F0301BD,0x7F0301BE,0x7F0301BF,0x7F0301C0,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301C4 }
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F030051,0x7F03007F,0x7F030080,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F030124,0x7F030125,0x7F030129,0x7F03012E,0x7F03012F,0x7F030141,0x7F030174,0x7F030175,0x7F030176,0x7F0301BC,0x7F0301BE,0x7F0301BF,0x7F0301C0,0x7F0301C1,0x7F0301C2,0x7F0301C3,0x7F0301C4,0x7F0301C5 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
 					2130903121,
 					2130903167,
 					2130903168,
-					2130903185,
 					2130903186,
 					2130903187,
 					2130903188,
 					2130903189,
 					2130903190,
-					2130903331,
+					2130903191,
 					2130903332,
-					2130903336,
-					2130903341,
+					2130903333,
+					2130903337,
 					2130903342,
-					2130903360,
-					2130903411,
+					2130903343,
+					2130903361,
 					2130903412,
 					2130903413,
-					2130903483,
-					2130903485,
+					2130903414,
+					2130903484,
 					2130903486,
 					2130903487,
 					2130903488,
 					2130903489,
 					2130903490,
 					2130903491,
-					2130903492};
+					2130903492,
+					2130903493};
 			
 			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
@@ -13926,13 +19122,13 @@ namespace Study_Buddy
 			// aapt resource value: 28
 			public const int Toolbar_titleTextColor = 28;
 			
-			// aapt resource value: { 0x1010000,0x10100DA,0x7F030134,0x7F030135,0x7F0301B1 }
+			// aapt resource value: { 0x1010000,0x10100DA,0x7F030135,0x7F030136,0x7F0301B2 }
 			public static int[] View = new int[] {
 					16842752,
 					16842970,
-					2130903348,
 					2130903349,
-					2130903473};
+					2130903350,
+					2130903474};
 			
 			// aapt resource value: { 0x10100D4,0x7F030034,0x7F030035 }
 			public static int[] ViewBackgroundHelper = new int[] {
