@@ -4,36 +4,49 @@
              x:Class="Study_Buddy.Views.TaskPlanPage"
              Title="Task Planning"
              xmlns:local="clr-namespace:Study_Buddy.ViewModels"  
-             xmlns:model="clr-namespace:Study_Buddy.Models" >
+             xmlns:model="clr-namespace:Study_Buddy.Models" 
+             xmlns:colorpicker="clr-namespace:ColorPicker;assembly=ColorPicker">
     <!--
       x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
       https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
     -->
     <ContentPage.Content>
-        <StackLayout Spacing="3" Padding="15">
-            <Label Text="Task Name" FontSize="Medium" />
-            <Entry Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
-            
+        <ScrollView>
+            <StackLayout Spacing="3" Padding="15">
+                <Label Text="Task Name" FontSize="Medium" />
+                <Entry Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
 
-            <StackLayout Orientation="Horizontal">
-                <Switch/>
-                <Label Text="Group Task" FontSize="Medium"/>
-            </StackLayout>
-            <StackLayout Orientation="Horizontal">
-                <Label Text="Due Date" FontSize="Medium" Padding="10 0"/>
-                <DatePicker/>
+                <!-- Group or not Group work -->
+                <StackLayout Orientation="Horizontal">
+                    <Switch />
+                    <Label Text="Group Task" FontSize="Medium"/>
+                </StackLayout>
+                <!-- Dated-->
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Due Date" FontSize="Medium" Padding="10,0"/>
+                    <DatePicker/>
+                </StackLayout>
                 <!-- Time-->
-                <Label Text="Time" FontSize="Medium" Padding="10 0"/>
-                <TimePicker/>
-                <!-- Time-->
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Time" FontSize="Medium" Padding="10,0"/>
+                    <TimePicker/>
+                </StackLayout>
+                <Label Text="Description" FontSize="Medium" />
+                <StackLayout BackgroundColor="LightGray" Padding="1" >
+                    <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" BackgroundColor="White"/>
+                </StackLayout>
+                <!-- Colour Picker https://www.nuget.org/packages/ColorPicker.Xamarin.Forms/ -->
+                <!--<colorpicker:RGBSliders x:Name="RGBSliders1"
+                                ConnectedColorPicker="{x:Reference Name=ColorWheel1}"
+                                ShowAlphaSlider="{ Binding Source={x:Reference ShowAlphaSwitch}, Path=IsToggled }"/>-->
+                <colorpicker:ColorTriangle/>
+                <colorpicker:ColorWheel/>
+                <colorpicker:RGBSliders/>
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                    <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+                </StackLayout>
             </StackLayout>
-            <Label Text="Description" FontSize="Medium" />
-            <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
-
-            <StackLayout Orientation="Horizontal">
-                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
-                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
-            </StackLayout>
-        </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
