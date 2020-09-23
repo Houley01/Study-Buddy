@@ -14,6 +14,7 @@ namespace Study_Buddy
             Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));
             Routing.RegisterRoute(nameof(NewItemPage), typeof(NewItemPage));
             Routing.RegisterRoute(nameof(TaskPlanPage), typeof(TaskPlanPage));
+            Routing.RegisterRoute(nameof(ColourPickerPage), typeof(ColourPickerPage));
         }
 
         private async void OnMenuItemClicked(object sender, EventArgs e)

@@ -4,12 +4,15 @@
              x:Class="Study_Buddy.Views.TaskPlanPage"
              Title="Task Planning"
              xmlns:local="clr-namespace:Study_Buddy.ViewModels"  
-             xmlns:model="clr-namespace:Study_Buddy.Models" 
+             xmlns:vm="clr-namespace:Study_Buddy.ViewModels" 
              xmlns:colorpicker="clr-namespace:ColorPicker;assembly=ColorPicker">
     <!--
       x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
       https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
     -->
+    <ContentPage.BindingContext>
+        <vm:TaskPlanViewModel />
+    </ContentPage.BindingContext>
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Spacing="3" Padding="15">
@@ -35,13 +38,10 @@
                 <StackLayout BackgroundColor="LightGray" Padding="1" >
                     <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" BackgroundColor="White"/>
                 </StackLayout>
-                <!-- Colour Picker https://www.nuget.org/packages/ColorPicker.Xamarin.Forms/ -->
-                <!--<colorpicker:RGBSliders x:Name="RGBSliders1"
-                                ConnectedColorPicker="{x:Reference Name=ColorWheel1}"
-                                ShowAlphaSlider="{ Binding Source={x:Reference ShowAlphaSwitch}, Path=IsToggled }"/>-->
-                <colorpicker:ColorTriangle/>
-                <colorpicker:ColorWheel/>
-                <colorpicker:RGBSliders/>
+                <StackLayout Orientation="Horizontal">
+                    <Entry Text="ExampleText" FontSize="Medium" />
+                    <Button Text="Colour Picker" Command="{Binding ColourPickerCommand}" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
                 <StackLayout Orientation="Horizontal">
                     <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
                     <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>

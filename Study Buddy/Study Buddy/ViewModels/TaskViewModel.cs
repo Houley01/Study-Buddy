@@ -17,7 +17,7 @@ namespace Study_Buddy.ViewModels
         public string Message { get; private set; }
 
         public Command AddTaskCommand { get; }
-
+        
         public TaskViewModel()
         {
             Title = "Tasks";
