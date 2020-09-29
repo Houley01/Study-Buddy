@@ -10,6 +10,7 @@ using StudyBuddy.Models.Notes;
 using StudyBuddy.Services;
 using Study_Buddy.Services;
 using System.Runtime.CompilerServices;
+using Study_Buddy;
 
 namespace StudyBuddy.ViewModels
 {
@@ -36,8 +37,9 @@ namespace StudyBuddy.ViewModels
         public string NoteTags
         {
             get => string.Join(',', tags);
-            set => SetProperty(ref tags, value.Split(','));
+            set => SetProperty(ref tags, value.Split(',', StringSplitOptions.None));
         }
+        public string[] TagArray { get => tags; }
 
         private string visibility;
         public string NoteVisibility
@@ -61,9 +63,10 @@ namespace StudyBuddy.ViewModels
         {
             Note n = new Note()
             {
+                Id = Guid.NewGuid(),
                 Title = this.NoteTitle,
                 Content = this.NoteContent,
-                Tags = this.tags,
+                Tags = this.tags.Where(x=> x.Length > 0).ToArray(),
                 Visibility = this.NoteVisibility
             };
 
@@ -74,7 +77,6 @@ namespace StudyBuddy.ViewModels
 
 
             await NoteStore.AddNote(this._NoteSubjectId, this._NoteSectionId, n);
-            
         }
     }
 }
