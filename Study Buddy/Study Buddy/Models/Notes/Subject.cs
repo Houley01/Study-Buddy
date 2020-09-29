@@ -9,5 +9,10 @@ namespace StudyBuddy.Models.Notes
         public string Name { get; set; }
         public string Code { get; set; }
         public List<Section> Sections { get; set; }
+
+        public Subject()
+        {
+            Sections = new List<Section>();
+        }
     }
 }
