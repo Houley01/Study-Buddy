@@ -6,10 +6,7 @@
              xmlns:local="clr-namespace:Study_Buddy.ViewModels"  
              xmlns:vm="clr-namespace:Study_Buddy.ViewModels" 
              xmlns:colorpicker="clr-namespace:ColorPicker;assembly=ColorPicker">
-    <!--
-      x:DataType enables compiled bindings for better performance and compile time validation of binding expressions.
-      https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/data-binding/compiled-bindings
-    -->
+
     <ContentPage.BindingContext>
         <vm:TaskPlanViewModel />
     </ContentPage.BindingContext>
@@ -39,7 +36,7 @@
                     <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" BackgroundColor="White"/>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">
-                    <Entry Text="ExampleText" FontSize="Medium" />
+                    <Entry Text="ExampleText" FontSize="Medium" IsReadOnly="True" BackgroundColor="{Binding ColorSeleted} "/>
                     <Button Text="Colour Picker" Command="{Binding ColourPickerCommand}" HorizontalOptions="FillAndExpand"/>
                 </StackLayout>
                 <StackLayout Orientation="Horizontal">

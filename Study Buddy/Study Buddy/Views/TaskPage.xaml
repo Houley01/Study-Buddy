@@ -46,8 +46,28 @@
                                             <ColumnDefinition Width="Auto" />
                                             <ColumnDefinition Width="Auto" />
                                         </Grid.ColumnDefinitions>
-                                        <CheckBox IsChecked="{Binding Complete}" Grid.Column="0" Color="Black"/>
-                                        <Label Text="{Binding Name}" Grid.Column="1" Padding="10"/>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <CheckBox IsChecked="{Binding Task1Complete}" Grid.Row="0" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task1Name}" Grid.Row="0" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task2Complete}" Grid.Row="1" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task2Name}" Grid.Row="1" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task3Complete}" Grid.Row="2" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task3Name}" Grid.Row="2" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task4Complete}" Grid.Row="3" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task4Name}" Grid.Row="3" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task5Complete}" Grid.Row="4" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task5Name}" Grid.Row="4" Grid.Column="1" Padding="10"/>
+
                                     </Grid>
                                 </DataTemplate>
                             </Expander.ContentTemplate>

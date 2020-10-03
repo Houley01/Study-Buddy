@@ -20,7 +20,8 @@ namespace Study_Buddy.Views
         public TaskPlanPage()
         {
             InitializeComponent();
-
+            UserColour selected = new UserColour();
+            selected.Picked = Color.FromRgb(255, 255, 255);
             /*BindingContext = _viewModel = new ItemsViewModel();*/
         }
 

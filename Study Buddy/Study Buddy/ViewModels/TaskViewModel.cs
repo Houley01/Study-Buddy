@@ -29,7 +29,7 @@ namespace Study_Buddy.ViewModels
 
         void Expand(Tasks item)
         {
-            Message = $"{item.Name} tapped.";
+            Message = $"{item.TaskGroup} tapped.";
             OnPropertyChanged("Message");
         }
 
@@ -42,26 +42,50 @@ namespace Study_Buddy.ViewModels
                 TaskGroup = "Group 1",
                 BackgroundColor = "Red",
                 TextColor = "Black",
-                Name = "Task1",
-                Complete = false
+                Task1Name = "Task1",
+                Task1Complete = false,
+                Task2Name = "Task2",
+                Task2Complete = true,
+                Task3Name = "Task3",
+                Task3Complete = false,
+                Task4Name = "Task4",
+                Task4Complete = true,
+                Task5Name = "Task5",
+                Task5Complete = false
             });
             TaskItems.Add(new Tasks
             {
                 Id = Guid.NewGuid().ToString(),
                 TaskGroup = "Group 2",
-                BackgroundColor = "Pink",
-                TextColor = "White",
-                Name = "Task2",
-                Complete = true
+                BackgroundColor = "Blue",
+                TextColor = "Black",
+                Task1Name = "Task1",
+                Task1Complete = false,
+                Task2Name = "Task2",
+                Task2Complete = true,
+                Task3Name = "Task3",
+                Task3Complete = false,
+                Task4Name = "Task4",
+                Task4Complete = true,
+                Task5Name = "Task5",
+                Task5Complete = false
             });
             TaskItems.Add(new Tasks
             {
                 Id = Guid.NewGuid().ToString(),
                 TaskGroup = "Group 3",
-                BackgroundColor = "Blue",
+                BackgroundColor = "Green",
                 TextColor = "Black",
-                Name = "Task 3",
-                Complete = false
+                Task1Name = "Task1",
+                Task1Complete = false,
+                Task2Name = "Task2",
+                Task2Complete = true,
+                Task3Name = "Task3",
+                Task3Complete = false,
+                Task4Name = "Task4",
+                Task4Complete = true,
+                Task5Name = "Task5",
+                Task5Complete = false
             });
         }
 
