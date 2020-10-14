@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace StudyBuddy.Models
+namespace Study_Buddy.Models
 {
-    class Tasks
+    public class Tasks
     {
         public string Id { get; set; }
         public string TaskGroup { get; set; }
         public string BackgroundColor { get; set; }
-        public string TextColor { get; set; }
         public string Task1Name { get; set; }
         public bool Task1Complete { get; set; }
         public string Task2Name { get; set; }

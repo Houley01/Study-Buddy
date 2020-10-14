@@ -3,6 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Study_Buddy.Services;
 using Study_Buddy.Views;
+using StudyBuddy.Services;
 
 namespace Study_Buddy
 {
@@ -13,6 +14,7 @@ namespace Study_Buddy
         {
             InitializeComponent();
             DependencyService.Register<MockDataStore>();
+            DependencyService.Register<TaskDataStore>();
             Device.SetFlags(new string[] { "Expander_Experimental" });
             MainPage = new AppShell();
         }

@@ -13,32 +13,52 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Spacing="3" Padding="15">
-                <Label Text="Task Name" FontSize="Medium" />
-                <Entry Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
+                <Label Text="Heading" FontSize="Medium" />
+                <Entry Text="{Binding Heading, Mode=TwoWay}" FontSize="Medium" />
 
-                <!-- Group or not Group work -->
+                <!-- Group or not Group work
                 <StackLayout Orientation="Horizontal">
                     <Switch />
                     <Label Text="Group Task" FontSize="Medium"/>
-                </StackLayout>
-                <!-- Dated-->
+                </StackLayout> -->
+                <!-- Date and time-->
                 <StackLayout Orientation="Horizontal">
-                    <Label Text="Due Date" FontSize="Medium" Padding="10,0"/>
-                    <DatePicker/>
+                    <Label Text="Due Date" FontSize="Medium" Padding="10,10"/>
+                    <DatePicker Date="{Binding DateSelected, Mode=TwoWay}"/>
+                    <Label Text="Time" FontSize="Medium" Padding="10,10"/>
+                    <TimePicker Time="{Binding TimeSelected, Mode=TwoWay}"/>
                 </StackLayout>
-                <!-- Time-->
-                <StackLayout Orientation="Horizontal">
-                    <Label Text="Time" FontSize="Medium" Padding="10,0"/>
-                    <TimePicker/>
+                
+                <StackLayout>
+                    <Label Text="Task 1" FontSize="Medium" />
+                    <Entry Text="{Binding Task1, Mode=TwoWay}" FontSize="Medium" />
                 </StackLayout>
-                <Label Text="Description" FontSize="Medium" />
-                <StackLayout BackgroundColor="LightGray" Padding="1" >
-                    <Editor Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" BackgroundColor="White"/>
+
+                <StackLayout>
+                    <Label Text="Task 2" FontSize="Medium" />
+                    <Entry Text="{Binding Task2, Mode=TwoWay}" FontSize="Medium" />
                 </StackLayout>
-                <StackLayout Orientation="Horizontal">
-                    <Entry Text="ExampleText" FontSize="Medium" IsReadOnly="True" BackgroundColor="{Binding ColorSeleted} "/>
+
+                <StackLayout>
+                    <Label Text="Task 3" FontSize="Medium" />
+                    <Entry Text="{Binding Task3, Mode=TwoWay}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout>
+                    <Label Text="Task 4" FontSize="Medium" />
+                    <Entry Text="{Binding Task4, Mode=TwoWay}" FontSize="Medium" />
+                </StackLayout>
+
+                <StackLayout>
+                    <Label Text="Task 5" FontSize="Medium" />
+                    <Entry Text="{Binding Task5, Mode=TwoWay}" FontSize="Medium" />
+                </StackLayout>
+                
+                <!--<StackLayout Orientation="Horizontal">
+                    <Entry Text="Example Text" FontSize="Medium" IsReadOnly="True" BackgroundColor="{Binding ColorSeleted}" TextColor="#F99F"/>
                     <Button Text="Colour Picker" Command="{Binding ColourPickerCommand}" HorizontalOptions="FillAndExpand"/>
-                </StackLayout>
+                </StackLayout>-->
+                
                 <StackLayout Orientation="Horizontal">
                     <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
                     <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
