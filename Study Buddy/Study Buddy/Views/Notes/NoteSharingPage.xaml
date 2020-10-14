@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Study_Buddy.Views.NoteSharingPage"
+             xmlns:vm="clr-namespace:Study_Buddy.ViewModels"
+             xmlns:n="clr-namespace:StudyBuddy.Models.Notes"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:NoteSharingViewModel />
+
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <ScrollView>
+            <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                <Picker x:Name="picker" 
+                        Title="Select a subject"
+                        ItemsSource="{Binding SubjectList}"
+                        SelectedItem="{Binding SelectedSubject}"
+                        ItemDisplayBinding="{Binding Code}"/>
+                
+                <CollectionView ItemsSource="{Binding CurrentNotes}" x:DataType="n:Note">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Label
+                                Text="{Binding Content}"
+                            />
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+
+</ContentPage>
