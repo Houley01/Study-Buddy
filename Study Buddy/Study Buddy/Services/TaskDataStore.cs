@@ -17,17 +17,17 @@ namespace Study_Buddy.Services
                     Id = Guid.NewGuid().ToString(), TaskGroup = "Group 1", BackgroundColor = "Red",
                     Task1Name = "Task1", Task1Complete = false, Task2Name = "Task2", Task2Complete = true,
                     Task3Name = "Task3", Task3Complete = false, Task4Name = "Task4", Task4Complete = true,
-                    Task5Name = "Task5", Task5Complete = false },
+                    Task5Name = "Task5", Task5Complete = false , Date = "25/10/2020"},
                 new Tasks {
                     Id = Guid.NewGuid().ToString(), TaskGroup = "Group 2", BackgroundColor = "Green",
                     Task1Name = "Task1", Task1Complete = false, Task2Name = "Task2", Task2Complete = true,
                     Task3Name = "Task3", Task3Complete = false, Task4Name = "Task4", Task4Complete = true,
-                    Task5Name = "Task5", Task5Complete = false },
+                    Task5Name = "Task5", Task5Complete = false, Date = "25/10/2020" },
                 new Tasks {
                     Id = Guid.NewGuid().ToString(), TaskGroup = "Group 3", BackgroundColor = "Blue",
                     Task1Name = "Task1", Task1Complete = false, Task2Name = "Task2", Task2Complete = true,
                     Task3Name = "Task3", Task3Complete = false, Task4Name = "Task4", Task4Complete = true,
-                    Task5Name = "Task5", Task5Complete = false}
+                    Task5Name = "Task5", Task5Complete = false, Date = "25/10/2020"}
             };
         }
         public async Task<bool> AddItemAsync(Tasks item)

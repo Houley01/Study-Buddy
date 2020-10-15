@@ -21,6 +21,7 @@ namespace Study_Buddy.ViewModels
         private string task4;
         private string task5;
         private Color headingColor;
+        private string date;       
 
 
         public Command ColourPickerCommand { get; }
@@ -42,6 +43,12 @@ namespace Study_Buddy.ViewModels
         {
             get => heading;
             set => SetProperty(ref heading, value);
+        }
+
+        public string Date
+        {
+            get => date;
+            set => SetProperty(ref date, value);
         }
 
         public string Task1
@@ -87,7 +94,8 @@ namespace Study_Buddy.ViewModels
                 !String.IsNullOrWhiteSpace(Task2) &
                 !String.IsNullOrWhiteSpace(Task3) &
                 !String.IsNullOrWhiteSpace(Task4) &
-                !String.IsNullOrWhiteSpace(Task5)
+                !String.IsNullOrWhiteSpace(Task5) &
+                !String.IsNullOrWhiteSpace(Date)
                 );
 
 
@@ -115,7 +123,8 @@ namespace Study_Buddy.ViewModels
                 Task4Name = task4,
                 Task4Complete = false,
                 Task5Name = task5,
-                Task5Complete = false
+                Task5Complete = false,
+                Date = date.Substring(0,7)
 
             };
 
@@ -123,6 +132,7 @@ namespace Study_Buddy.ViewModels
 
             // This will pop the current page off the navigation stack
             await Shell.Current.GoToAsync("..");
+            Console.WriteLine("{0}", date.Substring(0, 10));
         }
 
         public async void ColourPicker()

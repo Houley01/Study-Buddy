@@ -24,7 +24,7 @@
                 <!-- Date and time-->
                 <StackLayout Orientation="Horizontal">
                     <Label Text="Due Date" FontSize="Medium" Padding="10,10"/>
-                    <DatePicker Date="{Binding DateSelected, Mode=TwoWay}"/>
+                    <DatePicker Date="{Binding Date, Mode=TwoWay}"/>
                     <Label Text="Time" FontSize="Medium" Padding="10,10"/>
                     <TimePicker Time="{Binding TimeSelected, Mode=TwoWay}"/>
                 </StackLayout>

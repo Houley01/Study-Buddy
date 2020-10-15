@@ -19,6 +19,7 @@ namespace Study_Buddy.Models
         public bool Task4Complete { get; set; }
         public string Task5Name { get; set; }
         public bool Task5Complete { get; set; }
+        public string Date { get; set; }
 
     }
 }
