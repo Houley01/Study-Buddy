@@ -124,7 +124,7 @@ namespace Study_Buddy.ViewModels
                 Task4Complete = false,
                 Task5Name = task5,
                 Task5Complete = false,
-                Date = date.Substring(0,7)
+                Date = date.Substring(0,10)
 
             };
 

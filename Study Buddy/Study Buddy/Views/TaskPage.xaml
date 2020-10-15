@@ -44,7 +44,7 @@
                                     <Label Text="{Binding TaskGroup}"
                                    FontAttributes="Bold"
                                    FontSize="Medium" />
-                                    <Label Text="{Binding Date}" FontSize="Small" />
+                                    <Label Text="{Binding Date}" FontSize="Small" HorizontalOptions="Center" />
                                     <Image Source="expand.png" 
                                            HorizontalOptions="End"
                                            VerticalOptions="Start">
