@@ -15,18 +15,10 @@
             <StackLayout Spacing="3" Padding="15">
                 <Label Text="Heading" FontSize="Medium" />
                 <Entry Text="{Binding Heading, Mode=TwoWay}" FontSize="Medium" />
-
-                <!-- Group or not Group work
-                <StackLayout Orientation="Horizontal">
-                    <Switch />
-                    <Label Text="Group Task" FontSize="Medium"/>
-                </StackLayout> -->
                 <!-- Date and time-->
                 <StackLayout Orientation="Horizontal">
                     <Label Text="Due Date" FontSize="Medium" Padding="10,10"/>
                     <DatePicker Date="{Binding Date, Mode=TwoWay}"/>
-                    <Label Text="Time" FontSize="Medium" Padding="10,10"/>
-                    <TimePicker Time="{Binding TimeSelected, Mode=TwoWay}"/>
                 </StackLayout>
                 
                 <StackLayout>
@@ -53,11 +45,11 @@
                     <Label Text="Task 5" FontSize="Medium" />
                     <Entry Text="{Binding Task5, Mode=TwoWay}" FontSize="Medium" />
                 </StackLayout>
-                
-                <!--<StackLayout Orientation="Horizontal">
-                    <Entry Text="Example Text" FontSize="Medium" IsReadOnly="True" BackgroundColor="{Binding ColorSeleted}" TextColor="#F99F"/>
+                <!--
+                <StackLayout Orientation="Horizontal">
+                    <Entry Text="{Binding ExpanderColour, Mode=TwoWay}" FontSize="Medium" IsReadOnly="False" BackgroundColor="{Binding ColorSeleted}" TextColor="#F99F"/>
                     <Button Text="Colour Picker" Command="{Binding ColourPickerCommand}" HorizontalOptions="FillAndExpand"/>
-                </StackLayout>-->
+                </StackLayout> -->
                 
                 <StackLayout Orientation="Horizontal">
                     <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>

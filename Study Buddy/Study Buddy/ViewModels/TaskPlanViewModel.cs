@@ -9,6 +9,7 @@ using Xamarin.Forms;
 using Study_Buddy.Models;
 using Study_Buddy.Views;
 using StudyBuddy.Models;
+using System.Diagnostics;
 
 namespace Study_Buddy.ViewModels
 {
@@ -21,14 +22,16 @@ namespace Study_Buddy.ViewModels
         private string task4;
         private string task5;
         private Color headingColor;
-        private string date;       
+        private DateTime date;
+        
 
 
         public Command ColourPickerCommand { get; }
         public TaskPlanViewModel()
         {
             Title = "Task Planning";
-
+            DateTime MinDate = DateTime.Now;
+            date = DateTime.Now;
             ColourPickerCommand = new Command(ColourPicker);
             SaveCommand = new Command(OnSave, ValidateSave);
             CancelCommand = new Command(OnCancel);
@@ -45,10 +48,9 @@ namespace Study_Buddy.ViewModels
             set => SetProperty(ref heading, value);
         }
 
-        public string Date
-        {
+        public DateTime Date { 
             get => date;
-            set => SetProperty(ref date, value);
+            set => SetProperty(ref date, value); 
         }
 
         public string Task1
@@ -94,8 +96,7 @@ namespace Study_Buddy.ViewModels
                 !String.IsNullOrWhiteSpace(Task2) &
                 !String.IsNullOrWhiteSpace(Task3) &
                 !String.IsNullOrWhiteSpace(Task4) &
-                !String.IsNullOrWhiteSpace(Task5) &
-                !String.IsNullOrWhiteSpace(Date)
+                !String.IsNullOrWhiteSpace(Task5)
                 );
 
 
@@ -124,7 +125,7 @@ namespace Study_Buddy.ViewModels
                 Task4Complete = false,
                 Task5Name = task5,
                 Task5Complete = false,
-                Date = date.Substring(0,10)
+                Date = date.ToString("dd/MM/yyyy")
 
             };
 
@@ -132,7 +133,6 @@ namespace Study_Buddy.ViewModels
 
             // This will pop the current page off the navigation stack
             await Shell.Current.GoToAsync("..");
-            Console.WriteLine("{0}", date.Substring(0, 10));
         }
 
         public async void ColourPicker()

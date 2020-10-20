@@ -5,10 +5,6 @@
              xmlns:local="clr-namespace:Study_Buddy.ViewModels"  
              xmlns:model="clr-namespace:Study_Buddy.Models" 
              Title="{Binding Title}">
-    <!--xmlns:vm="clr-namespace:Study_Buddy.ViewModels"-->
-    <!--<ContentPage.BindingContext>
-        <vm:TaskViewModel />
-    </ContentPage.BindingContext>-->
     
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddTaskCommand}"/>
@@ -20,24 +16,6 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Padding="10" x:DataType="model:Tasks">
-                        <!--<Label Text="{Binding TaskGroup}" 
-                            LineBreakMode="NoWrap" 
-                            Style="{DynamicResource ListItemTextStyle}" 
-                            FontSize="16" />
-                        <Label Text="{Binding Task1Name}" 
-                            LineBreakMode="NoWrap"
-                            Style="{DynamicResource ListItemDetailTextStyle}"
-                            FontSize="13" />
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer 
-                                NumberOfTapsRequired="1"
-                                Command="{Binding Source={RelativeSource AncestorType={x:Type local:ItemsViewModel}}, Path=ItemTapped}"		
-                                CommandParameter="{Binding .}">
-                            </TapGestureRecognizer>
-                        </StackLayout.GestureRecognizers> -->
-
-
-
                         <Expander>
                             <Expander.Header>
                                 <Grid BackgroundColor="{Binding BackgroundColor}" Padding="10">
