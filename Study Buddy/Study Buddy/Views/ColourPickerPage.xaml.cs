@@ -13,20 +13,21 @@ using Study_Buddy.ViewModels;
 
 namespace Study_Buddy.Views
 {
-    public partial class TaskPlanPage : ContentPage
+    public partial class ColourPickerPage : ContentPage
     {
         /*ItemsViewModel _viewModel;*/
 
-        public TaskPlanPage()
+        public ColourPickerPage()
         {
             InitializeComponent();
-            /*UserColour selected = new UserColour();
-            selected.Picked = Color.FromRgb(255, 255, 255);*/
+
+            /*BindingContext = _viewModel = new ItemsViewModel();*/
         }
 
         protected override void OnAppearing()
         {
             base.OnAppearing();
+            /*_viewModel.OnAppearing();*/
         }
     }
 }

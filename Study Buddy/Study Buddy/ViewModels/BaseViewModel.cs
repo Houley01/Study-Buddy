@@ -7,13 +7,15 @@ using Xamarin.Forms;
 
 using Study_Buddy.Models;
 using Study_Buddy.Services;
+using StudyBuddy.Services;
+using StudyBuddy.Models;
 
 namespace Study_Buddy.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
-
+        public ITaskDataStore<Tasks> TaskDataStore => DependencyService.Get<ITaskDataStore<Tasks>>();
         bool isBusy = false;
         public bool IsBusy
         {

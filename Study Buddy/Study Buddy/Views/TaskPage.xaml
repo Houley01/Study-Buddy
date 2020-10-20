@@ -2,20 +2,85 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Study_Buddy.Views.TaskPage"
-             xmlns:vm="clr-namespace:Study_Buddy.ViewModels"
+             xmlns:local="clr-namespace:Study_Buddy.ViewModels"  
+             xmlns:model="clr-namespace:Study_Buddy.Models" 
              Title="{Binding Title}">
-    <ContentPage.BindingContext>
-        <vm:TaskViewModel />
-    </ContentPage.BindingContext>
     
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddTaskCommand}"/>
     </ContentPage.ToolbarItems>
+    <RefreshView x:DataType="local:TaskViewModel" Command="{Binding LoadTasksCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
+        <CollectionView x:Name="TasksListView"
+                ItemsSource="{Binding TaskItems}"
+                SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="10" x:DataType="model:Tasks">
+                        <Expander>
+                            <Expander.Header>
+                                <Grid BackgroundColor="{Binding BackgroundColor}" Padding="10">
+                                    <Label Text="{Binding TaskGroup}"
+                                   FontAttributes="Bold"
+                                   FontSize="Medium" />
+                                    <Label Text="{Binding Date}" FontSize="Small" HorizontalOptions="Center" />
+                                    <Image Source="expand.png" 
+                                           HorizontalOptions="End"
+                                           VerticalOptions="Start">
+                                        <Image.Triggers>
+                                            <DataTrigger TargetType="Image"
+                                                         Binding="{Binding Source={RelativeSource AncestorType={x:Type Expander}}, Path=IsExpanded}"
+                                                         Value="True">
+                                                <Setter Property="Source" Value="collapse.png"/>
+                                            </DataTrigger>
+                                        </Image.Triggers>
+                                    </Image>
+                                </Grid>
 
-    <ContentPage.Content>
+                            </Expander.Header>
+                            <Expander.ContentTemplate>
+                                <DataTemplate>
+                                    <Grid Padding="10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto" />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <CheckBox IsChecked="{Binding Task1Complete}" Grid.Row="0" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task1Name}" Grid.Row="0" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task2Complete}" Grid.Row="1" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task2Name}" Grid.Row="1" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task3Complete}" Grid.Row="2" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task3Name}" Grid.Row="2" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task4Complete}" Grid.Row="3" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task4Name}" Grid.Row="3" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task5Complete}" Grid.Row="4" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task5Name}" Grid.Row="4" Grid.Column="1" Padding="10"/>
+
+                                    </Grid>
+                                </DataTemplate>
+                            </Expander.ContentTemplate>
+                        </Expander>
+
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </RefreshView>
+
+    <!--<ContentPage.Content x:DataType="local:ItemsViewModel" Command="{Binding LoadTasksCommand}" IsRefreshing="{Binding IsBusy, Mode=TwoWay}">
         <ScrollView Margin="20">
 
-            <StackLayout BindableLayout.ItemsSource="{Binding TaskItems}">
+            <StackLayout BindableLayout.ItemsSource="{Binding Tasks}">
                 <BindableLayout.ItemTemplate>
                     <DataTemplate>
                         <Expander>
@@ -46,8 +111,28 @@
                                             <ColumnDefinition Width="Auto" />
                                             <ColumnDefinition Width="Auto" />
                                         </Grid.ColumnDefinitions>
-                                        <CheckBox IsChecked="{Binding Complete}" Grid.Column="0" Color="Black"/>
-                                        <Label Text="{Binding Name}" Grid.Column="1" Padding="10"/>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <CheckBox IsChecked="{Binding Task1Complete}" Grid.Row="0" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task1Name}" Grid.Row="0" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task2Complete}" Grid.Row="1" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task2Name}" Grid.Row="1" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task3Complete}" Grid.Row="2" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task3Name}" Grid.Row="2" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task4Complete}" Grid.Row="3" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task4Name}" Grid.Row="3" Grid.Column="1" Padding="10"/>
+
+                                        <CheckBox IsChecked="{Binding Task5Complete}" Grid.Row="4" Grid.Column="0" Color="Black"/>
+                                        <Label Text="{Binding Task5Name}" Grid.Row="4" Grid.Column="1" Padding="10"/>
+
                                     </Grid>
                                 </DataTemplate>
                             </Expander.ContentTemplate>
@@ -56,5 +141,5 @@
                 </BindableLayout.ItemTemplate>
             </StackLayout>
         </ScrollView>
-    </ContentPage.Content>
-</ContentPage>
+    </ContentPage.Content>-->
+</ContentPage> 

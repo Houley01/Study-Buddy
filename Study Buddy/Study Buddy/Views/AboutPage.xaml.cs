@@ -11,5 +11,15 @@ namespace Study_Buddy.Views
         {
             InitializeComponent();
         }
+
+        private async void GoToNotes(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("//NoteSharingPage");
+        }
+
+        private async void GoToTasks(object sender, EventArgs e)
+        {
+            await Shell.Current.GoToAsync("//TaskPage");
+        }
     }
 }
