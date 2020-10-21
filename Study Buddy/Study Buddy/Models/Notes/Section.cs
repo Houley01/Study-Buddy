@@ -3,16 +3,15 @@ using System.Collections.Generic;
 
 namespace StudyBuddy.Models.Notes
 {
-    public class Subject
+    public class Section
     {
         public Guid Id { get; set; } = new Guid();
         public string Name { get; set; }
-        public string Code { get; set; }
-        public List<Section> Sections { get; set; }
+        public List<Note> Notes { get; set; }
 
-        public Subject()
+        public Section()
         {
-            Sections = new List<Section>();
+            Notes = new List<Note>();
         }
     }
 }

@@ -36,12 +36,14 @@ namespace Study_Buddy.ViewModels
 
             try
             {
+                /*
                 Items.Clear();
-                var items = await DataStore.GetItemsAsync(true);
+                var items = await this.DataStore.GetItemsAsync();
                 foreach (var item in items)
                 {
                     Items.Add(item);
                 }
+                */
             }
             catch (Exception ex)
             {
