@@ -1,26 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using StudyBuddy.Models.Users;
 
 namespace StudyBuddy.Models.Notes
 {
-    public class Note : Models.DataStore.DataStoreObject
+    public class Note 
     {
-        public Note() : base() { }
-
-        public Guid AuthorId { get; set; }
-        public User Author { get; set; }
+        public Guid Id { get; set; } = new Guid();
         public string Title { get; set; }
-        public string[] Tags { get; set; }
+        public string Author { get; set; }
         public string Content { get; set; }
-        public NoteVisibility Visibility { get; set; } = NoteVisibility.Everyone; //Defaults to evreyone
-        public List<Guid> VisibleToUsers { get; set; } //May be null if Visibility is set to anything other than SpecificPeople
-
-        public enum NoteVisibility
-        {
-            Private,
-            Everyone,
-            SpecificPeoplle
-        }
+        public string[] Tags { get; set; }
+        public string Visibility { get; set; }
+        public string SectionName { get; set; }
+        public string SubjectName { get; set; }
     }
 }

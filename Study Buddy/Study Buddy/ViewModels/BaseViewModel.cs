@@ -8,7 +8,7 @@ using Xamarin.Forms;
 using Study_Buddy.Models;
 using Study_Buddy.Services;
 using StudyBuddy.Services;
-using StudyBuddy.Models;
+using StudyBuddy.Models.Notes;
 
 namespace Study_Buddy.ViewModels
 {
@@ -16,6 +16,8 @@ namespace Study_Buddy.ViewModels
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
         public ITaskDataStore<Tasks> TaskDataStore => DependencyService.Get<ITaskDataStore<Tasks>>();
+        public NoteDataStore NoteStore => DependencyService.Get<NoteDataStore>();
+
         bool isBusy = false;
         public bool IsBusy
         {
