@@ -17,8 +17,6 @@ namespace Study_Buddy.ViewModels
         public ICommand ExpandCommand { get; private set; }
         public bool IsExpanded { get; set; }
         public string Message { get; private set; }
-        private Tasks _SelectedTask;
-
         public Command AddTaskCommand { get; }
         public Command LoadTasksCommand { get; }
         
@@ -44,7 +42,6 @@ namespace Study_Buddy.ViewModels
                 foreach (var item in tasks)
                 {
                     TaskItems.Add(item);
-                    Console.WriteLine("{0}, {1}", item.Id, item.TaskGroup);
                 }
             }
             catch (Exception ex)
@@ -60,7 +57,6 @@ namespace Study_Buddy.ViewModels
         public void OnAppearing()
         {
             IsBusy = true;
-            _SelectedTask = null;
         }
 
         void Expand(Tasks item)

@@ -32,7 +32,7 @@ namespace Study_Buddy.ViewModels
             Title = "Task Planning";
             DateTime MinDate = DateTime.Now;
             date = DateTime.Now;
-            ColourPickerCommand = new Command(ColourPicker);
+            //ColourPickerCommand = new Command(ColourPicker);
             SaveCommand = new Command(OnSave, ValidateSave);
             CancelCommand = new Command(OnCancel);
             this.PropertyChanged += (_, __) => SaveCommand.ChangeCanExecute();
@@ -135,9 +135,9 @@ namespace Study_Buddy.ViewModels
             await Shell.Current.GoToAsync("..");
         }
 
-        public async void ColourPicker()
+        /*public async void ColourPicker()
         {
             await Shell.Current.GoToAsync(nameof(ColourPickerPage));
-        }
+        }*/
     }
 }

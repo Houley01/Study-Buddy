@@ -14,7 +14,6 @@ namespace Study_Buddy.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
         public ITaskDataStore<Tasks> TaskDataStore => DependencyService.Get<ITaskDataStore<Tasks>>();
         public NoteDataStore NoteStore => DependencyService.Get<NoteDataStore>();
 

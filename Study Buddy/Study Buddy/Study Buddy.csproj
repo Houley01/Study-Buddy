@@ -19,9 +19,6 @@
     <Compile Remove="Views\NoteSharingPage %28copy%29.xaml.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Views\ColourPickerPage.xaml.cs">
-      <DependentUpon>ColourPickerPage.xaml</DependentUpon>
-    </Compile>
     <Compile Update="Views\TaskPlanPage.xaml.cs">
       <DependentUpon>TaskPlanPage.xaml</DependentUpon>
     </Compile>
