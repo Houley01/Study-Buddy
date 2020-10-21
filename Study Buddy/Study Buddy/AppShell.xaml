@@ -83,11 +83,11 @@
 
     <!-- <FlyoutItem FlyoutDisplayOptions="AsMultipleItems"> -->
     <!-- Landing page, must include one ShellContent set -->
-        <ShellContent Title="About" Icon="tab_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage}"/>
-        <ShellContent Title="Browse" Icon="tab_feed.png" Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />
-        <!-- WORKING HERE ADD PAGES TO ROUTE AND CONTENT TEMPLATE -->
-        <ShellContent Title="Note Sharing" Icon="" Route="NoteSharingPage" ContentTemplate="{DataTemplate noteviews:CreateNotePage}"/>
-        <ShellContent Title="Task Planning" Icon="" Route="TaskPage" ContentTemplate="{DataTemplate local:TaskPage}"/>
+    <ShellContent Title="Home" Route="Home" ContentTemplate="{DataTemplate local:AboutPage}"/>
+    <!--<ShellContent Title="Browse" Icon="tab_feed.png" Route="ItemsPage" ContentTemplate="{DataTemplate local:ItemsPage}" />-->
+    <!-- WORKING HERE ADD PAGES TO ROUTE AND CONTENT TEMPLATE -->
+    <ShellContent Title="Note Sharing"  Route="NoteSharingPage" ContentTemplate="{DataTemplate noteviews:CreateNotePage}"/>
+    <ShellContent Title="Task Planning" Route="TaskPage" ContentTemplate="{DataTemplate local:TaskPage}"/>
     <!-- </FlyoutItem> -->
 
 

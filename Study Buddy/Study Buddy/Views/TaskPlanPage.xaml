@@ -45,11 +45,6 @@
                     <Label Text="Task 5" FontSize="Medium" />
                     <Entry Text="{Binding Task5, Mode=TwoWay}" FontSize="Medium" />
                 </StackLayout>
-                <!--
-                <StackLayout Orientation="Horizontal">
-                    <Entry Text="{Binding ExpanderColour, Mode=TwoWay}" FontSize="Medium" IsReadOnly="False" BackgroundColor="{Binding ColorSeleted}" TextColor="#F99F"/>
-                    <Button Text="Colour Picker" Command="{Binding ColourPickerCommand}" HorizontalOptions="FillAndExpand"/>
-                </StackLayout> -->
                 
                 <StackLayout Orientation="Horizontal">
                     <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
