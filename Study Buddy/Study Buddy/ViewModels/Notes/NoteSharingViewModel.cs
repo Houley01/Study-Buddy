@@ -6,31 +6,33 @@ using System.Collections.Generic;
 using StudyBuddy.Models.Notes;
 using System.Linq;
 using System.Collections.ObjectModel;
+using System.Threading.Tasks;
 
 namespace Study_Buddy.ViewModels
 {
     public class NoteSharingViewModel : BaseViewModel
     {
-        private Subject[] subjects;
+        private IEnumerable<Subject> subjects;
         private Section[] sections;
         private ObservableCollection<StudyBuddy.Models.Notes.Note> currentNotes;
         private List<StudyBuddy.Models.Notes.Note> allNotes;
         private StudyBuddy.Models.Notes.Subject selectedSubject;
         private StudyBuddy.Models.Notes.Section selectedSection;
-
+        public ICommand SaveSection { get; private set; }
 
 
         public NoteSharingViewModel() : base()
         {
             Title = "Note Sharing";
             // PLACEHOLDER SUBJECTS 
+            SaveSection = new Command(async () => await NewSection());
             StudyBuddy.Models.Notes.Subject sub_iab330 = new StudyBuddy.Models.Notes.Subject
             {
                 Id = Guid.NewGuid(),
                 Name = "Mobile Application Development",
                 Code = "IAB330",
                 Sections = new List<StudyBuddy.Models.Notes.Section>()
-            };
+            };   
 
 
             StudyBuddy.Models.Notes.Subject sub_cab303 = new StudyBuddy.Models.Notes.Subject
@@ -84,7 +86,7 @@ namespace Study_Buddy.ViewModels
                 SubjectName = "CAB303"
             };
 
-            subjects = new Subject[] { sub_iab330, sub_cab303 };
+            subjects = NoteStore.GetSubjects().Result.ToList<Subject>();
             sections = new Section[] { cab303_week1, iab330_week1 };
 
             cab303_week1.Notes.Add(note_cab303);
@@ -97,20 +99,36 @@ namespace Study_Buddy.ViewModels
             this.currentSections = new ObservableCollection<Section>();
         }
 
-        public Subject[] SubjectList
+
+        public IEnumerable<Subject> SubjectList
         {
             get => subjects;
         }
 
-        private string newSection;
 
-        public string NewSection
+        private string newSectionName;
+        public string NewSectionName
         {
-            get { return newSection; }
+            get 
+            { 
+                return newSectionName;
+            }
             set
             {
-                SetProperty(ref newSection, value);
+                SetProperty(ref newSectionName, value);
             }
+
+        }
+
+        private async Task NewSection()
+        {
+            //Generate the section 
+            Section s = new Section
+            {
+                Id = Guid.NewGuid(),
+                Name = newSectionName,
+                Notes = new List<Note>()
+            };
         }
 
         // Gets the list of subjects (currently from placeholder mock data)
@@ -122,12 +140,9 @@ namespace Study_Buddy.ViewModels
                 if (selectedSubject == null || selectedSubject != value)
                 {
                     SetProperty(ref selectedSubject, value);
+                    currentNotes.Clear();
                     currentSections.Clear();
                     updateCurrentSections();
-                    if (selectedSubject == null || selectedSubject.Code != value.Code)
-                    { 
-                        GetNotesForSubjectCode(value.Code);
-                    }
                 }
             }
         }
@@ -202,7 +217,6 @@ namespace Study_Buddy.ViewModels
             {
                 if (selectedSection == null || selectedSection != value)
                 {
-                    selectedSection = null;
                     SetProperty(ref selectedSection, value);
                     if(selectedSection != null)
                     {

@@ -36,7 +36,7 @@
                         ItemsSource="{Binding CurrentSections}"
                         SelectedItem="{Binding SelectedSection}"
                         ItemDisplayBinding="{Binding Name}"/>
-                <Entry Text="{Binding NewSection}" />
+                <Entry Text="{Binding NewSectionName}" />
                 <Button Text="Create Section"
                         />
                 
