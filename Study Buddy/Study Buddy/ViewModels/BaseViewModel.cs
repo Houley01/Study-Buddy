@@ -31,6 +31,30 @@ namespace Study_Buddy.ViewModels
             set { SetProperty(ref title, value); }
         }
 
+        string headingText = string.Empty;
+
+        public string HeadingText
+        {
+            get { return headingText; }
+            set { SetProperty(ref headingText, value); }
+        }
+
+        string notesButtonText = string.Empty;
+
+        public string NotesButtonText
+        {
+            get { return notesButtonText; }
+            set { SetProperty(ref notesButtonText, value); }
+        }
+
+        string tasksButtonText = string.Empty;
+
+        public string TasksButtonText
+        {
+            get { return tasksButtonText; }
+            set { SetProperty(ref tasksButtonText, value); }
+        }
+
         protected bool SetProperty<T>(ref T backingStore, T value,
             [CallerMemberName] string propertyName = "",
             Action onChanged = null)

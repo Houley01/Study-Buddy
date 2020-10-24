@@ -10,6 +10,9 @@ namespace Study_Buddy.ViewModels
         public AboutViewModel()
         {
             Title = "About";
+            HeadingText = "Welcome to Studdy Buddy!";
+            NotesButtonText = "Notes";
+            TasksButtonText = "Tasks";
             OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamain-quickstart"));
         }
 

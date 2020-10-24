@@ -30,11 +30,11 @@
 
             <Image Grid.Row="0" Grid.RowSpan="3" Grid.Column="0" Grid.ColumnSpan="4" Opacity="0.5" Source="books.jpg"></Image>
 
-            <Label Text="Welcome to Studdy Buddy!" TextColor="{StaticResource Primary}" FontSize="Title" Grid.Row="1" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center"/>
+            <Label Text="{Binding HeadingText}" TextColor="{StaticResource Primary}" FontSize="Title" Grid.Row="1" Grid.RowSpan="3" Grid.Column="1" Grid.ColumnSpan="2" HorizontalTextAlignment="Center"/>
 
-            <Button Text="Notes" Grid.Row="3" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="4" Margin="10,5,10,0" IsEnabled="True" Clicked="GoToNotes"/>
+            <Button Text="{Binding NotesButtonText}" Grid.Row="3" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="4" Margin="10,5,10,0" IsEnabled="True" Clicked="GoToNotes"/>
 
-            <Button Text="Tasks" Grid.Row="5" Grid.RowSpan="2"  Grid.Column="0" Grid.ColumnSpan="4" Margin="10,5,10,10" IsEnabled="True" Clicked="GoToTasks"/>
+            <Button Text="{Binding TasksButtonText}" Grid.Row="5" Grid.RowSpan="2"  Grid.Column="0" Grid.ColumnSpan="4" Margin="10,5,10,10" IsEnabled="True" Clicked="GoToTasks"/>
         </Grid>
 
     </ScrollView>
