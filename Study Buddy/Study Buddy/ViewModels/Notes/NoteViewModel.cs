@@ -13,9 +13,9 @@ namespace Study_Buddy.ViewModels
     [QueryProperty("SubjectId", "_SubjectId")]
     public class NoteViewModel : BaseViewModel
     {
-        private Guid _NoteId { get; set; }
-        private Guid _SectionId { get; set; }
-        private Guid _SubjectId { get; set; }
+        private int _NoteId { get; set; }
+        private int _SectionId { get; set; }
+        private int _SubjectId { get; set; }
 
         private Note SelectedNote { get; }
 

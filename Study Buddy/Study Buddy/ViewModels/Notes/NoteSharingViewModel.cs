@@ -7,6 +7,7 @@ using StudyBuddy.Models.Notes;
 using System.Linq;
 using System.Collections.ObjectModel;
 using System.Threading.Tasks;
+using StudyBuddy.Views.Notes;
 
 namespace Study_Buddy.ViewModels
 {
@@ -19,6 +20,7 @@ namespace Study_Buddy.ViewModels
         private StudyBuddy.Models.Notes.Subject selectedSubject;
         private StudyBuddy.Models.Notes.Section selectedSection;
         public ICommand SaveSection { get; private set; }
+        public ICommand AddNewNotePage { get; private set; }
 
 
         public NoteSharingViewModel() : base()
@@ -26,11 +28,16 @@ namespace Study_Buddy.ViewModels
             Title = "Note Sharing";
             // PLACEHOLDER SUBJECTS 
             SaveSection = new Command(async () => await NewSection());
+            AddNewNotePage = new Command(NewNotePage);
             subjects = NoteStore.GetSubjects().Result.ToList<Subject>();
             this.currentNotes = new ObservableCollection<Note>();
             this.currentSections = new ObservableCollection<Section>();
         }
 
+        private async void NewNotePage(object obj)
+        {
+            await Shell.Current.GoToAsync(nameof(StudyBuddy.Views.Notes.CreateNotePage));
+        }
 
         public IEnumerable<Subject> SubjectList
         {
@@ -57,6 +64,9 @@ namespace Study_Buddy.ViewModels
             try
             {
                 NoteStore.addSection(newSectionName, selectedSubject);
+                updateCurrentSections();
+                this.SelectedSection = this.SelectedSubject.Sections.Where(x => x.Name == newSectionName).FirstOrDefault();
+                this.NewSectionName = string.Empty;
             }
             catch
             {
@@ -76,6 +86,7 @@ namespace Study_Buddy.ViewModels
                     currentNotes.Clear();
                     currentSections.Clear();
                     updateCurrentSections();
+                    
                 }
             }
         }
@@ -127,10 +138,10 @@ namespace Study_Buddy.ViewModels
         private void updateCurrentSections()
         {
             ObservableCollection<Section> subjectSections = new ObservableCollection<Section>(selectedSubject.Sections);
-            currentSections.Clear();
+            CurrentSections.Clear();
             foreach(Section sec in subjectSections)
             {
-                currentSections.Add(sec);
+                CurrentSections.Add(sec);
             }
         }
 
