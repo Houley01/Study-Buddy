@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Study_Buddy.ViewModels;
 using Study_Buddy.Views;
+using StudyBuddy.ViewModels;
 using Xamarin.Forms;
 
 namespace Study_Buddy
@@ -14,6 +15,7 @@ namespace Study_Buddy
             Routing.RegisterRoute(nameof(TaskPlanPage), typeof(TaskPlanPage));
             Routing.RegisterRoute(nameof(AboutPage), typeof(AboutPage));
             Routing.RegisterRoute(nameof(NoteSharingPage), typeof(NoteSharingPage));
+            Routing.RegisterRoute(nameof(StudyBuddy.Views.Notes.CreateNotePage), typeof(StudyBuddy.Views.Notes.CreateNotePage));
 
         }
 
