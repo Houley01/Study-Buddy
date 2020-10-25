@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Study_Buddy.Views.NoteSharingPage"
+             xmlns:n="clr-namespace:StudyBuddy.Models.Notes"
+             xmlns:vm="clr-namespace:Study_Buddy.ViewModels"
+             Title="{Binding Title}"
+             x:DataType="vm:NoteSharingViewModel">
+
+    <ContentPage.BindingContext>
+        <vm:NoteSharingViewModel />
+
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+            <ScrollView>
+            <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                <Picker x:Name="subject_picker" 
+                        Title="Select a subject"
+                        ItemsSource="{Binding SubjectList}"
+                        SelectedItem="{Binding SelectedSubject}"
+                        ItemDisplayBinding="{Binding Code}"/>
+                
+                <Picker x:Name="section_picker" 
+                        Title="Select a section"
+                        ItemsSource="{Binding CurrentSections}"
+                        SelectedItem="{Binding SelectedSection}"
+                        ItemDisplayBinding="{Binding Name}"/>
+                <Entry Text="{Binding NewSectionName}" />
+                <Button Text="Create Section"
+                        Command="{Binding SaveSection}"/>
+                
+                <CollectionView ItemsSource="{Binding CurrentNotes}" SelectedItem="{Binding SelectedNote, Mode=TwoWay}" SelectionMode="Single" SelectionChangedCommand="{Binding NoteTapped}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate x:DataType="n:Note">
+                            <Frame BorderColor="Gray"
+                               CornerRadius="5"
+                               Padding="8"> 
+                                <StackLayout>
+                                   <Label Text="{Binding Title}"
+                                   FontSize="Medium"
+                                   FontAttributes="Bold" />
+                                   <BoxView Color="Gray"
+                                   HeightRequest="2"
+                                   HorizontalOptions="Fill" />
+                                   <Label Text="{Binding Content}"/>
+                                   <Label Text="{Binding Author}" 
+                                          FontSize="12"
+                                          FontAttributes="Italic"/>
+                                </StackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+
+</ContentPage>
