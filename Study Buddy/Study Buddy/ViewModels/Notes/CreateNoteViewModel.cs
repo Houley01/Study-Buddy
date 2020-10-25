@@ -18,8 +18,8 @@ namespace StudyBuddy.ViewModels
     [QueryProperty("SectionId", "_NoteSectionId")]
     public class CreateNoteViewModel : BaseViewModel
     {
-        private Guid _NoteSubjectId {get; set;}
-        private Guid _NoteSectionId { get; set; }
+        private int _NoteSubjectId {get; set;}
+        private int _NoteSectionId { get; set; }
 
         private string title;
         public string NoteTitle      
@@ -63,7 +63,7 @@ namespace StudyBuddy.ViewModels
         {
             Note n = new Note()
             {
-                Id = Guid.NewGuid(),
+                Id = new Random().Next(),
                 Title = this.NoteTitle,
                 Content = this.NoteContent,
                 Tags = this.tags.Where(x=> x.Length > 0).ToArray(),
@@ -71,10 +71,6 @@ namespace StudyBuddy.ViewModels
             };
 
             var subject = (await NoteStore.GetSubjects()).Where(x => x.Id == this._NoteSubjectId).FirstOrDefault();
-
-            n.SubjectName = subject.Name;
-            n.SectionName = subject.Sections.Where(x => x.Id == this._NoteSectionId).FirstOrDefault().Name;
-
 
             await NoteStore.AddNote(this._NoteSubjectId, this._NoteSectionId, n);
         }

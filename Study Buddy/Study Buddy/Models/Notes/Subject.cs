@@ -5,7 +5,7 @@ namespace StudyBuddy.Models.Notes
 {
     public class Subject
     {
-        public Guid Id { get; set; } = new Guid();
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Code { get; set; }
         public List<Section> Sections { get; set; }
