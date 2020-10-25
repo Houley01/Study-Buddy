@@ -14,6 +14,7 @@ namespace Study_Buddy
         {
             InitializeComponent();
             DependencyService.Register<TaskDataStore>();
+            DependencyService.Register<NoteDataStore>();
             Device.SetFlags(new string[] { "Expander_Experimental" });
             MainPage = new AppShell();
         }
