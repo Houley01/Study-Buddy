@@ -64,6 +64,9 @@ namespace Study_Buddy.ViewModels
             try
             {
                 NoteStore.addSection(newSectionName, selectedSubject);
+                updateCurrentSections();
+                this.SelectedSection = this.SelectedSubject.Sections.Where(x => x.Name == newSectionName).FirstOrDefault();
+                this.NewSectionName = string.Empty;
             }
             catch
             {
@@ -83,6 +86,7 @@ namespace Study_Buddy.ViewModels
                     currentNotes.Clear();
                     currentSections.Clear();
                     updateCurrentSections();
+                    
                 }
             }
         }
@@ -134,10 +138,10 @@ namespace Study_Buddy.ViewModels
         private void updateCurrentSections()
         {
             ObservableCollection<Section> subjectSections = new ObservableCollection<Section>(selectedSubject.Sections);
-            currentSections.Clear();
+            CurrentSections.Clear();
             foreach(Section sec in subjectSections)
             {
-                currentSections.Add(sec);
+                CurrentSections.Add(sec);
             }
         }
 
