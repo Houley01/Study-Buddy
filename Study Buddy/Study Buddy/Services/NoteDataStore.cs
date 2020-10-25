@@ -34,6 +34,11 @@ namespace StudyBuddy.Services
             return await Task.FromResult(true);
         }
 
+        public void addSection(string name, Subject subject)
+        {
+            subject.Sections.Add(new Section() { Name = name });
+        }
+
 
         private void Populate_Subjects_Sections_Notes()
         {

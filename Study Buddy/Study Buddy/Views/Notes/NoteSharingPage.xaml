@@ -38,7 +38,7 @@
                         ItemDisplayBinding="{Binding Name}"/>
                 <Entry Text="{Binding NewSectionName}" />
                 <Button Text="Create Section"
-                        />
+                        Command="{Binding SaveSection}"/>
                 
                 <CollectionView ItemsSource="{Binding CurrentNotes}">
                     <CollectionView.ItemTemplate>

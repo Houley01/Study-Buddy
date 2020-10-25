@@ -26,75 +26,7 @@ namespace Study_Buddy.ViewModels
             Title = "Note Sharing";
             // PLACEHOLDER SUBJECTS 
             SaveSection = new Command(async () => await NewSection());
-            StudyBuddy.Models.Notes.Subject sub_iab330 = new StudyBuddy.Models.Notes.Subject
-            {
-                Id = Guid.NewGuid(),
-                Name = "Mobile Application Development",
-                Code = "IAB330",
-                Sections = new List<StudyBuddy.Models.Notes.Section>()
-            };   
-
-
-            StudyBuddy.Models.Notes.Subject sub_cab303 = new StudyBuddy.Models.Notes.Subject
-            {
-                Id = Guid.NewGuid(),
-                Name = "Networks",
-                Code = "CAB303",
-                Sections = new List<StudyBuddy.Models.Notes.Section>()
-            };
-            // generate cab303 placeholder sections
-            StudyBuddy.Models.Notes.Section cab303_week1 = new StudyBuddy.Models.Notes.Section
-            {
-                Id = Guid.NewGuid(),
-                Name = "CAB303 Week 1",
-                Notes = new List<Note>()
-            };
-            sub_cab303.Sections.Add(cab303_week1);
-
-            // PLACEHOLDER NOTES
-            StudyBuddy.Models.Notes.Note note_iab330 = new StudyBuddy.Models.Notes.Note
-            {
-                Id = Guid.NewGuid(),
-                Title = "Week 4 Lecture",
-                Author = "John Smith",
-                Content = "fjkdlsjfkldjsfklsdjklfjsdklfjsd",
-                Tags = new string[5],
-                Visibility = "",
-                SectionName = "IAB330 Week 1",
-                SubjectName = "IAB330"
-
-            };
-
-            // generate sections for iab330
-            StudyBuddy.Models.Notes.Section iab330_week1 = new StudyBuddy.Models.Notes.Section
-            {
-                Id = Guid.NewGuid(),
-                Name = "IAB330 Week 1",
-                Notes = new List<Note>()
-            };
-            sub_iab330.Sections.Add(iab330_week1);
-
-            StudyBuddy.Models.Notes.Note note_cab303 = new StudyBuddy.Models.Notes.Note
-            {
-                Id = Guid.NewGuid(),
-                Title = "Week 4 Lecture",
-                Author = "John Smith",
-                Content = "pwoerpewjfdskl",
-                Tags = new string[5],
-                Visibility = "",
-                SectionName = "CAB303 Week 1",
-                SubjectName = "CAB303"
-            };
-
             subjects = NoteStore.GetSubjects().Result.ToList<Subject>();
-            sections = new Section[] { cab303_week1, iab330_week1 };
-
-            cab303_week1.Notes.Add(note_cab303);
-            iab330_week1.Notes.Add(note_iab330);
-
-            this.allNotes = new List<Note>();
-            allNotes.Add(note_iab330);
-            allNotes.Add(note_cab303);
             this.currentNotes = new ObservableCollection<Note>();
             this.currentSections = new ObservableCollection<Section>();
         }
@@ -122,13 +54,14 @@ namespace Study_Buddy.ViewModels
 
         private async Task NewSection()
         {
-            //Generate the section 
-            Section s = new Section
+            try
             {
-                Id = Guid.NewGuid(),
-                Name = newSectionName,
-                Notes = new List<Note>()
-            };
+                NoteStore.addSection(newSectionName, selectedSubject);
+            }
+            catch
+            {
+                return;
+            }
         }
 
         // Gets the list of subjects (currently from placeholder mock data)
@@ -144,15 +77,6 @@ namespace Study_Buddy.ViewModels
                     currentSections.Clear();
                     updateCurrentSections();
                 }
-            }
-        }
-
-        private void GetNotesForSubjectCode(string code)
-        {
-            currentNotes.Clear();
-            foreach (Note x in allNotes.Where(x => x.SubjectName == code))
-            {
-                currentNotes.Add(x);
             }
         }
 
