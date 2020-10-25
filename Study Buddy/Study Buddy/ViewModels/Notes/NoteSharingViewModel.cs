@@ -19,9 +19,10 @@ namespace Study_Buddy.ViewModels
         private List<StudyBuddy.Models.Notes.Note> allNotes;
         private StudyBuddy.Models.Notes.Subject selectedSubject;
         private StudyBuddy.Models.Notes.Section selectedSection;
+        private StudyBuddy.Models.Notes.Note selectedNote;
         public ICommand SaveSection { get; private set; }
         public ICommand AddNewNotePage { get; private set; }
-
+        public ICommand NoteTapped { get; private set; }
 
         public NoteSharingViewModel() : base()
         {
@@ -29,9 +30,15 @@ namespace Study_Buddy.ViewModels
             // PLACEHOLDER SUBJECTS 
             SaveSection = new Command(async () => await NewSection());
             AddNewNotePage = new Command(NewNotePage);
+            NoteTapped = new Command(async (x) => await NavToNote((Note)x));
             subjects = NoteStore.GetSubjects().Result.ToList<Subject>();
             this.currentNotes = new ObservableCollection<Note>();
             this.currentSections = new ObservableCollection<Section>();
+        }
+
+        private async Task NavToNote(Note TappedNote)
+        {
+            await Shell.Current.GoToAsync($"{nameof(NoteDetailPage)}?NoteId={TappedNote.Id}&SectionId={SelectedSection.Id}&SubjectId={SelectedSubject.Id}");
         }
 
         private async void NewNotePage(object obj)
@@ -73,6 +80,17 @@ namespace Study_Buddy.ViewModels
                 return;
             }
         }
+
+        public Note SelectedNote
+        {
+            get { return selectedNote; }
+            set
+            {
+                SetProperty(ref selectedNote, value);
+                this.NavToNote(value);
+            }
+        }
+
 
         // Gets the list of subjects (currently from placeholder mock data)
         public Subject SelectedSubject

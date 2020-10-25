@@ -12,13 +12,6 @@
 
     </ContentPage.BindingContext>
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Create Note"
-                 Command="{Binding AddNewNotePage}"/>
-    </ContentPage.ToolbarItems>
-    
-    
-    
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="Accent">#96d1ff</Color>
@@ -47,7 +40,7 @@
                 <Button Text="Create Section"
                         Command="{Binding SaveSection}"/>
                 
-                <CollectionView ItemsSource="{Binding CurrentNotes}">
+                <CollectionView ItemsSource="{Binding CurrentNotes}" SelectedItem="{Binding SelectedNote, Mode=TwoWay}" SelectionMode="Single">
                     <CollectionView.ItemTemplate>
                         <DataTemplate x:DataType="n:Note">
                             <Frame BorderColor="Gray"
