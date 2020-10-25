@@ -40,7 +40,7 @@
                 <Button Text="Create Section"
                         Command="{Binding SaveSection}"/>
                 
-                <CollectionView ItemsSource="{Binding CurrentNotes}" SelectedItem="{Binding SelectedNote, Mode=TwoWay}" SelectionMode="Single">
+                <CollectionView ItemsSource="{Binding CurrentNotes}" SelectedItem="{Binding SelectedNote, Mode=TwoWay}" SelectionMode="Single" SelectionChangedCommand="{Binding NoteTapped}">
                     <CollectionView.ItemTemplate>
                         <DataTemplate x:DataType="n:Note">
                             <Frame BorderColor="Gray"
