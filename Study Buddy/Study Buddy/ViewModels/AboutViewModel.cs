@@ -25,7 +25,7 @@ namespace Study_Buddy.ViewModels
 
         private async void GoToNotePage(object obj)
         {
-            await Shell.Current.GoToAsync("//NoteSharingPage");
+            await Shell.Current.GoToAsync("NoteSharingPage");
         }
 
         private async void GoToTasksPage(object obj)
